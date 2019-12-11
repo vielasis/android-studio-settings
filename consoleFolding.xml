@@ -2,7 +2,10 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
+        <option value="chatty" />
+        <option value="EGL_emulation" />
         <option value="eglCodecCommon" />
+        <option value="OpenGLRenderer" />
       </list>
     </option>
   </component>
