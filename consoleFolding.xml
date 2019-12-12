@@ -5,7 +5,10 @@
         <option value="chatty" />
         <option value="EGL_emulation" />
         <option value="eglCodecCommon" />
+        <option value="FA" />
         <option value="OpenGLRenderer" />
+        <option value="System" />
+        <option value="ADBMobile" />
       </list>
     </option>
   </component>
