@@ -2,13 +2,14 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
+        <option value="ADBMobile" />
         <option value="chatty" />
         <option value="EGL_emulation" />
         <option value="eglCodecCommon" />
         <option value="FA" />
         <option value="OpenGLRenderer" />
         <option value="System" />
-        <option value="ADBMobile" />
+        <option value="GnssHAL_GnssInterface" />
       </list>
     </option>
   </component>
