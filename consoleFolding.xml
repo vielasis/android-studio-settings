@@ -7,9 +7,10 @@
         <option value="EGL_emulation" />
         <option value="eglCodecCommon" />
         <option value="FA" />
+        <option value="GnssHAL_GnssInterface" />
         <option value="OpenGLRenderer" />
         <option value="System" />
-        <option value="GnssHAL_GnssInterface" />
+        <option value="gralloc_ranchu" />
       </list>
     </option>
   </component>
