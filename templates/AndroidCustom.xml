@@ -1,0 +1,14 @@
+<templateSet group="AndroidCustom">
+  <template name="ser" value="@com.google.gson.annotations.SerializedName(&quot;$varname$&quot;) val $varname$: $type$" description="Gson @SerializedName Kotlin" toReformat="false" toShortenFQNames="true">
+    <variable name="varname" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="completeSmart()" defaultValue="&quot;String&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+      <option name="KOTLIN_EXPRESSION" value="false" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_STATEMENT" value="false" />
+      <option name="KOTLIN_TOPLEVEL" value="false" />
+    </context>
+  </template>
+</templateSet>
