@@ -8,9 +8,10 @@
         <option value="eglCodecCommon" />
         <option value="FA" />
         <option value="GnssHAL_GnssInterface" />
+        <option value="gralloc_ranchu" />
         <option value="OpenGLRenderer" />
         <option value="System" />
-        <option value="gralloc_ranchu" />
+        <option value="memtrack" />
       </list>
     </option>
   </component>
