@@ -11,7 +11,7 @@
       <option name="KOTLIN_TOPLEVEL" value="false" />
     </context>
   </template>
-  <template name="newInst" value="companion object {&#10;    const val TAG = &quot;$KCLASS_SHORT$&quot;&#10;    fun newInstance(args: android.os.Bundle): $KCLASS$ {&#10;        return $KCLASS$().apply {&#10;            arguments = args&#10;        }&#10;    }&#10;}" description="Fragment new instance" toReformat="true" toShortenFQNames="true">
+  <template name="newInst" value="companion object {&#10;    const val TAG = &quot;$KCLASS_SHORT$&quot;&#10;    fun newInstance(args: android.os.Bundle?): $KCLASS$ {&#10;        return $KCLASS$().apply {&#10;            arguments = args&#10;        }&#10;    }&#10;}" description="Fragment new instance" toReformat="true" toShortenFQNames="true">
     <variable name="KCLASS_SHORT" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <variable name="KCLASS" expression="kotlinClassName()" defaultValue="fileNameWithoutExtension()" alwaysStopAt="true" />
     <context>
