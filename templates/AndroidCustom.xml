@@ -20,7 +20,7 @@
     </context>
   </template>
   <template name="plv" value="private lateinit var $KVAR$: $KCLASS$" description="private lateinit var" toReformat="false" toShortenFQNames="true">
-    <variable name="KVAR" expression="kotlinSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="KVAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="KCLASS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN_CLASS" value="true" />
