@@ -2,10 +2,11 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
+        <option value="amSize: unknow param 0x00008b4b" />
         <option value="CCJob" />
         <option value="eglCodecCommon" />
         <option value="libprocessgroup" />
-        <option value="amSize: unknow param 0x00008b4b" />
+        <option value="Animator" />
       </list>
     </option>
   </component>
