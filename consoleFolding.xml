@@ -3,10 +3,11 @@
     <option name="addedPositive">
       <list>
         <option value="amSize: unknow param 0x00008b4b" />
+        <option value="Animator" />
         <option value="CCJob" />
         <option value="eglCodecCommon" />
         <option value="libprocessgroup" />
-        <option value="Animator" />
+        <option value="FA" />
       </list>
     </option>
   </component>
