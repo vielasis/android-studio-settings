@@ -3,6 +3,7 @@
     <option name="addedPositive">
       <list>
         <option value="IInputConnectionWrapper" />
+        <option value="CCJob" />
       </list>
     </option>
   </component>
