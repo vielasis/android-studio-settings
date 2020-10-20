@@ -2,8 +2,8 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
-        <option value="GnssHAL_GnssInterface" />
-        <option value="Finsky" />
+        <option value="IInputConnectionWrapper" />
+        <option value="CCJob" />
       </list>
     </option>
   </component>
