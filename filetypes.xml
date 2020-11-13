@@ -4,6 +4,7 @@
       <mapping ext="webp" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="dashboard-roaming" type="PLAIN_TEXT" />
       <mapping pattern="TAGFILE" type="PLAIN_TEXT" />
       <mapping pattern="queue-file" type="PLAIN_TEXT" />
       <mapping pattern="dashboard" type="PLAIN_TEXT" />
