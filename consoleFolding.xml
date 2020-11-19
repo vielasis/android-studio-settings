@@ -6,9 +6,11 @@
         <option value="CCJob" />
         <option value="EGL_emulation" />
         <option value="eglCodecCommon" />
+        <option value="GnssHAL_GnssInterface" />
+        <option value="HostConnection" />
         <option value="IInputConnectionWrapper" />
         <option value="libEGL" />
-        <option value="HostConnection" />
+        <option value="I/InputDispatcher" />
       </list>
     </option>
   </component>
