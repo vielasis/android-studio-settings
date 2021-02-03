@@ -1,0 +1,45 @@
+<templateSet group="AndroidMockitoKotlin">
+  <template name="mock" value="@org.mockito.Mock&#10;private lateinit var $varname$: $type$" description="@Mock" toReformat="true" toShortenFQNames="true">
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="varname" expression="camelCase(type)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="injM" value="@org.mockito.InjectMocks&#10;private lateinit var $varname$: $type$" description="@InjectMocks" toReformat="true" toShortenFQNames="true">
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="varname" expression="camelCase(type)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="test" value="@org.junit.Test&#10;fun `$testName$`() {&#10;    $END$&#10;}" description="@Test" toReformat="true" toShortenFQNames="true">
+    <variable name="testName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="before" value="@org.junit.Before&#10;fun setup() {&#10;    $END$&#10;}" description="@Before" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="after" value="@org.junit.After&#10;fun teardown() {&#10;    $END$&#10;}" description="@After" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="testC" value="class $className$UnitTest {&#10;    $END$&#10;}" description="Make test class" toReformat="true" toShortenFQNames="true">
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="kwen" value="org.mockito.Mockito.`when`($this$).thenReturn($that$)" description="mockito when" toReformat="true" toShortenFQNames="true">
+    <variable name="this" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="that" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
