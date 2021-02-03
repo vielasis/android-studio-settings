@@ -1,8 +1,8 @@
 <templateSet group="AndroidCustom">
-  <template name="ser" value="@com.google.gson.annotations.SerializedName(&quot;$FIELDNAME$&quot;) val $VARNAME$: $TYPE$" description="Gson @SerializedName Kotlin" toReformat="false" toShortenFQNames="true">
-    <variable name="TYPE" expression="completeSmart()" defaultValue="&quot;String&quot;" alwaysStopAt="true" />
-    <variable name="VARNAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="FIELDNAME" expression="lowercaseAndDash(VARNAME)" defaultValue="" alwaysStopAt="false" />
+  <template name="ser" value="@com.google.gson.annotations.SerializedName(&quot;$jsonFieldName$&quot;) val $varName$: $type$" description="Gson @SerializedName Kotlin" toReformat="false" toShortenFQNames="true">
+    <variable name="type" expression="completeSmart()" defaultValue="&quot;String&quot;" alwaysStopAt="true" />
+    <variable name="varName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="jsonFieldName" expression="snakeCase(varName)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="KOTLIN" value="true" />
       <option name="KOTLIN_COMMENT" value="false" />
@@ -12,29 +12,65 @@
       <option name="KOTLIN_TOPLEVEL" value="false" />
     </context>
   </template>
-  <template name="newInst" value="companion object {&#10;    const val TAG = &quot;$KCLASS_SHORT$&quot;&#10;    fun newInstance(args: android.os.Bundle?): $KCLASS$ {&#10;        return $KCLASS$().apply {&#10;            arguments = args&#10;        }&#10;    }&#10;}" description="Fragment new instance" toReformat="true" toShortenFQNames="true">
-    <variable name="KCLASS_SHORT" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
-    <variable name="KCLASS" expression="kotlinClassName()" defaultValue="fileNameWithoutExtension()" alwaysStopAt="true" />
+  <template name="newInst" value="companion object {&#10;    const val TAG = &quot;$filename$&quot;&#10;    fun newInstance(args: android.os.Bundle?): $kClassName$ {&#10;        return $kClassName$().apply {&#10;            arguments = args&#10;        }&#10;    }&#10;}" description="Fragment new instance" toReformat="true" toShortenFQNames="true">
+    <variable name="filename" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <variable name="kClassName" expression="kotlinClassName()" defaultValue="fileNameWithoutExtension()" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN_CLASS" value="true" />
       <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
-  <template name="plv" value="private lateinit var $KVAR$: $KCLASS$" description="private lateinit var" toReformat="false" toShortenFQNames="true">
-    <variable name="KCLASS" expression="complete()" defaultValue="" alwaysStopAt="true" />
-    <variable name="KVAR" expression="decapitalize(KCLASS)" defaultValue="" alwaysStopAt="true" />
+  <template name="plv" value="private lateinit var $varname$: $class$" description="private lateinit var" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="varname" expression="decapitalize(class)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN_CLASS" value="true" />
       <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
-  <template name="del" value="private val $VAR_NAME$: $VIEWMODEL_CLASS$ by $DELEGATE$" description="delegated property" toReformat="true" toShortenFQNames="true">
-    <variable name="VIEWMODEL_CLASS" expression="complete()" defaultValue="" alwaysStopAt="true" />
-    <variable name="VAR_NAME" expression="decapitalize(VIEWMODEL_CLASS)" defaultValue="" alwaysStopAt="true" />
-    <variable name="DELEGATE" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+  <template name="del" value="private val $varName$: $vmClass$ by $delegate$" description="delegated property" toReformat="true" toShortenFQNames="true">
+    <variable name="vmClass" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="varName" expression="decapitalize(VIEWMODEL_CLASS)" defaultValue="" alwaysStopAt="true" />
+    <variable name="delegate" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN_CLASS" value="true" />
       <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="fbc" value="findViewById&lt;$cast$&gt;(R.id.$resId$)" description="findViewById with cast" toReformat="true" toShortenFQNames="true">
+    <variable name="resId" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <variable name="cast" expression="expectedType()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_CLASS" value="false" />
+      <option name="KOTLIN_COMMENT" value="false" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_TOPLEVEL" value="false" />
+    </context>
+  </template>
+  <template name="pvar" value="private var $varName$: $class$ = $iv$" description="private field" toReformat="true" toShortenFQNames="true">
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="varName" expression="decapitalize(class)" defaultValue="" alwaysStopAt="true" />
+    <variable name="iv" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="obs" value="$liveData$.observe(&#10;    $lifecycleOwner$,&#10;    androidx.lifecycle.Observer {&#10;        $cursor$$END$&#10;    }&#10;)" description="LiveData observe" toReformat="true" toShortenFQNames="true">
+    <variable name="liveData" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="lifecycleOwner" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="subs" value="$emitter$.subscribe(&#10;    { $onNext$ },&#10;    { $onError$ }&#10;)" description="Rx subscribe" toReformat="true" toShortenFQNames="true">
+    <variable name="emitter" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="onNext" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="onError" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
