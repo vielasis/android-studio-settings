@@ -8,9 +8,10 @@
         <option value="eglCodecCommon" />
         <option value="GnssHAL_GnssInterface" />
         <option value="HostConnection" />
+        <option value="I/InputDispatcher" />
         <option value="IInputConnectionWrapper" />
         <option value="libEGL" />
-        <option value="I/InputDispatcher" />
+        <option value="RollingLogInterceptor" />
       </list>
     </option>
   </component>
