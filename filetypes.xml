@@ -8,6 +8,7 @@
       <mapping pattern="TAGFILE" type="PLAIN_TEXT" />
       <mapping pattern="queue-file" type="PLAIN_TEXT" />
       <mapping pattern="dashboard" type="PLAIN_TEXT" />
+      <mapping ext="flat" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
     </extensionMap>
