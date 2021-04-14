@@ -4,6 +4,7 @@
       <list>
         <option value="835" />
         <option value="CCJob" />
+        <option value="CleverTap" />
         <option value="EGL_emulation" />
         <option value="eglCodecCommon" />
         <option value="GnssHAL_GnssInterface" />
@@ -11,6 +12,7 @@
         <option value="I/InputDispatcher" />
         <option value="IInputConnectionWrapper" />
         <option value="libEGL" />
+        <option value="AssistStructure" />
       </list>
     </option>
   </component>
