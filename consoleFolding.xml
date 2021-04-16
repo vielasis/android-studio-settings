@@ -3,16 +3,20 @@
     <option name="addedPositive">
       <list>
         <option value="835" />
+        <option value="AssistStructure" />
         <option value="CCJob" />
         <option value="CleverTap" />
         <option value="EGL_emulation" />
         <option value="eglCodecCommon" />
         <option value="GnssHAL_GnssInterface" />
+        <option value="goldfish-address-space" />
         <option value="HostConnection" />
         <option value="I/InputDispatcher" />
         <option value="IInputConnectionWrapper" />
         <option value="libEGL" />
-        <option value="AssistStructure" />
+        <option value="system_server" />
+        <option value="TelephonyPermissions" />
+        <option value="Finsky" />
       </list>
     </option>
   </component>
