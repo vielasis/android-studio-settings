@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'master'" />
-    <option name="defaultScopeName" value="Project 'master'" />
-    <option name="SEARCH_SCOPE" value="Project 'master'" />
+    <option name="customScope" value="Directory '.../accmng/src/main/java/com/circles/selfcare/v2/sphere [master.accmng]'" />
+    <option name="defaultScopeName" value="Directory '.../accmng/src/main/java/com/circles/selfcare/v2/sphere [master.accmng]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../accmng/src/main/java/com/circles/selfcare/v2/sphere [master.accmng]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
