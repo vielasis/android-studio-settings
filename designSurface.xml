@@ -1,0 +1,10 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="accmng/src/main/res/layout/fragment_manage_subscriptions.xml" value="0.14159067882472137" />
+        <entry key="accmng/src/main/res/layout/fragment_shop_subscriptions.xml" value="0.14159067882472137" />
+      </map>
+    </option>
+  </component>
+</application>
