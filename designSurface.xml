@@ -18,7 +18,8 @@
         <entry key="common-ui/src/main/res/layout/layout_quilt_component_telco_detail.xml" value="0.13703140830800406" />
         <entry key="common-ui/src/main/res/layout/layout_quilt_component_tile_notification.xml" value="0.13703140830800406" />
         <entry key="common-ui/src/main/res/layout/quilt_comp_tile_nav_right.xml" value="0.33" />
-        <entry key="common-ui/src/main/res/layout/quilt_comp_tile_nav_right_elevated_card.xml" value="0.2581053698074975" />
+        <entry key="common-ui/src/main/res/layout/quilt_comp_tile_nav_right_elevated_card.xml" value="0.5" />
+        <entry key="common-ui/src/main/res/layout/stub_layout_consent.xml" value="0.5" />
       </map>
     </option>
   </component>
