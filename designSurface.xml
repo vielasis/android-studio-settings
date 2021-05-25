@@ -27,7 +27,7 @@
         <entry key="accmng/src/main/res/layout/fragment_sphere_pin_base.xml" value="0.30625" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_success_activation.xml" value="0.30625" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_temp_account_blocked.xml" value="0.30625" />
-        <entry key="accmng/src/main/res/layout/fragment_sphere_topup.xml" value="0.3234375" />
+        <entry key="accmng/src/main/res/layout/fragment_sphere_topup.xml" value="0.1" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_topup_status.xml" value="0.30625" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_transaction_detail.xml" value="0.30625" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_transactions.xml" value="0.30625" />
