@@ -6,6 +6,7 @@
         <entry key="accmng/src/main/res/layout/dashboard_bills_layout.xml" value="0.33" />
         <entry key="accmng/src/main/res/layout/fragment_article.xml" value="0.13703140830800406" />
         <entry key="accmng/src/main/res/layout/fragment_base_mvvmv2.xml" value="0.15324214792299898" />
+        <entry key="accmng/src/main/res/layout/fragment_email_set.xml" value="0.25925925925925924" />
         <entry key="accmng/src/main/res/layout/fragment_manage_subscriptions.xml" value="0.1529888551165147" />
         <entry key="accmng/src/main/res/layout/fragment_order_history.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/fragment_shop_subscriptions.xml" value="0.15324214792299898" />
@@ -19,6 +20,7 @@
         <entry key="accmng/src/main/res/layout/fragment_sphere_dashboard_intro.xml" value="0.25925925925925924" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_delete_account_confirm.xml" value="0.25925925925925924" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_email_confirmation.xml" value="0.3234375" />
+        <entry key="accmng/src/main/res/layout/fragment_sphere_email_verification.xml" value="0.25925925925925924" />
         <entry key="accmng/src/main/res/layout/intl_layout_settings.xml" value="0.15324214792299898" />
         <entry key="accmng/src/main/res/layout/layout_plan_promo.xml" value="0.25925925925925924" />
         <entry key="accmng/src/main/res/layout/layout_quilt_component_elevated_card_list.xml" value="0.13703140830800406" />
