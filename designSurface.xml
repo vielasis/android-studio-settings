@@ -4,6 +4,7 @@
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="accmng/src/main/res/layout/dashboard_bills_layout.xml" value="0.33" />
+        <entry key="accmng/src/main/res/layout/dialog_update_app.xml" value="0.24947916666666667" />
         <entry key="accmng/src/main/res/layout/fragment_article.xml" value="0.13703140830800406" />
         <entry key="accmng/src/main/res/layout/fragment_base_mvvmv2.xml" value="0.15324214792299898" />
         <entry key="accmng/src/main/res/layout/fragment_email_set.xml" value="0.25925925925925924" />
