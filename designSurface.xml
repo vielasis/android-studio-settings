@@ -21,28 +21,30 @@
         <entry key="accmng/src/main/res/layout/fragment_sphere_base_success.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_card_confirmation.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_card_order_v2.xml" value="0.1" />
-        <entry key="accmng/src/main/res/layout/fragment_sphere_countries.xml" value="0.25925925925925924" />
+        <entry key="accmng/src/main/res/layout/fragment_sphere_countries.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_dashboard.xml" value="0.5307291666666667" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_dashboard_intro.xml" value="0.5307291666666667" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_delete_account_confirm.xml" value="0.25925925925925924" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_email_confirmation.xml" value="0.3234375" />
-        <entry key="accmng/src/main/res/layout/fragment_sphere_email_verification.xml" value="0.25925925925925924" />
-        <entry key="accmng/src/main/res/layout/fragment_sphere_main.xml" value="0.30625" />
-        <entry key="accmng/src/main/res/layout/fragment_sphere_manage_account.xml" value="0.30625" />
-        <entry key="accmng/src/main/res/layout/fragment_sphere_order_confirmation.xml" value="0.30625" />
+        <entry key="accmng/src/main/res/layout/fragment_sphere_email_verification.xml" value="0.3145833333333333" />
+        <entry key="accmng/src/main/res/layout/fragment_sphere_main.xml" value="0.3145833333333333" />
+        <entry key="accmng/src/main/res/layout/fragment_sphere_manage_account.xml" value="0.3145833333333333" />
+        <entry key="accmng/src/main/res/layout/fragment_sphere_order_confirmation.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_pin_base.xml" value="0.30625" />
-        <entry key="accmng/src/main/res/layout/fragment_sphere_success_activation.xml" value="0.30625" />
-        <entry key="accmng/src/main/res/layout/fragment_sphere_temp_account_blocked.xml" value="0.30625" />
+        <entry key="accmng/src/main/res/layout/fragment_sphere_success_activation.xml" value="0.3145833333333333" />
+        <entry key="accmng/src/main/res/layout/fragment_sphere_temp_account_blocked.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_topup.xml" value="0.1" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_topup_status.xml" value="0.30625" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_transaction_detail.xml" value="0.3145833333333333" />
-        <entry key="accmng/src/main/res/layout/fragment_sphere_transactions.xml" value="0.30625" />
+        <entry key="accmng/src/main/res/layout/fragment_sphere_transactions.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_unlock_card_success.xml" value="0.30625" />
         <entry key="accmng/src/main/res/layout/intl_layout_settings.xml" value="0.15324214792299898" />
         <entry key="accmng/src/main/res/layout/item_sphere_country.xml" value="0.3145833333333333" />
+        <entry key="accmng/src/main/res/layout/item_sphere_intro_feature.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/item_sphere_mngacct_card.xml" value="0.1" />
         <entry key="accmng/src/main/res/layout/layout_plan_promo.xml" value="0.25925925925925924" />
         <entry key="accmng/src/main/res/layout/layout_quilt_component_elevated_card_list.xml" value="0.13703140830800406" />
+        <entry key="accmng/src/main/res/layout/layout_sphere_kyc_timings_list.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/layout_unlimited_data_opt_in_success.xml" value="0.25" />
         <entry key="accmng/src/main/res/layout/list_button_footer_view.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/list_item_country_header.xml" value="0.3145833333333333" />
