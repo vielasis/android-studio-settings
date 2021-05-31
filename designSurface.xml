@@ -42,6 +42,8 @@
         <entry key="accmng/src/main/res/layout/item_sphere_country.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/item_sphere_intro_feature.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/item_sphere_mngacct_card.xml" value="0.1" />
+        <entry key="accmng/src/main/res/layout/layout_delivery_reason.xml" value="0.3145833333333333" />
+        <entry key="accmng/src/main/res/layout/layout_delivery_time_slot.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/layout_plan_promo.xml" value="0.25925925925925924" />
         <entry key="accmng/src/main/res/layout/layout_quilt_component_elevated_card_list.xml" value="0.13703140830800406" />
         <entry key="accmng/src/main/res/layout/layout_sphere_kyc_timings_list.xml" value="0.3145833333333333" />
