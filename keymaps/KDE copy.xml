@@ -1,0 +1,5 @@
+<keymap version="1" name="KDE copy" parent="Default for KDE">
+  <action id="Tool_External Tools_ktlint current file">
+    <keyboard-shortcut first-keystroke="ctrl alt released k" />
+  </action>
+</keymap>

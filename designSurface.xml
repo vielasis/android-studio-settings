@@ -19,8 +19,8 @@
         <entry key="accmng/src/main/res/layout/fragment_sphere_base_loading.xml" value="0.2046875" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_card_order_v2.xml" value="0.1" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_countries.xml" value="0.25925925925925924" />
-        <entry key="accmng/src/main/res/layout/fragment_sphere_dashboard.xml" value="0.30625" />
-        <entry key="accmng/src/main/res/layout/fragment_sphere_dashboard_intro.xml" value="0.25925925925925924" />
+        <entry key="accmng/src/main/res/layout/fragment_sphere_dashboard.xml" value="0.5307291666666667" />
+        <entry key="accmng/src/main/res/layout/fragment_sphere_dashboard_intro.xml" value="0.5307291666666667" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_delete_account_confirm.xml" value="0.25925925925925924" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_email_confirmation.xml" value="0.3234375" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_email_verification.xml" value="0.25925925925925924" />
