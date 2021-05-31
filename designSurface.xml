@@ -15,8 +15,11 @@
         <entry key="accmng/src/main/res/layout/fragment_shop_subscriptions.xml" value="0.15324214792299898" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_activate_passport.xml" value="0.2046875" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_activate_physical_card.xml" value="0.25925925925925924" />
-        <entry key="accmng/src/main/res/layout/fragment_sphere_arced_base.xml" value="0.2046875" />
+        <entry key="accmng/src/main/res/layout/fragment_sphere_active_biometric.xml" value="0.3145833333333333" />
+        <entry key="accmng/src/main/res/layout/fragment_sphere_arced_base.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_base_loading.xml" value="0.2046875" />
+        <entry key="accmng/src/main/res/layout/fragment_sphere_base_success.xml" value="0.3145833333333333" />
+        <entry key="accmng/src/main/res/layout/fragment_sphere_card_confirmation.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_card_order_v2.xml" value="0.1" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_countries.xml" value="0.25925925925925924" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_dashboard.xml" value="0.5307291666666667" />
@@ -32,13 +35,17 @@
         <entry key="accmng/src/main/res/layout/fragment_sphere_temp_account_blocked.xml" value="0.30625" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_topup.xml" value="0.1" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_topup_status.xml" value="0.30625" />
-        <entry key="accmng/src/main/res/layout/fragment_sphere_transaction_detail.xml" value="0.30625" />
+        <entry key="accmng/src/main/res/layout/fragment_sphere_transaction_detail.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_transactions.xml" value="0.30625" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_unlock_card_success.xml" value="0.30625" />
         <entry key="accmng/src/main/res/layout/intl_layout_settings.xml" value="0.15324214792299898" />
+        <entry key="accmng/src/main/res/layout/item_sphere_country.xml" value="0.3145833333333333" />
+        <entry key="accmng/src/main/res/layout/item_sphere_mngacct_card.xml" value="0.1" />
         <entry key="accmng/src/main/res/layout/layout_plan_promo.xml" value="0.25925925925925924" />
         <entry key="accmng/src/main/res/layout/layout_quilt_component_elevated_card_list.xml" value="0.13703140830800406" />
         <entry key="accmng/src/main/res/layout/layout_unlimited_data_opt_in_success.xml" value="0.25" />
+        <entry key="accmng/src/main/res/layout/list_button_footer_view.xml" value="0.3145833333333333" />
+        <entry key="accmng/src/main/res/layout/list_item_country_header.xml" value="0.3145833333333333" />
         <entry key="common-ui/src/main/res/drawable/bg_btn_primary.xml" value="0.296875" />
         <entry key="common-ui/src/main/res/drawable/bg_btn_primary_base.xml" value="0.296875" />
         <entry key="common-ui/src/main/res/drawable/bg_btn_primary_outlined.xml" value="0.296875" />
