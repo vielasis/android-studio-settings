@@ -13,6 +13,7 @@
         <entry key="accmng/src/main/res/layout/fragment_email_set.xml" value="0.25925925925925924" />
         <entry key="accmng/src/main/res/layout/fragment_manage_subscriptions.xml" value="0.1529888551165147" />
         <entry key="accmng/src/main/res/layout/fragment_order_history.xml" value="0.3145833333333333" />
+        <entry key="accmng/src/main/res/layout/fragment_quiltv2.xml" value="0.2359375" />
         <entry key="accmng/src/main/res/layout/fragment_shop_subscriptions.xml" value="0.15324214792299898" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_activate_passport.xml" value="0.2046875" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_activate_physical_card.xml" value="0.25925925925925924" />
@@ -48,6 +49,7 @@
         <entry key="accmng/src/main/res/layout/layout_delivery_time_slot.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/layout_plan_promo.xml" value="0.25925925925925924" />
         <entry key="accmng/src/main/res/layout/layout_quilt_component_elevated_card_list.xml" value="0.13703140830800406" />
+        <entry key="accmng/src/main/res/layout/layout_quilt_widget_bottom_sticky.xml" value="0.2359375" />
         <entry key="accmng/src/main/res/layout/layout_sphere_kyc_timings_list.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/layout_unlimited_data_opt_in_success.xml" value="0.25" />
         <entry key="accmng/src/main/res/layout/list_button_footer_view.xml" value="0.3145833333333333" />
@@ -59,6 +61,7 @@
         <entry key="common-ui/src/main/res/layout/bottom_sheet_boost_dialog.xml" value="0.24230072463768115" />
         <entry key="common-ui/src/main/res/layout/layout_quilt_component_telco_detail.xml" value="0.13703140830800406" />
         <entry key="common-ui/src/main/res/layout/layout_quilt_component_tile_notification.xml" value="0.13703140830800406" />
+        <entry key="common-ui/src/main/res/layout/quilt_comp_tile_button.xml" value="0.2359375" />
         <entry key="common-ui/src/main/res/layout/quilt_comp_tile_nav_right.xml" value="0.33" />
         <entry key="common-ui/src/main/res/layout/quilt_comp_tile_nav_right_elevated_card.xml" value="0.5" />
         <entry key="common-ui/src/main/res/layout/quilt_comp_tile_status_card.xml" value="0.1" />
