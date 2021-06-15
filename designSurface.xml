@@ -54,6 +54,7 @@
         <entry key="accmng/src/main/res/layout/layout_unlimited_data_opt_in_success.xml" value="0.25" />
         <entry key="accmng/src/main/res/layout/list_button_footer_view.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/list_item_country_header.xml" value="0.3145833333333333" />
+        <entry key="accmng/src/main/res/layout/ncl_activity_dashboard.xml" value="0.1935185185185185" />
         <entry key="common-ui/src/main/res/drawable/bg_btn_primary.xml" value="0.296875" />
         <entry key="common-ui/src/main/res/drawable/bg_btn_primary_base.xml" value="0.296875" />
         <entry key="common-ui/src/main/res/drawable/bg_btn_primary_outlined.xml" value="0.296875" />
