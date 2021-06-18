@@ -64,9 +64,11 @@
         <entry key="common-ui/src/main/res/drawable/bg_btn_primary_base.xml" value="0.296875" />
         <entry key="common-ui/src/main/res/drawable/bg_btn_primary_outlined.xml" value="0.296875" />
         <entry key="common-ui/src/main/res/drawable/bg_btn_white_outlined_base.xml" value="0.296875" />
+        <entry key="common-ui/src/main/res/layout/base_card_gauge_view.xml" value="0.29739583333333336" />
         <entry key="common-ui/src/main/res/layout/bottom_sheet_boost_dialog.xml" value="0.24230072463768115" />
-        <entry key="common-ui/src/main/res/layout/layout_quilt_component_telco_detail.xml" value="0.13703140830800406" />
+        <entry key="common-ui/src/main/res/layout/layout_quilt_component_telco_detail.xml" value="0.29739583333333336" />
         <entry key="common-ui/src/main/res/layout/layout_quilt_component_tile_notification.xml" value="0.13703140830800406" />
+        <entry key="common-ui/src/main/res/layout/layout_quilt_component_user_base_card_usage.xml" value="0.29739583333333336" />
         <entry key="common-ui/src/main/res/layout/quilt_comp_tile_address.xml" value="0.30625" />
         <entry key="common-ui/src/main/res/layout/quilt_comp_tile_button.xml" value="0.2359375" />
         <entry key="common-ui/src/main/res/layout/quilt_comp_tile_nav_right.xml" value="0.33" />
