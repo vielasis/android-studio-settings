@@ -7,6 +7,8 @@
         <entry key="accmng/src/main/res/layout/activity_web_view.xml" value="0.20052083333333334" />
         <entry key="accmng/src/main/res/layout/continuous_scan.xml" value="0.3151041666666667" />
         <entry key="accmng/src/main/res/layout/dashboard_bills_layout.xml" value="0.33" />
+        <entry key="accmng/src/main/res/layout/data_basecard_component_layout.xml" value="0.22760416666666666" />
+        <entry key="accmng/src/main/res/layout/dialog_sphere_message.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/dialog_update_app.xml" value="0.24947916666666667" />
         <entry key="accmng/src/main/res/layout/fragment_article.xml" value="0.13703140830800406" />
         <entry key="accmng/src/main/res/layout/fragment_base_layout.xml" value="0.3145833333333333" />
@@ -66,6 +68,7 @@
         <entry key="common-ui/src/main/res/drawable/bg_btn_white_outlined_base.xml" value="0.296875" />
         <entry key="common-ui/src/main/res/layout/base_card_gauge_view.xml" value="0.29739583333333336" />
         <entry key="common-ui/src/main/res/layout/bottom_sheet_boost_dialog.xml" value="0.24230072463768115" />
+        <entry key="common-ui/src/main/res/layout/dialog_discover_base.xml" value="0.3145833333333333" />
         <entry key="common-ui/src/main/res/layout/layout_quilt_component_telco_detail.xml" value="0.29739583333333336" />
         <entry key="common-ui/src/main/res/layout/layout_quilt_component_tile_notification.xml" value="0.13703140830800406" />
         <entry key="common-ui/src/main/res/layout/layout_quilt_component_user_base_card_usage.xml" value="0.29739583333333336" />
