@@ -7,6 +7,7 @@
         <entry key="accmng/src/main/res/layout/activity_web_view.xml" value="0.20052083333333334" />
         <entry key="accmng/src/main/res/layout/continuous_scan.xml" value="0.3151041666666667" />
         <entry key="accmng/src/main/res/layout/dashboard_bills_layout.xml" value="0.33" />
+        <entry key="accmng/src/main/res/layout/dashboard_dialog_fragment.xml" value="0.262037037037037" />
         <entry key="accmng/src/main/res/layout/data_basecard_component_layout.xml" value="0.22760416666666666" />
         <entry key="accmng/src/main/res/layout/dialog_sphere_message.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/dialog_update_app.xml" value="0.24947916666666667" />
@@ -14,6 +15,7 @@
         <entry key="accmng/src/main/res/layout/fragment_base_layout.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/fragment_base_mvvmv2.xml" value="0.15324214792299898" />
         <entry key="accmng/src/main/res/layout/fragment_consent_webview.xml" value="0.3151041666666667" />
+        <entry key="accmng/src/main/res/layout/fragment_discover_dashboard.xml" value="0.262037037037037" />
         <entry key="accmng/src/main/res/layout/fragment_email_set.xml" value="0.25925925925925924" />
         <entry key="accmng/src/main/res/layout/fragment_family_plan_add_sims.xml" value="0.33" />
         <entry key="accmng/src/main/res/layout/fragment_family_plan_delivery_details.xml" value="0.30625" />
