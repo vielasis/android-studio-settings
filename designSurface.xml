@@ -64,9 +64,13 @@
         <entry key="accmng/src/main/res/layout/list_button_footer_view.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/list_item_country_header.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/ncl_activity_dashboard.xml" value="0.1935185185185185" />
+        <entry key="app/src/main/res/drawable/src_rc_car.xml" value="0.3296875" />
+        <entry key="app/src/main/res/layout/activity_fullscreen.xml" value="0.5037037037037037" />
         <entry key="app/src/main/res/layout/content_scrolling.xml" value="0.3145833333333333" />
         <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.3145833333333333" />
         <entry key="app/src/main/res/menu/popular_options.xml" value="0.3145833333333333" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3296875" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3296875" />
         <entry key="common-ui/src/main/res/drawable/bg_btn_primary.xml" value="0.296875" />
         <entry key="common-ui/src/main/res/drawable/bg_btn_primary_base.xml" value="0.296875" />
         <entry key="common-ui/src/main/res/drawable/bg_btn_primary_outlined.xml" value="0.296875" />
