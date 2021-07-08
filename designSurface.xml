@@ -4,6 +4,7 @@
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="accmng/src/indonesia/res/layout/activity_indo_splash.xml" value="0.375" />
+        <entry key="accmng/src/japan/res/layout/fragment_email_log_in.xml" value="0.25" />
         <entry key="accmng/src/main/res/layout/activity_entertainer.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/activity_web_view.xml" value="0.20052083333333334" />
         <entry key="accmng/src/main/res/layout/continuous_scan.xml" value="0.3151041666666667" />
@@ -20,6 +21,7 @@
         <entry key="accmng/src/main/res/layout/fragment_email_set.xml" value="0.25925925925925924" />
         <entry key="accmng/src/main/res/layout/fragment_family_plan_add_sims.xml" value="0.33" />
         <entry key="accmng/src/main/res/layout/fragment_family_plan_delivery_details.xml" value="0.30625" />
+        <entry key="accmng/src/main/res/layout/fragment_login_signup.xml" value="0.21875" />
         <entry key="accmng/src/main/res/layout/fragment_manage_subscriptions.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/fragment_order_history.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/fragment_quiltv2.xml" value="0.2359375" />
