@@ -8,6 +8,7 @@
         <entry key="accmng/src/japan/res/layout/fragment_otp_v2.xml" value="0.28072916666666664" />
         <entry key="accmng/src/main/res/layout/activity_entertainer.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/activity_web_view.xml" value="0.20052083333333334" />
+        <entry key="accmng/src/main/res/layout/bills_usage_logs_item.xml" value="0.453125" />
         <entry key="accmng/src/main/res/layout/continuous_scan.xml" value="0.3151041666666667" />
         <entry key="accmng/src/main/res/layout/dashboard_bills_layout.xml" value="0.33" />
         <entry key="accmng/src/main/res/layout/dashboard_dialog_fragment.xml" value="0.262037037037037" />
@@ -55,25 +56,39 @@
         <entry key="accmng/src/main/res/layout/fragment_sphere_transaction_detail.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_transactions.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_unlock_card_success.xml" value="0.30625" />
+        <entry key="accmng/src/main/res/layout/intl_bill_banner_item.xml" value="0.453125" />
+        <entry key="accmng/src/main/res/layout/intl_bills_au_service_item.xml" value="0.453125" />
+        <entry key="accmng/src/main/res/layout/intl_bills_email_item.xml" value="0.453125" />
+        <entry key="accmng/src/main/res/layout/intl_bills_header_item.xml" value="0.453125" />
+        <entry key="accmng/src/main/res/layout/intl_bills_pay_now_item.xml" value="0.453125" />
+        <entry key="accmng/src/main/res/layout/intl_current_bills_item_detail.xml" value="0.453125" />
+        <entry key="accmng/src/main/res/layout/intl_current_bills_item_footer.xml" value="0.453125" />
+        <entry key="accmng/src/main/res/layout/intl_current_bills_item_header.xml" value="0.453125" />
         <entry key="accmng/src/main/res/layout/intl_layout_bill_fragment.xml" value="0.4083333333333333" />
         <entry key="accmng/src/main/res/layout/intl_layout_settings.xml" value="0.15324214792299898" />
-        <entry key="accmng/src/main/res/layout/intl_payment_card_item.xml" value="0.3145833333333333" />
+        <entry key="accmng/src/main/res/layout/intl_payment_card_item.xml" value="0.453125" />
         <entry key="accmng/src/main/res/layout/item_sphere_country.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/item_sphere_intro_feature.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/item_sphere_mngacct_card.xml" value="0.1" />
-        <entry key="accmng/src/main/res/layout/layout_bill_instant_charges.xml" value="0.2671875" />
+        <entry key="accmng/src/main/res/layout/layout_account_suspension.xml" value="0.453125" />
+        <entry key="accmng/src/main/res/layout/layout_bill_history_list.xml" value="0.453125" />
+        <entry key="accmng/src/main/res/layout/layout_bill_instant_charges.xml" value="0.453125" />
         <entry key="accmng/src/main/res/layout/layout_bonus_header.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/layout_delivery_reason.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/layout_delivery_time_slot.xml" value="0.3145833333333333" />
-        <entry key="accmng/src/main/res/layout/layout_instant_charges_item.xml" value="0.2671875" />
+        <entry key="accmng/src/main/res/layout/layout_first_bill_info.xml" value="0.453125" />
+        <entry key="accmng/src/main/res/layout/layout_instant_charges_item.xml" value="0.453125" />
         <entry key="accmng/src/main/res/layout/layout_plan_promo.xml" value="0.25925925925925924" />
         <entry key="accmng/src/main/res/layout/layout_quilt_component_elevated_card_list.xml" value="0.13703140830800406" />
         <entry key="accmng/src/main/res/layout/layout_quilt_widget_bottom_sticky.xml" value="0.2359375" />
         <entry key="accmng/src/main/res/layout/layout_sphere_kyc_timings_list.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/layout_unlimited_data_opt_in_success.xml" value="0.25" />
+        <entry key="accmng/src/main/res/layout/layout_up_coming_bill_amount.xml" value="0.453125" />
+        <entry key="accmng/src/main/res/layout/layout_up_coming_bills.xml" value="0.453125" />
         <entry key="accmng/src/main/res/layout/list_button_footer_view.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/list_item_country_header.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/ncl_activity_dashboard.xml" value="0.1935185185185185" />
+        <entry key="accmng/src/main/res/layout/pending_card_bills_layout.xml" value="0.453125" />
         <entry key="app/src/main/res/drawable/src_rc_car.xml" value="0.3296875" />
         <entry key="app/src/main/res/layout/activity_fullscreen.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.398046875" />
