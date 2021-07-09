@@ -57,6 +57,7 @@
         <entry key="accmng/src/main/res/layout/fragment_sphere_transactions.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_unlock_card_success.xml" value="0.30625" />
         <entry key="accmng/src/main/res/layout/intl_bill_banner_item.xml" value="0.453125" />
+        <entry key="accmng/src/main/res/layout/intl_bill_history_item.xml" value="0.1" />
         <entry key="accmng/src/main/res/layout/intl_bills_au_service_item.xml" value="0.453125" />
         <entry key="accmng/src/main/res/layout/intl_bills_email_item.xml" value="0.453125" />
         <entry key="accmng/src/main/res/layout/intl_bills_header_item.xml" value="0.453125" />
