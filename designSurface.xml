@@ -91,6 +91,8 @@
         <entry key="accmng/src/main/res/layout/list_item_country_header.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/ncl_activity_dashboard.xml" value="0.1935185185185185" />
         <entry key="accmng/src/main/res/layout/pending_card_bills_layout.xml" value="0.453125" />
+        <entry key="accmng/src/main/res/layout/toolbar_menu_standard.xml" value="0.30104166666666665" />
+        <entry key="accmng/src/main/res/layout/toolbar_menu_v2.xml" value="0.30104166666666665" />
         <entry key="app/src/main/res/drawable/src_rc_car.xml" value="0.3296875" />
         <entry key="app/src/main/res/layout/activity_fullscreen.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.398046875" />
