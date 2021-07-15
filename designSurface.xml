@@ -4,7 +4,7 @@
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="accmng/src/japan/res/layout/activity_splash_animation.xml" value="0.4583333333333333" />
-        <entry key="accmng/src/japan/res/layout/fragment_email_log_in.xml" value="0.30416666666666664" />
+        <entry key="accmng/src/japan/res/layout/fragment_email_log_in.xml" value="0.33" />
         <entry key="accmng/src/japan/res/layout/fragment_otp_v2.xml" value="0.2864583333333333" />
         <entry key="accmng/src/main/res/layout/activity_entertainer.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/activity_web_view.xml" value="0.20052083333333334" />
@@ -30,6 +30,7 @@
         <entry key="accmng/src/main/res/layout/fragment_order_history.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/fragment_otp_v2.xml" value="0.2864583333333333" />
         <entry key="accmng/src/main/res/layout/fragment_quiltv2.xml" value="0.2359375" />
+        <entry key="accmng/src/main/res/layout/fragment_referral_code_edit.xml" value="0.26666666666666666" />
         <entry key="accmng/src/main/res/layout/fragment_shop_subscriptions.xml" value="0.15324214792299898" />
         <entry key="accmng/src/main/res/layout/fragment_simple_container.xml" value="0.28072916666666664" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_activate_passport.xml" value="0.2046875" />
@@ -91,6 +92,9 @@
         <entry key="accmng/src/main/res/layout/list_item_country_header.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/ncl_activity_dashboard.xml" value="0.1935185185185185" />
         <entry key="accmng/src/main/res/layout/pending_card_bills_layout.xml" value="0.453125" />
+        <entry key="accmng/src/main/res/layout/toolbar_menu_standard.xml" value="0.30104166666666665" />
+        <entry key="accmng/src/main/res/layout/toolbar_menu_v2.xml" value="0.30104166666666665" />
+        <entry key="accmng/src/main/res/layout/toolbar_v2.xml" value="0.225" />
         <entry key="app/src/main/res/drawable/src_rc_car.xml" value="0.3296875" />
         <entry key="app/src/main/res/layout/activity_fullscreen.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.398046875" />

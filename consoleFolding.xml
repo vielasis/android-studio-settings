@@ -10,6 +10,7 @@
         <option value="eglCodecCommon" />
         <option value="Finsky" />
         <option value="GnssHAL_GnssInterface" />
+        <option value="GnssLocationProvider" />
         <option value="goldfish-address-space" />
         <option value="HostConnection" />
         <option value="I/InputDispatcher" />
@@ -17,7 +18,7 @@
         <option value="libEGL" />
         <option value="system_server" />
         <option value="TelephonyPermissions" />
-        <option value="GnssLocationProvider" />
+        <option value="E/wifi_forwarder" />
       </list>
     </option>
   </component>
