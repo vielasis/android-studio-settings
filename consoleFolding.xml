@@ -4,8 +4,10 @@
       <list>
         <option value="835" />
         <option value="AssistStructure" />
+        <option value="BackgroundDexOptService" />
         <option value="CCJob" />
         <option value="CleverTap" />
+        <option value="E/wifi_forwarder" />
         <option value="EGL_emulation" />
         <option value="eglCodecCommon" />
         <option value="Finsky" />
@@ -16,9 +18,11 @@
         <option value="I/InputDispatcher" />
         <option value="IInputConnectionWrapper" />
         <option value="libEGL" />
+        <option value="ModelDownloadController" />
+        <option value="netmgr" />
         <option value="system_server" />
         <option value="TelephonyPermissions" />
-        <option value="E/wifi_forwarder" />
+        <option value="UntrustedWifiNetworkFactory" />
       </list>
     </option>
   </component>
