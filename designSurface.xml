@@ -20,6 +20,7 @@
         <entry key="accmng/src/main/res/layout/fragment_badges.xml" value="0.1" />
         <entry key="accmng/src/main/res/layout/fragment_base_layout.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/fragment_base_mvvmv2.xml" value="0.15324214792299898" />
+        <entry key="accmng/src/main/res/layout/fragment_categories.xml" value="0.14791666666666667" />
         <entry key="accmng/src/main/res/layout/fragment_consent_webview.xml" value="0.3151041666666667" />
         <entry key="accmng/src/main/res/layout/fragment_discover_dashboard.xml" value="0.262037037037037" />
         <entry key="accmng/src/main/res/layout/fragment_email_log_in.xml" value="0.30416666666666664" />
@@ -32,6 +33,7 @@
         <entry key="accmng/src/main/res/layout/fragment_otp_v2.xml" value="0.2864583333333333" />
         <entry key="accmng/src/main/res/layout/fragment_quiltv2.xml" value="0.2359375" />
         <entry key="accmng/src/main/res/layout/fragment_referral_code_edit.xml" value="0.26666666666666666" />
+        <entry key="accmng/src/main/res/layout/fragment_sections.xml" value="0.2" />
         <entry key="accmng/src/main/res/layout/fragment_shop_subscriptions.xml" value="0.15324214792299898" />
         <entry key="accmng/src/main/res/layout/fragment_simple_container.xml" value="0.28072916666666664" />
         <entry key="accmng/src/main/res/layout/fragment_sphere_activate_passport.xml" value="0.2046875" />
