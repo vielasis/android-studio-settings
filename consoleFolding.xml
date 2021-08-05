@@ -6,10 +6,10 @@
         <option value="AssistStructure" />
         <option value="BackgroundDexOptService" />
         <option value="CCJob" />
-        <option value="CleverTap" />
         <option value="E/wifi_forwarder" />
         <option value="EGL_emulation" />
         <option value="eglCodecCommon" />
+        <option value="EmuHWC2" />
         <option value="Finsky" />
         <option value="GnssHAL_GnssInterface" />
         <option value="GnssLocationProvider" />
@@ -23,7 +23,6 @@
         <option value="system_server" />
         <option value="TelephonyPermissions" />
         <option value="UntrustedWifiNetworkFactory" />
-        <option value="EmuHWC2" />
       </list>
     </option>
   </component>
