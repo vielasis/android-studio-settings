@@ -82,6 +82,7 @@
         <entry key="accmng/src/main/res/layout/layout_bill_history_list.xml" value="0.453125" />
         <entry key="accmng/src/main/res/layout/layout_bill_instant_charges.xml" value="0.453125" />
         <entry key="accmng/src/main/res/layout/layout_bonus_header.xml" value="0.3145833333333333" />
+        <entry key="accmng/src/main/res/layout/layout_current_bill_pay_popup.xml" value="0.5307291666666667" />
         <entry key="accmng/src/main/res/layout/layout_delivery_reason.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/layout_delivery_time_slot.xml" value="0.3145833333333333" />
         <entry key="accmng/src/main/res/layout/layout_first_bill_info.xml" value="0.453125" />
