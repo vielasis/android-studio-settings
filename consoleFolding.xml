@@ -23,6 +23,7 @@
         <option value="system_server" />
         <option value="TelephonyPermissions" />
         <option value="UntrustedWifiNetworkFactory" />
+        <option value="FA-SVC" />
       </list>
     </option>
   </component>
