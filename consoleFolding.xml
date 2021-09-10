@@ -10,6 +10,7 @@
         <option value="EGL_emulation" />
         <option value="eglCodecCommon" />
         <option value="EmuHWC2" />
+        <option value="FA-SVC" />
         <option value="Finsky" />
         <option value="GnssHAL_GnssInterface" />
         <option value="GnssLocationProvider" />
@@ -23,7 +24,7 @@
         <option value="system_server" />
         <option value="TelephonyPermissions" />
         <option value="UntrustedWifiNetworkFactory" />
-        <option value="FA-SVC" />
+        <option value="W/InputReader" />
       </list>
     </option>
   </component>
