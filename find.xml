@@ -9,9 +9,9 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
-    <mask>*.kts</mask>
     <mask>*.gradle.kts</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.kts</mask>
   </component>
 </application>
