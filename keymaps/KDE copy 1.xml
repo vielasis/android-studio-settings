@@ -1,0 +1,6 @@
+<keymap version="1" name="KDE copy 1" parent="Default for KDE">
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <mouse-shortcut keystroke="control button3" />
+  </action>
+</keymap>
