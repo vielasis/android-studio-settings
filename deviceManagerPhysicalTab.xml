@@ -1,0 +1,29 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R5CNB0E4CYV" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-R5CNB0E4CYV-Kpviny._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-16T08:56:49.011578Z" />
+        <name value="samsung SM-A426B" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
