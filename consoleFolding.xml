@@ -6,6 +6,7 @@
         <option value="AssistStructure" />
         <option value="BackgroundDexOptService" />
         <option value="CCJob" />
+        <option value="E/chromium" />
         <option value="E/wifi_forwarder" />
         <option value="EGL_emulation" />
         <option value="eglCodecCommon" />
@@ -25,6 +26,7 @@
         <option value="TelephonyPermissions" />
         <option value="UntrustedWifiNetworkFactory" />
         <option value="W/InputReader" />
+        <option value="I/X509Uti" />
       </list>
     </option>
   </component>
