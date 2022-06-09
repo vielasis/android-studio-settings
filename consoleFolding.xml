@@ -18,7 +18,9 @@
         <option value="goldfish-address-space" />
         <option value="HostConnection" />
         <option value="I/InputDispatcher" />
+        <option value="I/X509Uti" />
         <option value="IInputConnectionWrapper" />
+        <option value="InputMethodManager" />
         <option value="libEGL" />
         <option value="ModelDownloadController" />
         <option value="netmgr" />
@@ -26,7 +28,7 @@
         <option value="TelephonyPermissions" />
         <option value="UntrustedWifiNetworkFactory" />
         <option value="W/InputReader" />
-        <option value="I/X509Uti" />
+        <option value="ViewRootImpl" />
       </list>
     </option>
   </component>
