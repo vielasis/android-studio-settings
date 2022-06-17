@@ -27,8 +27,9 @@
         <option value="system_server" />
         <option value="TelephonyPermissions" />
         <option value="UntrustedWifiNetworkFactory" />
-        <option value="W/InputReader" />
         <option value="ViewRootImpl" />
+        <option value="W/InputReader" />
+        <option value="SurfaceControl" />
       </list>
     </option>
   </component>
