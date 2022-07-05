@@ -24,12 +24,13 @@
         <option value="libEGL" />
         <option value="ModelDownloadController" />
         <option value="netmgr" />
+        <option value="SurfaceControl" />
         <option value="system_server" />
         <option value="TelephonyPermissions" />
         <option value="UntrustedWifiNetworkFactory" />
         <option value="ViewRootImpl" />
         <option value="W/InputReader" />
-        <option value="SurfaceControl" />
+        <option value="java.lang.NoSuchMethodException: androidx.viewpager2.widget.ViewPager2$LinearLayoutManagerImpl.calculateExtraLayoutSpace" />
       </list>
     </option>
   </component>
