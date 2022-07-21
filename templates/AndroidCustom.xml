@@ -2,7 +2,7 @@
   <template name="ser" value="@com.google.gson.annotations.SerializedName(&quot;$jsonFieldName$&quot;) val $varName$: $type$" description="Gson @SerializedName Kotlin" toReformat="false" toShortenFQNames="true">
     <variable name="type" expression="completeSmart()" defaultValue="&quot;String&quot;" alwaysStopAt="true" />
     <variable name="varName" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="jsonFieldName" expression="snakeCase(varName)" defaultValue="" alwaysStopAt="false" />
+    <variable name="jsonFieldName" expression="camelCase(varName)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="KOTLIN" value="true" />
       <option name="KOTLIN_COMMENT" value="false" />
