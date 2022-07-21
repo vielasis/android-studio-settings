@@ -73,4 +73,12 @@
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="mld" value="private val _$var_name$: androidx.lifecycle.MutableLiveData&lt;$type$&gt; = androidx.lifecycle.MutableLiveData($default_value$)&#10;val $var_name$: androidx.lifecycle.LiveData&lt;$type$&gt; = _$var_name$" description="Private MutableLiveData&lt;T&gt; with public LiveData&lt;T&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="var_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="default_value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
