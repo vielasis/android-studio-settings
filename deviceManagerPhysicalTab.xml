@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="R58M34K26RM" />
+          </Key>
+        </key>
+        <name value="samsung SM-G975F" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="R5CNB0E4CYV" />
           </Key>
         </key>
@@ -55,17 +66,6 @@
         <name value="HUAWEI TAS-L29" />
         <target value="Android 10.0" />
         <api value="29" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R58M34K26RM" />
-          </Key>
-        </key>
-        <name value="samsung SM-G975F" />
-        <target value="Android 12.0" />
-        <api value="31" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
