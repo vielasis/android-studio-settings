@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:ERROR " />
+    <option name="mostRecentlyUsed" value="SECURITY::" />
     <option name="nonFavorites">
       <list>
+        <option value="SECURITY::" />
         <option value="level:ERROR " />
         <option value="AndroidRuntime" />
         <option value="package:mine " />
-        <option value="SECURITY::" />
         <option value="SECURITY" />
         <option value="package:mine" />
       </list>
