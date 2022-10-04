@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="customScope" value="Project 'Singtel Dash'" />
+    <option name="defaultScopeName" value="Project 'Singtel Dash'" />
+    <option name="SEARCH_SCOPE" value="Project 'Singtel Dash'" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -12,7 +12,7 @@
     <mask>*.kts</mask>
     <mask>*.kt</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.gradle</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
