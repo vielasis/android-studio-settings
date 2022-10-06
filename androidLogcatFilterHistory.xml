@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="SECURITY::" />
+    <option name="mostRecentlyUsed" value="package:mine onCreateView" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreateView" />
         <option value="package:mine" />
         <option value="SECURITY::" />
         <option value="level:ERROR " />
