@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="SECURITY::" />
+    <option name="mostRecentlyUsed" value="package:mine DashTokenWorker" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine DashTokenWorker" />
         <option value="SECURITY::" />
         <option value="level:ERROR " />
         <option value="AndroidRuntime" />
