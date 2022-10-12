@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="Dexguard" />
+        <option value="package:mine Dexguard" />
         <option value="package:mine onCr" />
         <option value="onCreateView" />
         <option value="Endpoint" />
