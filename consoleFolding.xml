@@ -21,6 +21,7 @@
         <option value="I/X509Uti" />
         <option value="IInputConnectionWrapper" />
         <option value="InputMethodManager" />
+        <option value="java.lang.NoSuchMethodException: androidx.viewpager2.widget.ViewPager2$LinearLayoutManagerImpl.calculateExtraLayoutSpace" />
         <option value="libEGL" />
         <option value="ModelDownloadController" />
         <option value="netmgr" />
@@ -30,7 +31,6 @@
         <option value="UntrustedWifiNetworkFactory" />
         <option value="ViewRootImpl" />
         <option value="W/InputReader" />
-        <option value="java.lang.NoSuchMethodException: androidx.viewpager2.widget.ViewPager2$LinearLayoutManagerImpl.calculateExtraLayoutSpace" />
       </list>
     </option>
   </component>
