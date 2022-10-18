@@ -1,21 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
-        <option value="package:mine frame" />
-        <option value="package:mine onCreat" />
-        <option value="Dexguard" />
-        <option value="package:mine Dexguard" />
-        <option value="package:mine onCr" />
-        <option value="onCreateView" />
-        <option value="Endpoint" />
-        <option value="package:mine Endpoi" />
-        <option value="package:mine onCreateView" />
         <option value="package:mine" />
-        <option value="SECURITY::" />
+        <option value="package:mine onCreate" />
+        <option value="AYYLMAO" />
+        <option value="package:mine Endpoints" />
+        <option value="package:mine Endpoint" />
+        <option value="package:mine " />
+        <option value="package:mine origRequest" />
         <option value="level:ERROR " />
+        <option value="package:mine onCreateView" />
+        <option value="SECURITY::" />
         <option value="AndroidRuntime" />
         <option value="SECURITY" />
       </list>
