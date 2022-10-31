@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCre" />
+    <option name="mostRecentlyUsed" value="package:mine RewardsHome" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine RewardsHome" />
+        <option value="package:mine match" />
+        <option value="package:mine cleare" />
+        <option value="package:mine Cache" />
         <option value="package:mine onCre" />
         <option value="package:mine Favourites" />
         <option value="package:mine onItem" />
@@ -19,10 +23,6 @@
         <option value="package:mine Endpoint" />
         <option value="package:mine origRequest" />
         <option value="level:ERROR " />
-        <option value="package:mine onCreateView" />
-        <option value="SECURITY::" />
-        <option value="AndroidRuntime" />
-        <option value="SECURITY" />
       </list>
     </option>
   </component>
