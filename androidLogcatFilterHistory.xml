@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine Favorites" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Favorites" />
         <option value="package:mine " />
         <option value="package:mine Reward" />
         <option value="package:mine areContentsTheSame" />
         <option value="package:mine areItemsTheSame" />
         <option value="package:mine Rewards" />
-        <option value="package:mine Favorites" />
         <option value="package:mine Changing" />
         <option value="package:mine RewardsHome" />
         <option value="package:mine match" />
