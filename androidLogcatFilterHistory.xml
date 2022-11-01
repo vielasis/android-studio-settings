@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine RewardsHome" />
+    <option name="mostRecentlyUsed" value="package:mine Favorites" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Favorites" />
+        <option value="package:mine " />
+        <option value="package:mine Changing" />
         <option value="package:mine RewardsHome" />
         <option value="package:mine match" />
         <option value="package:mine cleare" />
@@ -10,7 +13,6 @@
         <option value="package:mine onCre" />
         <option value="package:mine Favourites" />
         <option value="package:mine onItem" />
-        <option value="package:mine " />
         <option value="package:mine onChan" />
         <option value="package:mine onCr" />
         <option value="package:mine onS" />
@@ -21,8 +23,6 @@
         <option value="AYYLMAO" />
         <option value="package:mine Endpoints" />
         <option value="package:mine Endpoint" />
-        <option value="package:mine origRequest" />
-        <option value="level:ERROR " />
       </list>
     </option>
   </component>
