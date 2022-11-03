@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
+    <option name="mostRecentlyUsed" value="package:com.SingTel.mWallet.dev " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.SingTel.mWallet.dev " />
+        <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="package:mine tag:Cache" />
         <option value="package:mine" />
         <option value="package:mine getRewardVoucherList" />
         <option value="package:mine Favorites" />
-        <option value="package:mine " />
         <option value="package:mine Reward" />
         <option value="package:mine areContentsTheSame" />
         <option value="package:mine areItemsTheSame" />
@@ -22,7 +23,6 @@
         <option value="package:mine Favourites" />
         <option value="package:mine onItem" />
         <option value="package:mine onChan" />
-        <option value="package:mine onCr" />
       </list>
     </option>
   </component>
