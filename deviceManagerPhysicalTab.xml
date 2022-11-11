@@ -8,9 +8,8 @@
             <value value="R5CNB0E4CYV" />
           </Key>
         </key>
-        <name value="samsung SM-A426B" />
-        <target value="Android 12.0" />
-        <api value="31" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -21,7 +20,7 @@
         </key>
         <name value="samsung SM-G975F" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -32,7 +31,7 @@
         </key>
         <name value="samsung SM-A426B" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -43,7 +42,7 @@
         </key>
         <name value="samsung SM-A426B" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -54,7 +53,7 @@
         </key>
         <name value="samsung SM-A520F" />
         <target value="Android 8.0" />
-        <api value="26" />
+        <api value="androidversion:26:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -65,7 +64,7 @@
         </key>
         <name value="HUAWEI TAS-L29" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
