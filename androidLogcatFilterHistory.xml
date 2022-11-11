@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine HomeFragment" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine HomeFragment" />
         <option value="package:mine syncing" />
         <option value="package:mine onCreate" />
         <option value="package:mine Favorites changed!" />
         <option value="package:mine received updates" />
-        <option value="package:mine " />
         <option value="package:mine refet" />
         <option value="package:mine" />
         <option value="onCreate" />
