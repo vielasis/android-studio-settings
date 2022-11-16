@@ -1,17 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="syncing us" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="syncing us" />
         <option value="package:mine " />
-        <option value="package:mine HomeFragment" />
+        <option value="package:mine UserProfileSyncWorker" />
         <option value="package:mine syncing" />
+        <option value="package:mine" />
+        <option value="syncing us" />
+        <option value="package:mine HomeFragment" />
         <option value="package:mine onCreate" />
         <option value="package:mine Favorites changed!" />
         <option value="package:mine received updates" />
         <option value="package:mine refet" />
-        <option value="package:mine" />
         <option value="onCreate" />
         <option value="package:com.SingTel.mWallet.dev " />
         <option value="package:com.SingTel.mWallet.dev onCre" />
@@ -22,7 +23,6 @@
         <option value="package:mine areContentsTheSame" />
         <option value="package:mine areItemsTheSame" />
         <option value="package:mine Rewards" />
-        <option value="package:mine Changing" />
       </list>
     </option>
   </component>
