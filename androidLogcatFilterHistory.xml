@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="syncing us" />
     <option name="nonFavorites">
       <list>
+        <option value="syncing us" />
         <option value="package:mine " />
         <option value="package:mine HomeFragment" />
         <option value="package:mine syncing" />
@@ -22,7 +23,6 @@
         <option value="package:mine areItemsTheSame" />
         <option value="package:mine Rewards" />
         <option value="package:mine Changing" />
-        <option value="package:mine RewardsHome" />
       </list>
     </option>
   </component>
