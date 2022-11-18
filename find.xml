@@ -10,8 +10,8 @@
     <mask>*.gradle.kts</mask>
     <mask>*.kts</mask>
     <mask>*.java</mask>
-    <mask>*.gradle</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
