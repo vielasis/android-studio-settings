@@ -1,14 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine TRACE_startup" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine TRACE_startup" />
         <option value="package:mine " />
         <option value="tracer" />
         <option value="package:mine counters" />
         <option value="package:mine trace" />
-        <option value="package:mine" />
         <option value="package:mine UserProfileSyncWorker" />
         <option value="package:mine syncing" />
         <option value="syncing us" />
