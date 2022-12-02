@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine cookie" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine cookie" />
         <option value="package:mine" />
         <option value="package:mine Set Cookie" />
         <option value="package:mine Cookies" />
@@ -21,7 +23,6 @@
         <option value="package:mine HomeFragment" />
         <option value="package:mine onCreate" />
         <option value="package:mine Favorites changed!" />
-        <option value="package:mine received updates" />
       </list>
     </option>
   </component>
