@@ -1,13 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine initializeNetverifySDK" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine Set Cookie" />
+        <option value="package:mine Cookies" />
+        <option value="package:mine X-Auth-Token" />
+        <option value="package:mine Response" />
+        <option value="package:mine Auth" />
+        <option value="package:mine " />
         <option value="package:mine initializeNetverifySDK" />
         <option value="package:mine KYC" />
-        <option value="package:mine" />
         <option value="package:mine TRACE_startup" />
-        <option value="package:mine " />
         <option value="tracer" />
         <option value="package:mine counters" />
         <option value="package:mine trace" />
@@ -18,11 +22,6 @@
         <option value="package:mine onCreate" />
         <option value="package:mine Favorites changed!" />
         <option value="package:mine received updates" />
-        <option value="package:mine refet" />
-        <option value="onCreate" />
-        <option value="package:com.SingTel.mWallet.dev " />
-        <option value="package:com.SingTel.mWallet.dev onCre" />
-        <option value="package:mine tag:Cache" />
       </list>
     </option>
   </component>
