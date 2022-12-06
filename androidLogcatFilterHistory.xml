@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onCreate" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="onCreate" />
         <option value="package:mine " />
+        <option value="onCreate" />
         <option value="package:mine onCreate" />
         <option value="package:mine initializeNetverifySDK" />
         <option value="package:mine KYC" />
