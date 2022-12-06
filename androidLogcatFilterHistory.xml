@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="onCreate" />
         <option value="package:mine " />
+        <option value="package:mine onCreate" />
         <option value="package:mine initializeNetverifySDK" />
         <option value="package:mine KYC" />
         <option value="package:mine" />
@@ -15,11 +17,9 @@
         <option value="package:mine syncing" />
         <option value="syncing us" />
         <option value="package:mine HomeFragment" />
-        <option value="package:mine onCreate" />
         <option value="package:mine Favorites changed!" />
         <option value="package:mine received updates" />
         <option value="package:mine refet" />
-        <option value="onCreate" />
         <option value="package:com.SingTel.mWallet.dev " />
         <option value="package:com.SingTel.mWallet.dev onCre" />
         <option value="package:mine tag:Cache" />
