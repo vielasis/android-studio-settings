@@ -4,8 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine onCreate" />
-        <option value="package:mine Picking " />
         <option value="package:mine " />
+        <option value="package:mine Picking " />
         <option value="package:mine ZZZ" />
         <option value="package:mine onCreateView" />
         <option value="package:mine" />
