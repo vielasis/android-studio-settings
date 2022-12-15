@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine ZZZ" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
         <option value="package:mine ZZZ" />
+        <option value="package:mine locationCallback" />
+        <option value="package:mine " />
         <option value="package:mine tag:MyProfileFragment " />
         <option value="package:mine FRAG" />
         <option value="package:mine onCreate" />
@@ -22,7 +23,6 @@
         <option value="package:mine counters" />
         <option value="package:mine trace" />
         <option value="package:mine UserProfileSyncWorker" />
-        <option value="package:mine syncing" />
       </list>
     </option>
   </component>
