@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine ZZZ" />
         <option value="package:mine " />
+        <option value="package:mine ZZZ" />
         <option value="package:mine tag:MyProfileFragment " />
         <option value="package:mine FRAG" />
         <option value="package:mine onCreate" />
