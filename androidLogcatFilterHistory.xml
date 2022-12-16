@@ -4,10 +4,12 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine ZZZ" />
+        <option value="package:mine tag:MyProfileFragment " />
+        <option value="package:mine FRAG" />
         <option value="package:mine onCreate" />
         <option value="package:mine" />
         <option value="package:mine Picking " />
-        <option value="package:mine ZZZ" />
         <option value="package:mine onCreateView" />
         <option value="package:mine no sup" />
         <option value="package:mine TAG_QR" />
@@ -21,8 +23,6 @@
         <option value="package:mine trace" />
         <option value="package:mine UserProfileSyncWorker" />
         <option value="package:mine syncing" />
-        <option value="syncing us" />
-        <option value="package:mine HomeFragment" />
       </list>
     </option>
   </component>
