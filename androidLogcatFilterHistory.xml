@@ -1,10 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine onCreate" />
         <option value="package:mine " />
+        <option value="package:mine measureRuntime" />
+        <option value="package:mine measureR" />
+        <option value="package:mine init" />
+        <option value="package:mine onCreate" />
         <option value="package:mine tag:DeeplinkActivity " />
         <option value="package:mine onCrea" />
         <option value="package:mine ZZZ" />
@@ -20,9 +23,6 @@
         <option value="onCreate" />
         <option value="package:mine initializeNetverifySDK" />
         <option value="package:mine KYC" />
-        <option value="package:mine TRACE_startup" />
-        <option value="tracer" />
-        <option value="package:mine counters" />
       </list>
     </option>
   </component>
