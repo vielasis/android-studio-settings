@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine init" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine init" />
         <option value="package:mine" />
         <option value="package:mine failed" />
-        <option value="package:mine " />
         <option value="package:mine tag:measureRuntime " />
         <option value="package:mine measureRuntime" />
         <option value="package:mine measureR" />
