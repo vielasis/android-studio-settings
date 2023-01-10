@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine tag:measureRuntime " />
         <option value="package:mine measureRuntime" />
         <option value="package:mine measureR" />
         <option value="package:mine init" />
@@ -22,7 +23,6 @@
         <option value="package:mine DATA" />
         <option value="onCreate" />
         <option value="package:mine initializeNetverifySDK" />
-        <option value="package:mine KYC" />
       </list>
     </option>
   </component>
