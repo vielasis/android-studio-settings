@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine visa" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine visa" />
         <option value="package:mine doEnrollDevice" />
-        <option value="package:mine " />
         <option value="package:mine visaInit" />
         <option value="package:mine" />
         <option value="package:mine onCreate" />
