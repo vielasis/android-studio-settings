@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine SPY_VI" />
         <option value="package:mine visa" />
         <option value="package:mine doEnrollDevice" />
         <option value="package:mine visaInit" />
@@ -22,7 +23,6 @@
         <option value="onCreate" />
         <option value="package:mine initializeNetverifySDK" />
         <option value="package:mine KYC" />
-        <option value="package:mine TRACE_startup" />
       </list>
     </option>
   </component>
