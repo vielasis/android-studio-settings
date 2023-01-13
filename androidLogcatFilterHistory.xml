@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
+    <option name="mostRecentlyUsed" value="package:mine visa" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine visa" />
+        <option value="package:mine" />
         <option value="package:mine onCreate" />
         <option value="package:mine tag:RemoteConfig rw" />
         <option value="package:mine tag:RemoteConfig" />
@@ -10,7 +12,6 @@
         <option value="package:mine ZZZ" />
         <option value="package:mine tag:MyProfileFragment " />
         <option value="package:mine FRAG" />
-        <option value="package:mine" />
         <option value="package:mine Picking " />
         <option value="package:mine onCreateView" />
         <option value="package:mine no sup" />
@@ -22,7 +23,6 @@
         <option value="package:mine TRACE_startup" />
         <option value="tracer" />
         <option value="package:mine counters" />
-        <option value="package:mine trace" />
       </list>
     </option>
   </component>
