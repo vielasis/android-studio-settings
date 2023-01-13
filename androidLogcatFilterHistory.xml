@@ -4,11 +4,12 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine visa" />
+        <option value="package:mine " />
+        <option value="package:mine visaInit" />
         <option value="package:mine" />
         <option value="package:mine onCreate" />
         <option value="package:mine tag:RemoteConfig rw" />
         <option value="package:mine tag:RemoteConfig" />
-        <option value="package:mine " />
         <option value="package:mine ZZZ" />
         <option value="package:mine tag:MyProfileFragment " />
         <option value="package:mine FRAG" />
@@ -22,7 +23,6 @@
         <option value="package:mine KYC" />
         <option value="package:mine TRACE_startup" />
         <option value="tracer" />
-        <option value="package:mine counters" />
       </list>
     </option>
   </component>
