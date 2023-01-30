@@ -1,19 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:EntertainerWebFragment " />
+    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:EntertainerWebFragment " />
-        <option value="package:mine" />
-        <option value="package:mine level:error " />
-        <option value="package:mine TAG" />
+        <option value="package:mine onCreate" />
         <option value="package:mine " />
+        <option value="package:mine onCreateView" />
+        <option value="package:mine TAG" />
+        <option value="package:mine" />
         <option value="package:mine init" />
         <option value="package:mine failed" />
         <option value="package:mine tag:measureRuntime " />
         <option value="package:mine measureRuntime" />
         <option value="package:mine measureR" />
-        <option value="package:mine onCreate" />
         <option value="package:mine tag:DeeplinkActivity " />
         <option value="package:mine onCrea" />
         <option value="package:mine ZZZ" />
@@ -21,8 +20,9 @@
         <option value="package:mine tag:MyProfileFragment " />
         <option value="package:mine FRAG" />
         <option value="package:mine Picking " />
-        <option value="package:mine onCreateView" />
         <option value="package:mine no sup" />
+        <option value="package:mine TAG_QR" />
+        <option value="package:mine DATA" />
       </list>
     </option>
   </component>
