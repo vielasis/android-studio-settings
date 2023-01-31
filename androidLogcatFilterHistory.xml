@@ -4,8 +4,11 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine pushio" />
-        <option value="package:mine onCreate" />
+        <option value="package:mine pushIo" />
         <option value="package:mine " />
+        <option value="package:mine tag:Link" />
+        <option value="package:mine rasp" />
+        <option value="package:mine onCreate" />
         <option value="package:mine onCreateView" />
         <option value="package:mine TAG" />
         <option value="package:mine" />
@@ -20,9 +23,6 @@
         <option value="package:mine locationCallback" />
         <option value="package:mine tag:MyProfileFragment " />
         <option value="package:mine FRAG" />
-        <option value="package:mine Picking " />
-        <option value="package:mine no sup" />
-        <option value="package:mine TAG_QR" />
       </list>
     </option>
   </component>
