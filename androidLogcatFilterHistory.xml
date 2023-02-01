@@ -1,17 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine onCreate" />
+        <option value="package:mine" />
+        <option value="package:mine DexGuard" />
         <option value="package:mine " />
+        <option value="package:mine onCreate" />
         <option value="package:mine pushio" />
         <option value="package:mine pushIo" />
         <option value="package:mine tag:Link" />
         <option value="package:mine rasp" />
         <option value="package:mine onCreateView" />
         <option value="package:mine TAG" />
-        <option value="package:mine" />
         <option value="package:mine init" />
         <option value="package:mine failed" />
         <option value="package:mine tag:measureRuntime " />
@@ -22,7 +23,6 @@
         <option value="package:mine ZZZ" />
         <option value="package:mine locationCallback" />
         <option value="package:mine tag:MyProfileFragment " />
-        <option value="package:mine FRAG" />
       </list>
     </option>
   </component>
