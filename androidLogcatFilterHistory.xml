@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine" />
+        <option value="package:mine SPY" />
         <option value="package:mine DexGuard" />
         <option value="package:mine " />
         <option value="package:mine onCreate" />
@@ -22,7 +23,6 @@
         <option value="package:mine onCrea" />
         <option value="package:mine ZZZ" />
         <option value="package:mine locationCallback" />
-        <option value="package:mine tag:MyProfileFragment " />
       </list>
     </option>
   </component>
