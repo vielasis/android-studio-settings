@@ -1,0 +1,11 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="lastAction">
+      <UniversalActionModel>
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.swap.SwapWordsAction" />
+        <option name="modelClass" value="osmedile.intellij.stringmanip.swap.SwapWordsExecutor" />
+        <option name="modelData" value="&lt;SwapWordsExecutor /&gt;" />
+      </UniversalActionModel>
+    </option>
+  </component>
+</application>
