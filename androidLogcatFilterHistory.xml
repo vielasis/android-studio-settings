@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="package:mine" />
         <option value="package:mine SPY_" />
         <option value="package:mine ConfigMgr" />
-        <option value="package:mine " />
         <option value="package:mine tag:ConfigMgr" />
         <option value="package:mine SPY" />
         <option value="package:mine DexGuard" />
