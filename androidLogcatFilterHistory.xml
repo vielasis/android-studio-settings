@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine pushio" />
+    <option name="mostRecentlyUsed" value="package:mine pioeng" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine pioeng" />
         <option value="package:mine pushio" />
+        <option value="package:mine pio" />
         <option value="package:mine " />
         <option value="package:mine rece" />
         <option value="package:mine onCreate" />
@@ -21,8 +23,6 @@
         <option value="package:mine onCreateView" />
         <option value="package:mine TAG" />
         <option value="package:mine init" />
-        <option value="package:mine failed" />
-        <option value="package:mine tag:measureRuntime " />
       </list>
     </option>
   </component>
