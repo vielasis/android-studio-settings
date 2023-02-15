@@ -4,10 +4,11 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine pushio" />
+        <option value="package:mine " />
+        <option value="package:mine rece" />
         <option value="package:mine onCreate" />
         <option value=" onCreate" />
         <option value="package:mine" />
-        <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine SPY_" />
         <option value="package:mine ConfigMgr" />
@@ -22,7 +23,6 @@
         <option value="package:mine init" />
         <option value="package:mine failed" />
         <option value="package:mine tag:measureRuntime " />
-        <option value="package:mine measureRuntime" />
       </list>
     </option>
   </component>
