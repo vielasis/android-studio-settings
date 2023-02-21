@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine oncre" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine oncre" />
         <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="package:mine" />
@@ -21,7 +23,6 @@
         <option value="package:mine tag:measureRuntime " />
         <option value="package:mine measureRuntime" />
         <option value="package:mine measureR" />
-        <option value="package:mine tag:DeeplinkActivity " />
       </list>
     </option>
   </component>
