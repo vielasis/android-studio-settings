@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:mine pioeng" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine oncre" />
         <option value="package:mine pioeng" />
         <option value="package:mine pushio" />
         <option value="package:mine pio" />
@@ -22,7 +23,6 @@
         <option value="package:mine rasp" />
         <option value="package:mine onCreateView" />
         <option value="package:mine TAG" />
-        <option value="package:mine init" />
       </list>
     </option>
   </component>
