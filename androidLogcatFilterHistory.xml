@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
         <option value="package:mine onCreateView" />
+        <option value="package:mine" />
         <option value="package:mine oncre" />
         <option value="package:mine onCreate" />
         <option value="package:mine " />
