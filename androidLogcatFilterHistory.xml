@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine SERVICE_NOT" />
+    <option name="mostRecentlyUsed" value="package:mine pushio" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine pushio" />
+        <option value="package:mine " />
         <option value="package:mine SERVICE_NOT" />
         <option value="package:mine onCrea" />
-        <option value="package:mine " />
         <option value="package:mine ConfigProvider" />
         <option value="package:mine Configs" />
         <option value="package:mine remoteConf" />
@@ -22,7 +23,6 @@
         <option value="package:mine firebase" />
         <option value="package:mine oncre" />
         <option value="package:mine pioeng" />
-        <option value="package:mine pushio" />
       </list>
     </option>
   </component>
