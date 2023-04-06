@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine onCreateView" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
+        <option value="package:mine onCreateView" />
         <option value="package:mine " />
+        <option value="package:mine" />
         <option value="package:mine level:info " />
         <option value="package:mine onCreate" />
-        <option value="package:mine onCreateView" />
         <option value="package:m" />
         <option value="package:mine manualKyc" />
         <option value="package:mine pushio" />
