@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:mine tag:WKNA" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &amp;att" />
         <option value="package:mine tag:WKNA" />
         <option value="package:mine " />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="package:mine ConfigProvider" />
         <option value="package:mine Configs" />
         <option value="package:mine remoteConf" />
-        <option value="package:mine newDashTownEnabled" />
       </list>
     </option>
   </component>
