@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine &amp;att" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
+        <option value="package:mine &amp;att" />
+        <option value="package:mine clientid=" />
         <option value="package:mine " />
+        <option value="package:mine" />
         <option value="package:mine scrolle" />
         <option value="package:mine needs" />
         <option value="package:mine isMain" />
@@ -21,8 +23,6 @@
         <option value="package:mine ConfigProvider" />
         <option value="package:mine Configs" />
         <option value="package:mine remoteConf" />
-        <option value="package:mine newDashTownEnabled" />
-        <option value="package:mine remoteCOn" />
       </list>
     </option>
   </component>
