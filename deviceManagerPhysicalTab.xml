@@ -15,17 +15,6 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R58M34K26RM" />
-          </Key>
-        </key>
-        <name value="samsung SM-G975F" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
             <type value="DOMAIN_NAME" />
             <value value="adb-R5CNB0E4CYV-Kpviny._adb-tls-connect._tcp" />
           </Key>
@@ -33,50 +22,6 @@
         <name value="samsung SM-A426B" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-R5CNB0E4CYV-Kpviny._adb-tls-connect._tcp." />
-          </Key>
-        </key>
-        <name value="samsung SM-A426B" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="5210213beab72443" />
-          </Key>
-        </key>
-        <name value="samsung SM-A520F" />
-        <target value="Android 8.0" />
-        <api value="androidversion:26:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="MVT0219724000350" />
-          </Key>
-        </key>
-        <name value="HUAWEI TAS-L29" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R5CW20LPFBX" />
-          </Key>
-        </key>
-        <name value="samsung SM-S918B" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
