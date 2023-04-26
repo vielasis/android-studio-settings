@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine netChanged" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine netChanged" />
         <option value="package:mine " />
+        <option value="package:mine" />
         <option value="package:mine tag:TAG" />
         <option value="package:mine message:finalPin" />
         <option value="package:mine setNonce " />
@@ -13,7 +16,6 @@
         <option value="package:mine onCreate" />
         <option value="package:mine onCreat" />
         <option value="package:mine tag:WKNA" />
-        <option value="package:mine" />
         <option value="package:mine scrolle" />
         <option value="package:mine needs" />
         <option value="package:mine isMain" />
@@ -21,7 +23,6 @@
         <option value="package:mine oncre" />
         <option value="package:mine onCreateView" />
         <option value="package:mine level:info " />
-        <option value="package:m" />
       </list>
     </option>
   </component>
