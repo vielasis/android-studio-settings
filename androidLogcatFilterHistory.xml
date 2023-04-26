@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine netChanged" />
+    <option name="mostRecentlyUsed" value="package:mine NetWorkErro" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine netChanged" />
+        <option value="package:mine NetWorkErro" />
         <option value="package:mine " />
+        <option value="package:mine netChanged" />
         <option value="package:mine" />
         <option value="package:mine tag:TAG" />
         <option value="package:mine message:finalPin" />
@@ -22,7 +23,6 @@
         <option value="package:mine fatal" />
         <option value="package:mine oncre" />
         <option value="package:mine onCreateView" />
-        <option value="package:mine level:info " />
       </list>
     </option>
   </component>
