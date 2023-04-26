@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:finalPin" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine tag:TAG" />
         <option value="package:mine message:finalPin" />
         <option value="package:mine setNonce " />
         <option value="package:mine finalPin|nonce" />
         <option value="package:mine finalPin" />
         <option value="package:mine updating" />
-        <option value="package:mine " />
         <option value="package:mine onResume" />
         <option value="package:mine onCreate" />
         <option value="package:mine onCreat" />
@@ -22,7 +22,6 @@
         <option value="package:mine onCreateView" />
         <option value="package:mine level:info " />
         <option value="package:m" />
-        <option value="package:mine manualKyc" />
       </list>
     </option>
   </component>
