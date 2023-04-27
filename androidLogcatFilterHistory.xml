@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
+    <option name="mostRecentlyUsed" value="package:mine currentBalance" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine currentBalance" />
+        <option value="package:mine pushCu" />
         <option value="package:mine onCreate" />
         <option value="package:mine" />
         <option value="package:mine NetWorkErro" />
@@ -21,8 +23,6 @@
         <option value="package:mine needs" />
         <option value="package:mine isMain" />
         <option value="package:mine fatal" />
-        <option value="package:mine oncre" />
-        <option value="package:mine onCreateView" />
       </list>
     </option>
   </component>
