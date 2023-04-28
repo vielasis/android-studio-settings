@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="rasp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="rasp" />
         <option value="you are u" />
         <option value="package:mine currentBalan" />
@@ -12,7 +12,6 @@
         <option value="package:mine onCreate" />
         <option value="package:mine" />
         <option value="package:mine NetWorkErro" />
-        <option value="package:mine " />
         <option value="package:mine netChanged" />
         <option value="package:mine tag:TAG" />
         <option value="package:mine message:finalPin" />
