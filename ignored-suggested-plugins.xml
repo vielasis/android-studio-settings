@@ -1,0 +1,10 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="aws.toolkit" />
+        <option value="idea.plugin.protoeditor" />
+      </list>
+    </option>
+  </component>
+</application>
