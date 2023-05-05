@@ -3,6 +3,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine pushio" />
+        <option value="package:mine push" />
         <option value="clevertap" />
         <option value="package:mine onCreat" />
         <option value="package:mine tag:WKNA" />
@@ -17,11 +19,9 @@
         <option value="package:mine onCreate" />
         <option value="package:m" />
         <option value="package:mine manualKyc" />
-        <option value="package:mine pushio" />
         <option value="package:mine SERVICE_NOT" />
         <option value="package:mine onCrea" />
         <option value="package:mine ConfigProvider" />
-        <option value="package:mine Configs" />
       </list>
     </option>
   </component>
