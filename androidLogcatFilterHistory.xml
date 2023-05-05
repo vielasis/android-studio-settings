@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine pio" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine pio" />
         <option value="package:mine " />
         <option value="package:mine pushio" />
+        <option value="package:mine pio" />
         <option value="package:mine push" />
         <option value="clevertap" />
         <option value="package:mine onCreat" />
