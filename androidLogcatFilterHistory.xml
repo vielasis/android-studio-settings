@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine got pay" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine got pay" />
         <option value="package:mine " />
         <option value="package:mine pushio" />
         <option value="package:mine pio" />
@@ -21,7 +23,6 @@
         <option value="package:m" />
         <option value="package:mine manualKyc" />
         <option value="package:mine SERVICE_NOT" />
-        <option value="package:mine onCrea" />
       </list>
     </option>
   </component>
