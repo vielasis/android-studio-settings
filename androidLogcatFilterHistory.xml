@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine got pay" />
+    <option name="mostRecentlyUsed" value="visaReplenishBulk" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine got pay" />
+        <option value="visaReplenishBulk" />
+        <option value="worker" />
         <option value="package:mine " />
+        <option value="package:mine got pay" />
         <option value="package:mine pushio" />
         <option value="package:mine pio" />
         <option value="package:mine push" />
@@ -21,8 +23,6 @@
         <option value="package:mine level:info " />
         <option value="package:mine onCreate" />
         <option value="package:m" />
-        <option value="package:mine manualKyc" />
-        <option value="package:mine SERVICE_NOT" />
       </list>
     </option>
   </component>
