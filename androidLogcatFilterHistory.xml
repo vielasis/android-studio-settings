@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine SingpassAuthHelper" />
+    <option name="mostRecentlyUsed" value="package:mine ActionBroa" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ActionBroa" />
         <option value="package:mine SingpassAuthHelper" />
         <option value="package:mine singpass" />
         <option value="package:mine &gt;&gt;&gt;" />
@@ -22,7 +23,6 @@
         <option value="package:m" />
         <option value="package:mine manualKyc" />
         <option value="package:mine pushio" />
-        <option value="package:mine SERVICE_NOT" />
       </list>
     </option>
   </component>
