@@ -1,7 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine SingpassAuthHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine SingpassAuthHelper" />
+        <option value="package:mine singpass" />
+        <option value="package:mine &gt;&gt;&gt;" />
         <option value="package:mine " />
         <option value="clevertap" />
         <option value="package:mine onCreat" />
@@ -19,9 +23,6 @@
         <option value="package:mine manualKyc" />
         <option value="package:mine pushio" />
         <option value="package:mine SERVICE_NOT" />
-        <option value="package:mine onCrea" />
-        <option value="package:mine ConfigProvider" />
-        <option value="package:mine Configs" />
       </list>
     </option>
   </component>
