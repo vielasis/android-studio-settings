@@ -1,15 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine SingpassA" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine SingpassA" />
         <option value="package:mine open external" />
         <option value="package:mine ActionBroa" />
         <option value="package:mine SingpassAuthHelper" />
         <option value="package:mine singpass" />
         <option value="package:mine &gt;&gt;&gt;" />
-        <option value="package:mine " />
         <option value="clevertap" />
         <option value="package:mine onCreat" />
         <option value="package:mine tag:WKNA" />
