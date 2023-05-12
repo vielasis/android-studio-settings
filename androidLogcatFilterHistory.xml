@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="gxs" />
         <option value="package:mine " />
         <option value="package:mine SingpassA" />
         <option value="package:mine open external" />
@@ -22,7 +23,6 @@
         <option value="package:mine onCreateView" />
         <option value="package:mine level:info " />
         <option value="package:mine onCreate" />
-        <option value="package:m" />
       </list>
     </option>
   </component>
