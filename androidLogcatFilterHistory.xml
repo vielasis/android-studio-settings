@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fontScale" />
+    <option name="mostRecentlyUsed" value="package:mine alpha" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine alpha" />
+        <option value="package:mine offset" />
         <option value="package:mine fontScale" />
         <option value="package:mine font" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:mine scrolle" />
         <option value="package:mine needs" />
         <option value="package:mine isMain" />
-        <option value="package:mine fatal" />
-        <option value="package:mine oncre" />
       </list>
     </option>
   </component>
