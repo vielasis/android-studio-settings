@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine fontScale" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fontScale" />
+        <option value="package:mine font" />
         <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="gxs" />
@@ -20,8 +23,6 @@
         <option value="package:mine isMain" />
         <option value="package:mine fatal" />
         <option value="package:mine oncre" />
-        <option value="package:mine onCreateView" />
-        <option value="package:mine level:info " />
       </list>
     </option>
   </component>
