@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine setting sub re" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine setting sub re" />
         <option value="package:mine " />
         <option value="package:mine deboun" />
         <option value="package:mine Rejecting" />
@@ -21,7 +23,6 @@
         <option value="package:mine &gt;&gt;&gt;" />
         <option value="clevertap" />
         <option value="package:mine onCreat" />
-        <option value="package:mine tag:WKNA" />
       </list>
     </option>
   </component>
