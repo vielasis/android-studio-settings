@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:initListener" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:initListener" />
         <option value="package:mine wkn" />
         <option value="package:mine tsr" />
-        <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="package:mine deboun" />
         <option value="package:mine fatal" />
