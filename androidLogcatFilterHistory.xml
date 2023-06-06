@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="CustomTabsCli" />
     <option name="nonFavorites">
       <list>
+        <option value="CustomTabsCli" />
         <option value="package:mine " />
         <option value="package:mine DashConverterFactory" />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="package:mine &gt;&gt;&gt;" />
         <option value="clevertap" />
         <option value="package:mine onCreat" />
-        <option value="package:mine tag:WKNA" />
       </list>
     </option>
   </component>
