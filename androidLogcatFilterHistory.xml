@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreate" />
         <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine DashConverterFactory" />
         <option value="CustomTabsCli" />
         <option value="package:mine finalBody" />
-        <option value="package:mine onCreate" />
         <option value="package:mine onCreateView" />
         <option value="package:mine okhttp" />
         <option value="package:mine fatal" />
