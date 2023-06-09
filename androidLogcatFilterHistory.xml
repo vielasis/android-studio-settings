@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
+    <option name="mostRecentlyUsed" value="package:mine onCrea" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCrea" />
+        <option value="package:mine BaseDash" />
         <option value="package:mine onCreate" />
         <option value="package:mine anr" />
         <option value="package:mine BaseDas" />
@@ -21,8 +23,6 @@
         <option value="gxs" />
         <option value="package:mine SingpassA" />
         <option value="package:mine open external" />
-        <option value="package:mine ActionBroa" />
-        <option value="package:mine SingpassAuthHelper" />
       </list>
     </option>
   </component>
