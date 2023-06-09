@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine onCreate" />
+        <option value="package:mine onCreateV" />
+        <option value="package:mine on" />
         <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine DashConverterFactory" />
@@ -21,8 +23,6 @@
         <option value="package:mine SingpassAuthHelper" />
         <option value="package:mine singpass" />
         <option value="package:mine &gt;&gt;&gt;" />
-        <option value="clevertap" />
-        <option value="package:mine onCreat" />
       </list>
     </option>
   </component>
