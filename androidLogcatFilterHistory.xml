@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine onCreateView" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreateView" />
+        <option value="package:mine raw inpu" />
         <option value="package:mine " />
         <option value="onCreateView" />
         <option value="package:mine clevertap" />
@@ -10,7 +13,6 @@
         <option value="package:mine DashConverterFactory" />
         <option value="CustomTabsCli" />
         <option value="package:mine finalBody" />
-        <option value="package:mine onCreateView" />
         <option value="package:mine okhttp" />
         <option value="package:mine fatal" />
         <option value="package:mine deboun" />
@@ -21,7 +23,6 @@
         <option value="package:mine ActionBroa" />
         <option value="package:mine SingpassAuthHelper" />
         <option value="package:mine singpass" />
-        <option value="package:mine &gt;&gt;&gt;" />
       </list>
     </option>
   </component>
