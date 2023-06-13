@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine clevertap" />
+    <option name="mostRecentlyUsed" value="onCreateView" />
     <option name="nonFavorites">
       <list>
+        <option value="onCreateView" />
         <option value="package:mine clevertap" />
         <option value="package:mine onCreate" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine SingpassAuthHelper" />
         <option value="package:mine singpass" />
         <option value="package:mine &gt;&gt;&gt;" />
-        <option value="clevertap" />
       </list>
     </option>
   </component>
