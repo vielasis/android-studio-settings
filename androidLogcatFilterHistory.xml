@@ -1,28 +1,27 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine AppUpdate" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine AppUpdate" />
-        <option value="package:mine onCreateView" />
-        <option value="package:mine raw inpu" />
         <option value="package:mine " />
-        <option value="onCreateView" />
-        <option value="package:mine clevertap" />
+        <option value="package:mine crash" />
+        <option value="package:mine onCrea" />
+        <option value="package:mine BaseDash" />
         <option value="package:mine onCreate" />
+        <option value="package:mine anr" />
+        <option value="package:mine BaseDas" />
+        <option value="package:mine onCreateV" />
+        <option value="package:mine on" />
         <option value="package:mine" />
         <option value="package:mine DashConverterFactory" />
         <option value="CustomTabsCli" />
         <option value="package:mine finalBody" />
+        <option value="package:mine onCreateView" />
         <option value="package:mine okhttp" />
         <option value="package:mine fatal" />
         <option value="package:mine deboun" />
         <option value="package:mine KAKA" />
         <option value="gxs" />
         <option value="package:mine SingpassA" />
-        <option value="package:mine open external" />
-        <option value="package:mine ActionBroa" />
-        <option value="package:mine SingpassAuthHelper" />
       </list>
     </option>
   </component>
