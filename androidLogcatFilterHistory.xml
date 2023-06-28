@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine FCM" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine FCM" />
         <option value="package:mine onCreateView" />
         <option value="package:mine DashFCMWorker" />
         <option value="package:mine onMe" />
-        <option value="package:mine " />
         <option value="package:mine rwd_rewardsComponentEnable" />
         <option value="package:mine rwd_" />
         <option value="package:mine fetched" />
