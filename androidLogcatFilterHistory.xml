@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="pin" />
+    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreate" />
         <option value="pin" />
         <option value="root" />
         <option value="package:mine debug" />
@@ -14,7 +15,6 @@
         <option value="package:mine fetched" />
         <option value="package:mine crash" />
         <option value="package:mine BaseDash" />
-        <option value="package:mine onCreate" />
         <option value="package:mine anr" />
         <option value="package:mine BaseDas" />
         <option value="package:mine onCreateV" />
