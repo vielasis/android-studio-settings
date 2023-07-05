@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="root" />
+    <option name="mostRecentlyUsed" value="pin" />
     <option name="nonFavorites">
       <list>
+        <option value="pin" />
         <option value="root" />
         <option value="package:mine debug" />
         <option value="package:mine gxs" />
@@ -22,7 +23,6 @@
         <option value="package:mine DashConverterFactory" />
         <option value="CustomTabsCli" />
         <option value="package:mine finalBody" />
-        <option value="package:mine onCreateView" />
       </list>
     </option>
   </component>
