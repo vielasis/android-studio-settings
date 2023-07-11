@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreate" />
         <option value="package:mine " />
         <option value="package:mine JumioR" />
-        <option value="package:mine onCreate" />
         <option value="package:mine onCreate" />
         <option value="pin" />
         <option value="root" />
