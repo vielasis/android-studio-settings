@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine OCR" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine OCR" />
+        <option value="package:mine TAG" />
         <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="package:mine onC" />
@@ -20,8 +23,6 @@
         <option value="package:mine fetched" />
         <option value="package:mine crash" />
         <option value="package:mine BaseDash" />
-        <option value="package:mine anr" />
-        <option value="package:mine BaseDas" />
       </list>
     </option>
   </component>
