@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine OCR" />
+    <option name="mostRecentlyUsed" value="package:mine onCrea" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCrea" />
         <option value="package:mine OCR" />
         <option value="package:mine onCreate" />
         <option value="package:mine TAG" />
@@ -17,7 +18,6 @@
         <option value="root" />
         <option value="package:mine debug" />
         <option value="package:mine gxs" />
-        <option value="package:mine onCrea" />
         <option value="package:mine rwd_rewardsComponentEnable" />
         <option value="package:mine rwd_" />
         <option value="package:mine fetched" />
