@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fatal" />
+    <option name="mostRecentlyUsed" value="package:mine WebViewXX" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine WebViewXX" />
         <option value="package:mine fatal" />
         <option value="package:mine " />
         <option value="package:mine onCreate" />
@@ -22,7 +23,6 @@
         <option value="package:mine gxs" />
         <option value="package:mine rwd_rewardsComponentEnable" />
         <option value="package:mine rwd_" />
-        <option value="package:mine fetched" />
       </list>
     </option>
   </component>
