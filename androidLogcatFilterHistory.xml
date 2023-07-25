@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine onc" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onc" />
         <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="fatal" />
@@ -21,7 +23,6 @@
         <option value="pin" />
         <option value="root" />
         <option value="package:mine debug" />
-        <option value="package:mine gxs" />
       </list>
     </option>
   </component>
