@@ -4,6 +4,8 @@
       <list>
         <option value="package:mine " />
         <option value="package:mine onCreate" />
+        <option value="fatal" />
+        <option value="package:com.singtel.dashassist onCreate" />
         <option value="package:mine WebViewXX" />
         <option value="package:mine fatal" />
         <option value="package:mine onCr" />
@@ -20,8 +22,6 @@
         <option value="root" />
         <option value="package:mine debug" />
         <option value="package:mine gxs" />
-        <option value="package:mine rwd_rewardsComponentEnable" />
-        <option value="package:mine rwd_" />
       </list>
     </option>
   </component>
