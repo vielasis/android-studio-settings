@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fatal" />
         <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="package:mine onc" />
         <option value="fatal" />
         <option value="package:com.singtel.dashassist onCreate" />
         <option value="package:mine WebViewXX" />
-        <option value="package:mine fatal" />
         <option value="package:mine onCr" />
         <option value="package:mine onCrea" />
         <option value="package:mine OCR" />
