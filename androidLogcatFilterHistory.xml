@@ -1,9 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine sec" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine onCreate" />
+        <option value="package:mine sec" />
+        <option value="package:mine oneapp" />
         <option value="package:mine " />
+        <option value="package:mine onCreate" />
         <option value="package:mine Prefs" />
         <option value="package:mine doubl" />
         <option value="package:mine nonce" />
@@ -20,8 +23,6 @@
         <option value="package:mine tagn" />
         <option value="package:mine tag" />
         <option value="package:mine SEManager" />
-        <option value="package:mine JumioR" />
-        <option value="package:mine onCreate" />
       </list>
     </option>
   </component>
