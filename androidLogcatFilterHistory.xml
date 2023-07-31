@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="SPY_VisaPaymentSDKImpl" />
+    <option name="mostRecentlyUsed" value="onMessageReceived" />
     <option name="nonFavorites">
       <list>
+        <option value="onMessageReceived" />
+        <option value="receiv" />
+        <option value="lolA" />
         <option value="SPY_VisaPaymentSDKImpl" />
         <option value="vis" />
         <option value="package:mine " />
@@ -20,9 +23,6 @@
         <option value="package:mine onc" />
         <option value="fatal" />
         <option value="package:com.singtel.dashassist onCreate" />
-        <option value="package:mine WebViewXX" />
-        <option value="package:mine onCr" />
-        <option value="package:mine onCrea" />
       </list>
     </option>
   </component>
