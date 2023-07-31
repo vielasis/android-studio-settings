@@ -1,14 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="onMessageReceived" />
         <option value="receiv" />
         <option value="lolA" />
         <option value="SPY_VisaPaymentSDKImpl" />
         <option value="vis" />
-        <option value="package:mine " />
         <option value="package:mine auth" />
         <option value="package:mine ampli" />
         <option value="package:mine jwt" />
