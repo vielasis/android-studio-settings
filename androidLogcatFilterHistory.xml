@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine jwt" />
+    <option name="mostRecentlyUsed" value="package:mine ampli" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine jwt" />
+        <option value="package:mine ampli" />
         <option value="package:mine " />
+        <option value="package:mine jwt" />
         <option value="package:mine log" />
         <option value="package:mine nonce" />
         <option value="package:mine sec" />
@@ -22,7 +23,6 @@
         <option value="package:mine OCR" />
         <option value="package:mine TAG" />
         <option value="package:mine onC" />
-        <option value="package:mine tagn" />
       </list>
     </option>
   </component>
