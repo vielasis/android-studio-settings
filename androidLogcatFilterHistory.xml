@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
         <option value="package:mine secur" />
+        <option value="package:mine " />
         <option value="package:mine login" />
         <option value="package:mine onCreate" />
         <option value="onMessageReceived" />
