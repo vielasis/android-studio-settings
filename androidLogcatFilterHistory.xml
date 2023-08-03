@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine LazyA" />
         <option value="here" />
         <option value="package:mine onCreate" />
         <option value="package:mine secur" />
@@ -21,7 +22,6 @@
         <option value="package:mine oneapp" />
         <option value="package:mine Prefs" />
         <option value="package:mine doubl" />
-        <option value="package:mine fatal" />
       </list>
     </option>
   </component>
