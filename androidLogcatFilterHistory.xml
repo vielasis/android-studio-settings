@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onC" />
+    <option name="mostRecentlyUsed" value="package:mine WOAH" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine WOAH" />
+        <option value="package:mine msi" />
+        <option value="package:mine " />
         <option value="package:mine onC" />
         <option value="package:mine WKN" />
-        <option value="package:mine " />
         <option value="package:mine LazyA" />
         <option value="here" />
         <option value="package:mine onCreate" />
@@ -21,8 +23,6 @@
         <option value="package:mine jwt" />
         <option value="package:mine log" />
         <option value="package:mine nonce" />
-        <option value="package:mine sec" />
-        <option value="package:mine oneapp" />
       </list>
     </option>
   </component>
