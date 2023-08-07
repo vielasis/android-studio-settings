@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine WALAU" />
+    <option name="mostRecentlyUsed" value="package:com.singtel.dashassist.dev" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.singtel.dashassist.dev" />
         <option value="package:mine WALAU" />
         <option value="package:mine onCreat" />
         <option value="package:mine " />
         <option value="package:com.singtel.dashassist.dev jwt" />
-        <option value="package:com.singtel.dashassist.dev" />
         <option value="package:mine" />
         <option value="package:mine msisdnCr" />
         <option value="package:mine WOAH" />
