@@ -1,14 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine onCreat" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreat" />
+        <option value="package:mine " />
+        <option value="package:com.singtel.dashassist.dev jwt" />
         <option value="package:com.singtel.dashassist.dev" />
         <option value="package:mine" />
         <option value="package:mine msisdnCr" />
         <option value="package:mine WOAH" />
         <option value="package:mine msi" />
-        <option value="package:mine " />
         <option value="package:mine onC" />
         <option value="package:mine WKN" />
         <option value="package:mine LazyA" />
@@ -21,8 +23,6 @@
         <option value="lolA" />
         <option value="SPY_VisaPaymentSDKImpl" />
         <option value="vis" />
-        <option value="package:mine auth" />
-        <option value="package:mine ampli" />
       </list>
     </option>
   </component>
