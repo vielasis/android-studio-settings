@@ -5,15 +5,15 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="dashboard-roaming" type="PLAIN_TEXT" />
-      <mapping pattern="images" type="PLAIN_TEXT" />
       <mapping pattern="TAGFILE" type="PLAIN_TEXT" />
+      <mapping pattern="dashboard" type="PLAIN_TEXT" />
+      <mapping pattern="images" type="PLAIN_TEXT" />
       <mapping pattern=".mailmap" type="PLAIN_TEXT" />
       <mapping pattern="queue-file" type="PLAIN_TEXT" />
-      <mapping pattern="dashboard" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="flat" type="PLAIN_TEXT" />
-      <mapping ext="exec" type="PLAIN_TEXT" />
-      <mapping ext="db" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
