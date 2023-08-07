@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.singtel.dashassist.dev" />
         <option value="package:mine" />
         <option value="package:mine msisdnCr" />
         <option value="package:mine WOAH" />
@@ -22,7 +23,6 @@
         <option value="vis" />
         <option value="package:mine auth" />
         <option value="package:mine ampli" />
-        <option value="package:mine jwt" />
       </list>
     </option>
   </component>
