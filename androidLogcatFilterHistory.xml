@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine front" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine front" />
         <option value="package:mine" />
         <option value="here" />
         <option value="package:com.singtel.dashassist.dev" />
@@ -22,7 +23,6 @@
         <option value="onMessageReceived" />
         <option value="receiv" />
         <option value="lolA" />
-        <option value="SPY_VisaPaymentSDKImpl" />
       </list>
     </option>
   </component>
