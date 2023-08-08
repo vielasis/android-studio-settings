@@ -10,7 +10,7 @@
         </key>
         <name value="Google Pixel 6a" />
         <target value="Android 13.0" />
-        <api value="androidversion:33:null:null:true" />
+        <api value="androidversion:33:null:5:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -21,7 +21,7 @@
         </key>
         <name value="samsung SM-A426B" />
         <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
+        <api value="androidversion:31:null:5:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
