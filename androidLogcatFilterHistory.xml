@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
+    <option name="mostRecentlyUsed" value="package:mine lasfl" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine onCreate" />
+        <option value="package:mine lasfl" />
         <option value="package:mine " />
+        <option value="package:mine onCreate" />
         <option value="fatal" />
         <option value="package:com.singtel.dashassist.dev" />
         <option value="package:mine front" />
@@ -22,7 +23,6 @@
         <option value="package:mine secur" />
         <option value="package:mine login" />
         <option value="onMessageReceived" />
-        <option value="receiv" />
       </list>
     </option>
   </component>
