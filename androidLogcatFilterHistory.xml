@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ssl" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine ssl" />
         <option value="package:mine" />
-        <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="package:mine lasfl" />
         <option value="fatal" />
