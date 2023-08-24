@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine compre" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine compre" />
         <option value="package:mine " />
         <option value="package:mine onCreateView" />
         <option value="package:mine ssl" />
@@ -21,7 +23,6 @@
         <option value="package:mine onC" />
         <option value="package:mine WKN" />
         <option value="package:mine LazyA" />
-        <option value="package:mine secur" />
       </list>
     </option>
   </component>
