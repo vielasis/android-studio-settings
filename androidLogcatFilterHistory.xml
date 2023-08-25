@@ -1,28 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine onCreate" />
-        <option value="package:mine ssl" />
-        <option value="package:mine" />
         <option value="package:mine " />
-        <option value="package:mine lasfl" />
-        <option value="fatal" />
-        <option value="package:com.singtel.dashassist.dev" />
-        <option value="package:mine front" />
-        <option value="here" />
-        <option value="package:mine WALAU" />
-        <option value="package:mine onCreat" />
-        <option value="package:com.singtel.dashassist.dev jwt" />
-        <option value="package:mine msisdnCr" />
-        <option value="package:mine WOAH" />
-        <option value="package:mine msi" />
-        <option value="package:mine onC" />
-        <option value="package:mine WKN" />
-        <option value="package:mine LazyA" />
-        <option value="package:mine secur" />
-        <option value="package:mine login" />
       </list>
     </option>
   </component>
