@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine MyProfileF" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine onCreat" />
         <option value="package:mine SEManager" />
         <option value="package:mine MyProfileF" />
-        <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="package:mine compre" />
         <option value="package:mine onCreateView" />
@@ -17,7 +17,6 @@
         <option value="package:mine front" />
         <option value="here" />
         <option value="package:mine WALAU" />
-        <option value="package:mine onCreat" />
         <option value="package:com.singtel.dashassist.dev jwt" />
         <option value="package:mine msisdnCr" />
         <option value="package:mine WOAH" />
