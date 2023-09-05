@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine firebase" />
         <option value="package:mine onCreat" />
         <option value="package:mine SEManager" />
         <option value="package:mine MyProfileF" />
@@ -21,7 +22,6 @@
         <option value="package:mine msisdnCr" />
         <option value="package:mine WOAH" />
         <option value="package:mine msi" />
-        <option value="package:mine onC" />
       </list>
     </option>
   </component>
