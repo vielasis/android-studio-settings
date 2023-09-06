@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine onCreateVi" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreateVi" />
         <option value="package:mine " />
         <option value="package:mine compres" />
         <option value="package:com.singtel.dashbusiness.android" />
@@ -21,7 +23,6 @@
         <option value="here" />
         <option value="package:mine WALAU" />
         <option value="package:com.singtel.dashassist.dev jwt" />
-        <option value="package:mine msisdnCr" />
       </list>
     </option>
   </component>
