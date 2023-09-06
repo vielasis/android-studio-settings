@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine compres" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.singtel.dashbusiness.android" />
+        <option value="package:mine compres" />
         <option value="package:mine " />
+        <option value="package:com.singtel.dashbusiness.android" />
         <option value="package:mine SEManager" />
         <option value="package:mine firebase" />
         <option value="package:mine onCreat" />
@@ -21,7 +23,6 @@
         <option value="package:mine WALAU" />
         <option value="package:com.singtel.dashassist.dev jwt" />
         <option value="package:mine msisdnCr" />
-        <option value="package:mine WOAH" />
       </list>
     </option>
   </component>
