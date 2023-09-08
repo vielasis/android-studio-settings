@@ -18,5 +18,6 @@
     <mask>*.gradle*</mask>
     <mask>*.kt*</mask>
     <mask>*.xml</mask>
+    <mask>*.gradlle*</mask>
   </component>
 </application>
