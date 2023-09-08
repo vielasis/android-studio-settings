@@ -14,9 +14,9 @@
     <mask>*.kt</mask>
     <mask>*.java</mask>
     <mask>strings.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.gradle*</mask>
     <mask>*.kt*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
