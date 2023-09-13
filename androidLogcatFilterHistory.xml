@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine onCreateV" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
+        <option value="package:mine onCreateV" />
         <option value="package:mine " />
+        <option value="package:mine" />
         <option value="package:mine onCreate" />
         <option value="package:mine KAKA" />
         <option value="package:mine onCreateVi" />
@@ -22,7 +23,6 @@
         <option value="package:com.singtel.dashassist.dev" />
         <option value="package:mine front" />
         <option value="here" />
-        <option value="package:mine WALAU" />
       </list>
     </option>
   </component>
