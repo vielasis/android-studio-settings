@@ -1,12 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine onCrea" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine onCreate" />
+        <option value="package:mine onCrea" />
         <option value="package:mine" />
-        <option value="package:mine KAKA" />
+        <option value="package:mine BiometricsMediator" />
+        <option value="package:mine Biom" />
         <option value="package:mine " />
+        <option value="package:mine onCreate" />
+        <option value="package:mine KAKA" />
         <option value="package:mine onCreateVi" />
         <option value="package:mine compres" />
         <option value="package:com.singtel.dashbusiness.android" />
@@ -20,9 +23,6 @@
         <option value="package:mine lasfl" />
         <option value="fatal" />
         <option value="package:com.singtel.dashassist.dev" />
-        <option value="package:mine front" />
-        <option value="here" />
-        <option value="package:mine WALAU" />
       </list>
     </option>
   </component>
