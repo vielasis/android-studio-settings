@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreateV" />
+    <option name="mostRecentlyUsed" value="package:mine WKN" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine WKN" />
         <option value="package:mine onCreateV" />
         <option value="package:mine 68q" />
         <option value="package:mine 6q" />
@@ -22,7 +23,6 @@
         <option value="package:mine MyProfileF" />
         <option value="package:mine compre" />
         <option value="package:mine onCreateView" />
-        <option value="package:mine ssl" />
       </list>
     </option>
   </component>
