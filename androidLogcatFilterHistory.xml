@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:com.SingTel.mWallet" />
         <option value="com.visa" />
         <option value="package:mine startu=" />
         <option value="package:mine fatal" />
@@ -21,7 +22,6 @@
         <option value="package:mine Biom" />
         <option value="package:mine onCreate" />
         <option value="package:mine KAKA" />
-        <option value="package:mine onCreateVi" />
       </list>
     </option>
   </component>
