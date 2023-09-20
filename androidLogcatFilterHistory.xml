@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine WKN" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine WKN" />
         <option value="package:mine onCreateV" />
         <option value="package:mine 68q" />
@@ -11,7 +11,6 @@
         <option value="package:mine" />
         <option value="package:mine BiometricsMediator" />
         <option value="package:mine Biom" />
-        <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="package:mine KAKA" />
         <option value="package:mine onCreateVi" />
