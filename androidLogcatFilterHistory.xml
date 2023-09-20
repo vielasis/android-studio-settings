@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fatal" />
+    <option name="mostRecentlyUsed" value="com.visa" />
     <option name="nonFavorites">
       <list>
+        <option value="com.visa" />
+        <option value="package:mine startu=" />
         <option value="package:mine fatal" />
         <option value="package:mine " />
         <option value="VisaProcessObserver" />
@@ -21,8 +23,6 @@
         <option value="package:mine onCreate" />
         <option value="package:mine KAKA" />
         <option value="package:mine onCreateVi" />
-        <option value="package:mine compres" />
-        <option value="package:com.singtel.dashbusiness.android" />
       </list>
     </option>
   </component>
