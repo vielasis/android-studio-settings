@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="com.visa" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="com.visa" />
         <option value="package:mine startu=" />
         <option value="package:mine fatal" />
-        <option value="package:mine " />
         <option value="VisaProcessObserver" />
         <option value="TAG" />
         <option value="fatal" />
