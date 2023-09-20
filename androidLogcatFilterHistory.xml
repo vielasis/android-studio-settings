@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fatal" />
         <option value="package:mine " />
         <option value="VisaProcessObserver" />
         <option value="TAG" />
@@ -9,7 +11,6 @@
         <option value="exception" />
         <option value="package:mine VisaProcessObserver" />
         <option value="package:mine VisaPr" />
-        <option value="package:mine fatal" />
         <option value="package:mine" />
         <option value="package:mine onCreateV" />
         <option value="package:mine 68q" />
