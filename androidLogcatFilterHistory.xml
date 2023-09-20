@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine VisaProcessObserver" />
+    <option name="mostRecentlyUsed" value="fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="fatal" />
+        <option value="exception" />
         <option value="package:mine VisaProcessObserver" />
         <option value="package:mine " />
         <option value="package:mine VisaPr" />
@@ -21,8 +23,6 @@
         <option value="package:com.singtel.dashbusiness.android" />
         <option value="package:mine SEManager" />
         <option value="package:mine firebase" />
-        <option value="package:mine onCreat" />
-        <option value="package:mine MyProfileF" />
       </list>
     </option>
   </component>
