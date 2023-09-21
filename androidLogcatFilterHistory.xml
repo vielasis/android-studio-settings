@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine getInfo" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine loadm" />
         <option value="package:mine getInfo" />
         <option value="package:mine " />
         <option value="package:com.SingTel.mWallet" />
@@ -15,14 +17,12 @@
         <option value="exception" />
         <option value="package:mine VisaProcessObserver" />
         <option value="package:mine VisaPr" />
-        <option value="package:mine" />
         <option value="package:mine onCreateV" />
         <option value="package:mine 68q" />
         <option value="package:mine 6q" />
         <option value="package:mine onCrea" />
         <option value="package:mine BiometricsMediator" />
         <option value="package:mine Biom" />
-        <option value="package:mine onCreate" />
       </list>
     </option>
   </component>
