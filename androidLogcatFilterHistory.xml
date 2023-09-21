@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine uuid" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine uuid" />
         <option value="package:mine" />
         <option value="package:mine loadm" />
         <option value="package:mine getInfo" />
@@ -22,7 +23,6 @@
         <option value="package:mine 6q" />
         <option value="package:mine onCrea" />
         <option value="package:mine BiometricsMediator" />
-        <option value="package:mine Biom" />
       </list>
     </option>
   </component>
