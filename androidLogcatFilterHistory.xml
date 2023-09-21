@@ -1,14 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine userInfoDb" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine userInfoDb" />
         <option value="package:mine uuid" />
         <option value="package:mine" />
         <option value="package:mine loadm" />
         <option value="package:mine getInfo" />
-        <option value="package:mine " />
         <option value="package:com.SingTel.mWallet" />
         <option value="com.visa" />
         <option value="package:mine startu=" />
