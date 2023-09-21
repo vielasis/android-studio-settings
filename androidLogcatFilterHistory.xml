@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine settin" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine settin" />
         <option value="package:mine " />
         <option value="package:mine userInfoDb" />
         <option value="package:mine uuid" />
@@ -21,7 +23,6 @@
         <option value="package:mine onCreateV" />
         <option value="package:mine 68q" />
         <option value="package:mine 6q" />
-        <option value="package:mine onCrea" />
       </list>
     </option>
   </component>
