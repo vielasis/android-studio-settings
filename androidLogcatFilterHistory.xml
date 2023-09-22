@@ -1,27 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine open" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
-        <option value="package:mine WKN" />
-        <option value="package:mine onCreateV" />
-        <option value="package:mine 68q" />
-        <option value="package:mine 6q" />
-        <option value="package:mine onCrea" />
-        <option value="package:mine" />
-        <option value="package:mine BiometricsMediator" />
-        <option value="package:mine Biom" />
-        <option value="package:mine onCreate" />
-        <option value="package:mine KAKA" />
-        <option value="package:mine onCreateVi" />
-        <option value="package:mine compres" />
-        <option value="package:com.singtel.dashbusiness.android" />
-        <option value="package:mine SEManager" />
-        <option value="package:mine firebase" />
-        <option value="package:mine onCreat" />
-        <option value="package:mine MyProfileF" />
-        <option value="package:mine compre" />
-        <option value="package:mine onCreateView" />
+        <option value="package:mine open" />
       </list>
     </option>
   </component>
