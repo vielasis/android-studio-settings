@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine open" />
+    <option name="mostRecentlyUsed" value="package:com.singtel.dashbusiness.android " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.singtel.dashbusiness.android " />
+        <option value="package:com.singtel.dashbusiness.android registerG" />
+        <option value="package:com.singtel.dashbusiness.android" />
         <option value="package:mine open" />
       </list>
     </option>
