@@ -1,28 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine settin" />
+    <option name="mostRecentlyUsed" value="package:mine onCreateView" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine settin" />
-        <option value="package:mine " />
-        <option value="package:mine userInfoDb" />
-        <option value="package:mine uuid" />
-        <option value="package:mine" />
-        <option value="package:mine loadm" />
-        <option value="package:mine getInfo" />
-        <option value="package:com.SingTel.mWallet" />
-        <option value="com.visa" />
-        <option value="package:mine startu=" />
-        <option value="package:mine fatal" />
-        <option value="VisaProcessObserver" />
-        <option value="TAG" />
-        <option value="fatal" />
-        <option value="exception" />
-        <option value="package:mine VisaProcessObserver" />
-        <option value="package:mine VisaPr" />
-        <option value="package:mine onCreateV" />
-        <option value="package:mine 68q" />
-        <option value="package:mine 6q" />
+        <option value="package:mine onCreateView" />
       </list>
     </option>
   </component>
