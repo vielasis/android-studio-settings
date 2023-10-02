@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine singve" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine singve" />
         <option value="package:mine " />
         <option value="package:mine singverify" />
         <option value="package:mine we" />
