@@ -1,15 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine &quot;singverify IN&quot;" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
-        <option value="package:mine okhttp" />
-        <option value="package:mine onCreate" />
-        <option value="package:mine idnumber" />
-        <option value="package:com.singtel.dashbusiness.android " />
-        <option value="package:com.singtel.dashbusiness.android registerG" />
-        <option value="package:com.singtel.dashbusiness.android" />
-        <option value="package:mine open" />
+        <option value="package:mine &quot;singverify IN&quot;" />
+        <option value="package:mine singverify " />
       </list>
     </option>
   </component>
