@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &quot;singverify&quot;" />
+    <option name="mostRecentlyUsed" value="package:mine forcing" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine forcing" />
+        <option value="package:mine " />
         <option value="package:mine &quot;singverify&quot;" />
         <option value="package:mine &quot;singverify OUT&quot;" />
         <option value="package:mine &quot;singverify IN&quot;" />
