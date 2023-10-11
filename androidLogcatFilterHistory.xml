@@ -1,14 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine forcing" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine forcing" />
-        <option value="package:mine " />
-        <option value="package:mine &quot;singverify&quot;" />
-        <option value="package:mine &quot;singverify OUT&quot;" />
-        <option value="package:mine &quot;singverify IN&quot;" />
-        <option value="package:mine singverify " />
+        <option value="package:mine process" />
+        <option value="package:mine needs fi" />
+        <option value="package:mine isMain" />
+        <option value="package:mine fatal" />
       </list>
     </option>
   </component>
