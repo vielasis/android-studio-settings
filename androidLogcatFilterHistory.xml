@@ -1,17 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
-        <option value="package:mine onAvai" />
-        <option value="package:mine onCreate" />
-        <option value="package:mine singverify" />
-        <option value="package:mine singve" />
-        <option value="package:mine we" />
-        <option value="package:mine bypas" />
-        <option value="package:mine got local" />
-        <option value="package:mine" />
-        <option value="package:mine onCreateView" />
+        <option value="package:mine process" />
+        <option value="package:mine needs fi" />
+        <option value="package:mine isMain" />
+        <option value="package:mine fatal" />
       </list>
     </option>
   </component>

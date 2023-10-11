@@ -14,10 +14,10 @@
     <mask>strings.xml</mask>
     <mask>*.kt*</mask>
     <mask>*.gradlle*</mask>
-    <mask>*.gradle*</mask>
     <mask>*.xml*</mask>
     <mask>strings.xml*</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
+    <mask>*.gradle*</mask>
   </component>
 </application>
