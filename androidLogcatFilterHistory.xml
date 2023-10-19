@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine fatal" />
+        <option value="package:mine onCreate()" />
         <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="package:mine isMain" />
