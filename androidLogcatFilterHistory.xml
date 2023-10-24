@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine fatal" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine level:error " />
-        <option value="package:mine VPC" />
         <option value="package:mine fatal" />
+        <option value="package:mine level:error " />
+        <option value="package:mine level:error startSer" />
+        <option value="package:mine VPC" />
         <option value="package:mine HOOK_S" />
         <option value="package:mine " />
         <option value="package:mine HOOK_SER" />
@@ -22,7 +23,6 @@
         <option value="package:mine isMain" />
         <option value="package:mine fata" />
         <option value="package:mine error" />
-        <option value="package:mine HELLO -&gt;" />
       </list>
     </option>
   </component>
