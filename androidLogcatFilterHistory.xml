@@ -4,8 +4,11 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine level:error " />
-        <option value="package:mine " />
+        <option value="package:mine VPC" />
         <option value="package:mine fatal" />
+        <option value="package:mine HOOK_S" />
+        <option value="package:mine " />
+        <option value="package:mine HOOK_SER" />
         <option value="package:mine TAG" />
         <option value="package:mine onC" />
         <option value="package:mine onR" />
@@ -20,9 +23,6 @@
         <option value="package:mine fata" />
         <option value="package:mine error" />
         <option value="package:mine HELLO -&gt;" />
-        <option value="package:mine 4331" />
-        <option value="package:mine HELLO" />
-        <option value="package:mine level:debug " />
       </list>
     </option>
   </component>
