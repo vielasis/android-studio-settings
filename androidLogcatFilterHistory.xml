@@ -1,16 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fatal" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine fatal" />
+        <option value="package:mine" />
         <option value="package:mine " />
+        <option value="package:mine TEST_TEST" />
+        <option value="package:mine VPCWorker" />
+        <option value="package:mine visa" />
+        <option value="package:mine fatal" />
         <option value="package:mine onCreate()" />
         <option value="package:mine &gt;&gt;&gt;" />
         <option value="package:mine onCreate" />
         <option value="package:mine isMain" />
         <option value="package:mine fata" />
-        <option value="package:mine" />
         <option value="package:mine error" />
         <option value="package:mine HELLO -&gt;" />
         <option value="package:mine 4331" />
@@ -20,8 +23,6 @@
         <option value="package:mine level:error " />
         <option value="package:mine init" />
         <option value="package:mine Init: create" />
-        <option value="package:mine process" />
-        <option value="package:mine needs fi" />
       </list>
     </option>
   </component>
