@@ -4,11 +4,11 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine fatal" />
+        <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine level:error startSer" />
         <option value="package:mine VPC" />
         <option value="package:mine HOOK_S" />
-        <option value="package:mine " />
         <option value="package:mine HOOK_SER" />
         <option value="package:mine TAG" />
         <option value="package:mine onC" />
