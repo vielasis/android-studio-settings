@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine setPreferredService not supported device?" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine setPreferredService not supported device?" />
+        <option value="package:mine gg" />
         <option value="package:mine" />
         <option value="package:mine worker" />
         <option value="package:mine fatal" />
@@ -21,8 +23,6 @@
         <option value="package:mine fata" />
         <option value="package:mine error" />
         <option value="package:mine HELLO -&gt;" />
-        <option value="package:mine 4331" />
-        <option value="package:mine HELLO" />
       </list>
     </option>
   </component>
