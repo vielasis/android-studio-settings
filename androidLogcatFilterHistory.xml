@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine device" />
         <option value="package:mine onReceive" />
         <option value="package:mine BootRec" />
-        <option value="package:mine" />
         <option value="package:mine fatal" />
         <option value="package:mine setPreferredService not supported device?" />
         <option value="package:mine gg" />
