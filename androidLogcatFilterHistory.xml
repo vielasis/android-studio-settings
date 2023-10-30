@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="vpc" />
     <option name="nonFavorites">
       <list>
+        <option value="vpc" />
+        <option value="package:mine work" />
         <option value="package:mine " />
         <option value="package:mine fatal" />
         <option value="package:mine" />
@@ -20,8 +23,6 @@
         <option value="package:mine VPCWorker" />
         <option value="package:mine visa" />
         <option value="package:mine onCreate()" />
-        <option value="package:mine &gt;&gt;&gt;" />
-        <option value="package:mine onCreate" />
       </list>
     </option>
   </component>
