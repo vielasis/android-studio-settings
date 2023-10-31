@@ -20,5 +20,6 @@
     <mask>*.xml</mask>
     <mask>*.pro</mask>
     <mask>*.gradle*</mask>
+    <mask>*.*Activity*</mask>
   </component>
 </application>
