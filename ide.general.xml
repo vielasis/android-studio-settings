@@ -18,7 +18,6 @@
       <map>
         <entry key="Memory" value="true" />
         <entry key="ReadOnlyAttribute" value="false" />
-        <entry key="SendFeedbackPanel" value="false" />
       </map>
     </option>
   </component>
