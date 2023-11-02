@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="fatal" />
         <option value="package:" />
         <option value="package:mine onCreateView" />
-        <option value="package:mine " />
         <option value="package:mine fatal" />
         <option value="package:mine dealWithTitle" />
         <option value="package:mine onCreate()" />
