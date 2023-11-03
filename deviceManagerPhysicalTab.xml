@@ -10,7 +10,7 @@
         </key>
         <name value="Google Pixel 6a" />
         <target value="Android API 34" />
-        <api value="androidversion:34:null:8:true" />
+        <api value="androidversion:34:null:9:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
