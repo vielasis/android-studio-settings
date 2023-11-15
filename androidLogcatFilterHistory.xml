@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.SingTel.mWallet.dev " />
+    <option name="mostRecentlyUsed" value="package:com.SingTel.mWallet.dev" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.SingTel.mWallet.dev" />
+        <option value="package:com.SingTel.mWallet.dev click" />
         <option value="package:com.SingTel.mWallet.dev " />
         <option value="package:com.SingTel.mWallet.dev NOTIFNOTIF" />
-        <option value="package:com.SingTel.mWallet.dev" />
         <option value="package:mine NOTIFNOTIF" />
         <option value="package:mine " />
         <option value="package:mine onMessa" />
