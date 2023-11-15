@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onMessa" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine onMessa" />
         <option value="package:mine tag:clevertap" />
         <option value="package:mine fcm" />
@@ -11,7 +11,6 @@
         <option value="package:mine fatal" />
         <option value="package:mine LogClea" />
         <option value="package:mine Worker" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
