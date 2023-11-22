@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine buildPu" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine buildPu" />
         <option value="package:mine " />
+        <option value="package:mine buildPu" />
         <option value="package:mine RENDER" />
         <option value="package:mine onCreate" />
         <option value="package:mine" />
