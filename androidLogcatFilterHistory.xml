@@ -4,11 +4,11 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine fatal" />
+        <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="package:mine on" />
         <option value="package:mine onCreate()" />
         <option value="fatal" />
-        <option value="package:mine " />
         <option value="package:mine buildPu" />
         <option value="package:mine RENDER" />
         <option value="package:mine" />
