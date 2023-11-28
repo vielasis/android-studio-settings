@@ -1,7 +1,7 @@
 <toolSet name="External Tools">
   <tool name="ktlint current file" description="ktlint -F --android" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="ktlint" />
+      <option name="COMMAND" value="/usr/local/bin/ktlint" />
       <option name="PARAMETERS" value="-F --code-style=android-studio $FileRelativePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
