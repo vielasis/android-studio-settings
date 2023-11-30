@@ -13,6 +13,7 @@
         <option value="EmuHWC2" />
         <option value="FA-SVC" />
         <option value="Finsky" />
+        <option value="gauges" />
         <option value="GnssHAL_GnssInterface" />
         <option value="GnssLocationProvider" />
         <option value="goldfish-address-space" />
@@ -31,7 +32,7 @@
         <option value="UntrustedWifiNetworkFactory" />
         <option value="ViewRootImpl" />
         <option value="W/InputReader" />
-        <option value="gauges" />
+        <option value="FirebasePerformance" />
       </list>
     </option>
   </component>

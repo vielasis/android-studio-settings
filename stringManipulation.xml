@@ -1,10 +1,10 @@
 <application>
   <component name="StringManipulationState">
-    <option name="lastAction">
+    <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.swap.SwapWordsAction" />
-        <option name="modelClass" value="osmedile.intellij.stringmanip.swap.SwapWordsExecutor" />
-        <option name="modelData" value="&lt;SwapWordsExecutor /&gt;" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToLowerCaseAction" />
+        <option name="description" value="To lower case" />
+        <option name="textWithMnemonic" value="To lower case" />
       </UniversalActionModel>
     </option>
   </component>
