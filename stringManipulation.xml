@@ -1,10 +1,26 @@
 <application>
   <component name="StringManipulationState">
+    <option name="grepHistory">
+      <list>
+        <GrepSettings>
+          <option name="caseSensitive" value="true" />
+          <option name="groupMatching" value="true" />
+          <option name="pattern" value="ABCDEFGHIZJ" />
+        </GrepSettings>
+        <GrepSettings>
+          <option name="caseSensitive" value="true" />
+          <option name="groupMatching" value="true" />
+          <option name="pattern" value="&quot;ABCDEFGHIZJ&quot;" />
+        </GrepSettings>
+      </list>
+    </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToScreamingSnakeCaseOrCamelCaseAction" />
-        <option name="description" value="Toggle: SCREAMING_SNAKE_CASE / camelCase" />
-        <option name="textWithMnemonic" value="SCREAMING_SNAKE_CASE / camelCase" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.filter.QuickPartitionAction" />
+        <option name="description" value="Partition matching lines from not-matching" />
+        <option name="modelClass" value="osmedile.intellij.stringmanip.filter.GrepSettings" />
+        <option name="modelData" value="&lt;GrepSettings&gt;&#10;  &lt;option name=&quot;caseSensitive&quot; value=&quot;true&quot; /&gt;&#10;  &lt;option name=&quot;fullWords&quot; value=&quot;false&quot; /&gt;&#10;  &lt;option name=&quot;groupMatching&quot; value=&quot;true&quot; /&gt;&#10;  &lt;option name=&quot;inverted&quot; value=&quot;false&quot; /&gt;&#10;  &lt;option name=&quot;pattern&quot; value=&quot;&amp;quot;ABCDEFGHIZJ&amp;quot;&quot; /&gt;&#10;  &lt;option name=&quot;regex&quot; value=&quot;false&quot; /&gt;&#10;&lt;/GrepSettings&gt;" />
+        <option name="textWithMnemonic" value="Partition" />
       </UniversalActionModel>
     </option>
   </component>
