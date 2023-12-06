@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCr" />
+    <option name="mostRecentlyUsed" value="package:mine compress" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine compress" />
         <option value="package:mine onCr" />
         <option value="ContextUtilsKt" />
         <option value="package:mine setRec" />
@@ -22,7 +23,6 @@
         <option value="package:mine RENDER" />
         <option value="package:" />
         <option value="package:mine onCreateView" />
-        <option value="package:mine dealWithTitle" />
       </list>
     </option>
   </component>
