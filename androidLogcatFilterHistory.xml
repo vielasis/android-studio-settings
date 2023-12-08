@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fatal" />
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine onCreat" />
         <option value="package:mine onViewCreated" />
@@ -9,9 +12,7 @@
         <option value="package:mine onCr" />
         <option value="ContextUtilsKt" />
         <option value="package:mine setRec" />
-        <option value="package:mine fatal" />
         <option value="package:mine forter" />
-        <option value="package:mine" />
         <option value="package:mine forceUpdateConfig" />
         <option value="package:mine onV" />
         <option value="package:mine onCrea" />
