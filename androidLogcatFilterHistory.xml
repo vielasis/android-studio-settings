@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine got engl" />
         <option value="package:mine onCreate" />
         <option value="package:mine fatal" />
         <option value="package:mine onCreateView" />
         <option value="package:mine" />
-        <option value="package:mine " />
         <option value="package:mine onCreat" />
         <option value="package:mine onViewCreated" />
         <option value="package:mine compress" />
@@ -22,7 +22,6 @@
         <option value="package:mine onCreate()" />
         <option value="package:mine on" />
         <option value="fatal" />
-        <option value="package:mine buildPu" />
       </list>
     </option>
   </component>
