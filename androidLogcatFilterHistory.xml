@@ -3,8 +3,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
-        <option value="package:mine fatal" />
+        <option value="package:mine KYC-UserInfo" />
         <option value="package:mine onCreate" />
+        <option value="package:mine fatal" />
         <option value="package:mine onViewCrea" />
         <option value="package:mine on" />
         <option value="package:mine got engl" />
@@ -21,7 +22,6 @@
         <option value="package:mine onV" />
         <option value="package:mine onCrea" />
         <option value="package:mine fata" />
-        <option value="package:mine onCreate()" />
       </list>
     </option>
   </component>
