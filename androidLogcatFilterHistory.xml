@@ -3,6 +3,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine FormStateBinder" />
+        <option value="package:mine single" />
         <option value="package:mine fatal" />
         <option value="package:mine KYC-UserInfo" />
         <option value="package:mine onCreate" />
@@ -20,8 +22,6 @@
         <option value="package:mine forter" />
         <option value="package:mine forceUpdateConfig" />
         <option value="package:mine onV" />
-        <option value="package:mine onCrea" />
-        <option value="package:mine fata" />
       </list>
     </option>
   </component>
