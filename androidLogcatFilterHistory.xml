@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine HelperListDs" />
+    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreate" />
         <option value="package:mine HelperListDs" />
         <option value="package:mine " />
         <option value="package:mine helper" />
@@ -10,7 +11,6 @@
         <option value="package:mine single" />
         <option value="package:mine fatal" />
         <option value="package:mine KYC-UserInfo" />
-        <option value="package:mine onCreate" />
         <option value="package:mine onViewCrea" />
         <option value="package:mine on" />
         <option value="package:mine got engl" />
