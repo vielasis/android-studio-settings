@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine HelperListDs" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine HelperListDs" />
         <option value="package:mine " />
+        <option value="package:mine helper" />
         <option value="package:mine FormStateBinder" />
         <option value="package:mine single" />
         <option value="package:mine fatal" />
@@ -20,8 +23,6 @@
         <option value="ContextUtilsKt" />
         <option value="package:mine setRec" />
         <option value="package:mine forter" />
-        <option value="package:mine forceUpdateConfig" />
-        <option value="package:mine onV" />
       </list>
     </option>
   </component>
