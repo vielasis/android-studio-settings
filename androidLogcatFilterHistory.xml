@@ -1,15 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine VPCRepository" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine VPCRepository" />
         <option value="package:mine registerVpc" />
         <option value="package:mine TAG" />
         <option value="package:mine fatal" />
         <option value="package:mine onCreate" />
         <option value="package:mine HelperListDs" />
-        <option value="package:mine " />
         <option value="package:mine helper" />
         <option value="package:mine FormStateBinder" />
         <option value="package:mine single" />
