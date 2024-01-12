@@ -16,9 +16,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.encoding.EncodeBase64Action" />
-        <option name="description" value="Encode to Base64" />
-        <option name="textWithMnemonic" value="Encode to Base64" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToWordLowercaseOrToCamelCaseAction" />
+        <option name="description" value="Toggle: lower case words / camelCase" />
+        <option name="textWithMnemonic" value="lower case words / camelCase" />
       </UniversalActionModel>
     </option>
   </component>
