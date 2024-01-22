@@ -16,9 +16,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToWordLowercaseOrToCamelCaseAction" />
-        <option name="description" value="Toggle: lower case words / camelCase" />
-        <option name="textWithMnemonic" value="lower case words / camelCase" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToSentenceCaseOrCamelCaseAction" />
+        <option name="description" value="Toggle: First word capitalized / camelCase" />
+        <option name="textWithMnemonic" value="First word capitalized / camelCase" />
       </UniversalActionModel>
     </option>
   </component>
