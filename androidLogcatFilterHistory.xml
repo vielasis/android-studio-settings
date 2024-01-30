@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCrea" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine onCrea" />
         <option value="package:mine " />
-        <option value="package:mine FormState" />
         <option value="package:mine AddRecipientFragment2" />
+        <option value="package:mine unmount" />
+        <option value="package:mine" />
+        <option value="package:mine onCrea" />
+        <option value="package:mine FormState" />
         <option value="package:mine onFormEvent" />
         <option value="package:mine singleSer" />
-        <option value="package:mine" />
         <option value="package:mine fatal" />
         <option value="package:mine selection &gt;&gt;" />
         <option value="package:mine onCre" />
@@ -22,7 +22,6 @@
         <option value="package:mine helper" />
         <option value="package:mine FormStateBinder" />
         <option value="package:mine single" />
-        <option value="package:mine KYC-UserInfo" />
       </list>
     </option>
   </component>
