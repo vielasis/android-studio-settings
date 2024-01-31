@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine onCreate" />
+        <option value="package:mine fatal" />
         <option value="package:mine onCreat" />
         <option value="package:mine " />
         <option value="package:mine AddRecipientFragment2" />
@@ -13,7 +14,6 @@
         <option value="package:mine FormState" />
         <option value="package:mine onFormEvent" />
         <option value="package:mine singleSer" />
-        <option value="package:mine fatal" />
         <option value="package:mine selection &gt;&gt;" />
         <option value="package:mine onCre" />
         <option value="package:mine onFor" />
