@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
+    <option name="mostRecentlyUsed" value="fixedplanweb" />
     <option name="nonFavorites">
       <list>
+        <option value="fixedplanweb" />
+        <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="package:mine fatal" />
         <option value="package:mine onCreat" />
-        <option value="package:mine " />
         <option value="package:mine AddRecipientFragment2" />
         <option value="package:mine unmount" />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="package:mine TAG" />
         <option value="package:mine HelperListDs" />
         <option value="package:mine helper" />
-        <option value="package:mine FormStateBinder" />
       </list>
     </option>
   </component>
