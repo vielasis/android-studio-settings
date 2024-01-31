@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="fixedplanweb" />
+    <option name="mostRecentlyUsed" value="fatal:" />
     <option name="nonFavorites">
       <list>
+        <option value="fatal:" />
         <option value="fixedplanweb" />
         <option value="package:mine " />
         <option value="package:mine onCreate" />
@@ -22,7 +23,6 @@
         <option value="package:mine registerVpc" />
         <option value="package:mine TAG" />
         <option value="package:mine HelperListDs" />
-        <option value="package:mine helper" />
       </list>
     </option>
   </component>
