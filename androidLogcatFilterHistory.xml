@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fatal" />
+    <option name="mostRecentlyUsed" value="package:mine remittance" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine remittance" />
+        <option value="package:mine receivingCountry" />
+        <option value="package:mine &gt;&gt;&gt; put(receivingCountry, " />
+        <option value="package:mine &gt;&gt;&gt; put" />
         <option value="package:mine fatal" />
         <option value="package:mine " />
         <option value="package:mine onCrea" />
@@ -19,10 +23,6 @@
         <option value="package:mine selection &gt;&gt;" />
         <option value="package:mine onCre" />
         <option value="package:mine onFor" />
-        <option value="package:mine VPCRepository" />
-        <option value="package:mine registerVpc" />
-        <option value="package:mine TAG" />
-        <option value="package:mine HelperListDs" />
       </list>
     </option>
   </component>
