@@ -5,9 +5,10 @@
       <list>
         <option value="package:mine onCreate" />
         <option value="package:mine " />
+        <option value="package:mine fatal" />
+        <option value="package:mine qoe" />
         <option value="package:mine onCrea" />
         <option value="package:mine o" />
-        <option value="package:mine fatal" />
         <option value="package:mine remittance" />
         <option value="package:mine receivingCountry" />
         <option value="package:mine &gt;&gt;&gt; put(receivingCountry, " />
@@ -22,7 +23,6 @@
         <option value="package:mine onFormEvent" />
         <option value="package:mine singleSer" />
         <option value="package:mine selection &gt;&gt;" />
-        <option value="package:mine onCre" />
       </list>
     </option>
   </component>
