@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine onFormEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onFormEvent" />
         <option value="package:mine " />
         <option value="package:mine fatal" />
         <option value="package:mine DashConverterFactory" />
@@ -21,7 +23,6 @@
         <option value="package:mine unmount" />
         <option value="package:mine" />
         <option value="package:mine FormState" />
-        <option value="package:mine onFormEvent" />
       </list>
     </option>
   </component>
