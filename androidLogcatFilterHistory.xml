@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onFormEvent" />
+    <option name="mostRecentlyUsed" value="package:mine fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fatal" />
         <option value="package:mine onFormEvent" />
         <option value="package:mine " />
-        <option value="package:mine fatal" />
         <option value="package:mine DashConverterFactory" />
         <option value="package:mine event" />
         <option value="package:mine onCrea" />
