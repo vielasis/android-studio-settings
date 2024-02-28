@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
+    <option name="mostRecentlyUsed" value="package:mine fatal" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine onCreate" />
         <option value="package:mine fatal" />
+        <option value="package:mine SendMoneyActivity" />
+        <option value="package:mine onCreate" />
         <option value="package:mine onFormEvent" />
         <option value="package:mine " />
         <option value="package:mine DashConverterFactory" />
@@ -22,7 +23,6 @@
         <option value="package:mine AddRecipientFragment2" />
         <option value="package:mine unmount" />
         <option value="package:mine" />
-        <option value="package:mine FormState" />
       </list>
     </option>
   </component>
