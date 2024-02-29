@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onFormEvent" />
+    <option name="mostRecentlyUsed" value="package:mine BeneFormState" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine BeneFormState" />
+        <option value="package:mine Checking" />
         <option value="package:mine onFormEvent" />
         <option value="package:mine onServiceSelected" />
         <option value="package:mine render" />
@@ -21,8 +23,6 @@
         <option value="package:mine &gt;&gt;&gt; put" />
         <option value="fatal:" />
         <option value="fixedplanweb" />
-        <option value="package:mine onCreat" />
-        <option value="package:mine AddRecipientFragment2" />
       </list>
     </option>
   </component>
