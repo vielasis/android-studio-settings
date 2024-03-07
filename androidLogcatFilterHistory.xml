@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreate" />
         <option value="package:mine fatal" />
         <option value="package:mine BeneFormState" />
         <option value="package:mine Checking" />
@@ -10,7 +11,6 @@
         <option value="package:mine onServiceSelected" />
         <option value="package:mine render" />
         <option value="package:mine SendMoneyActivity" />
-        <option value="package:mine onCreate" />
         <option value="package:mine " />
         <option value="package:mine DashConverterFactory" />
         <option value="package:mine event" />
