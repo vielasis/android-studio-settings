@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine onCreate" />
+        <option value="package:mine IntroA" />
         <option value="package:mine double" />
         <option value="package:mine " />
         <option value="package:mine Got updated nonce" />
@@ -22,7 +23,6 @@
         <option value="package:mine onCrea" />
         <option value="package:mine qoe" />
         <option value="package:mine o" />
-        <option value="package:mine remittance" />
       </list>
     </option>
   </component>
