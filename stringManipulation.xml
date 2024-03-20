@@ -16,9 +16,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToUpperCaseAction" />
-        <option name="description" value="To Upper Case" />
-        <option name="textWithMnemonic" value="To UPPER CASE" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.encoding.EncodeSha1HexAction" />
+        <option name="description" value="Encode to SHA-1 Hex" />
+        <option name="textWithMnemonic" value="Encode to SHA-1 Hex" />
       </UniversalActionModel>
     </option>
   </component>
