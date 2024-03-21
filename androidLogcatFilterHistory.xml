@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine !!!" />
+    <option name="mostRecentlyUsed" value="package:mine OnFormEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine OnFormEvent" />
+        <option value="package:mine onCreate" />
         <option value="package:mine !!!" />
         <option value="package:mine " />
         <option value="package:mine fatal" />
-        <option value="package:mine onCreate" />
         <option value="package:mine" />
         <option value="package:mine vkey" />
         <option value="package:mine onCr" />
@@ -22,7 +23,6 @@
         <option value="package:mine onServiceSelected" />
         <option value="package:mine render" />
         <option value="package:mine SendMoneyActivity" />
-        <option value="package:mine DashConverterFactory" />
       </list>
     </option>
   </component>
