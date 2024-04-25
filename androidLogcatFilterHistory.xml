@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fatal" />
         <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="package:mine SettingManagerImpl" />
         <option value="package:mine inputType" />
         <option value="package:mine input" />
         <option value="package:mine !!!" />
-        <option value="package:mine fatal" />
         <option value="package:mine tag:!!!" />
         <option value="package:mine creat" />
         <option value="package:mine OnFormEvent" />
