@@ -3,16 +3,13 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.gradle.kts</mask>
-    <mask>*.kts</mask>
     <mask>*.java</mask>
     <mask>strings.xml</mask>
     <mask>*.kt*</mask>
@@ -25,5 +22,6 @@
     <mask>*.*Activity*</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.kts</mask>
   </component>
 </application>
