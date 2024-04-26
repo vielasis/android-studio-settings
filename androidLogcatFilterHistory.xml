@@ -1,15 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
+    <option name="mostRecentlyUsed" value="onCreate" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine onCreate" />
-        <option value="package:mine onCre" />
-        <option value="package:mine fatal" />
-        <option value="package:mine CAMERA_PHOTO" />
-        <option value="package:mine" />
+        <option value="onCreate" />
+        <option value="tag:RDActivity" />
+        <option value="RDA" />
+        <option value="tag:HelloWorldActivity" />
+        <option value="HelloWOrldActivity" />
         <option value="package:mine " />
-        <option value="package:mine coun" />
+        <option value="package:mine HelloWorldActivity" />
+        <option value="RDActivity" />
+        <option value="showTheExit" />
+        <option value="show" />
+        <option value="showTh" />
+        <option value="package:mine onCreate" />
+        <option value="visaIni" />
+        <option value="package:mine fatal" />
+        <option value="package:mine" />
+        <option value="package:mine Address proof size" />
+        <option value="package:mine tag:Glide" />
+        <option value="package:mine compressB" />
+        <option value="package:mine loadWIthCompress" />
+        <option value="package:mine loadCom" />
       </list>
     </option>
   </component>
