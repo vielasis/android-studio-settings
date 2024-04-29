@@ -16,9 +16,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.encoding.EncodeSha1HexAction" />
-        <option name="description" value="Encode to SHA-1 Hex" />
-        <option name="textWithMnemonic" value="Encode to SHA-1 Hex" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.encoding.DecodeBase64Action" />
+        <option name="description" value="Decode Base64" />
+        <option name="textWithMnemonic" value="Decode Base64" />
       </UniversalActionModel>
     </option>
   </component>
