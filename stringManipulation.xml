@@ -16,11 +16,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.sort.SortAction" />
-        <option name="description" value="Universal lines sort with all kinds of features" />
-        <option name="modelClass" value="osmedile.intellij.stringmanip.sort.support.SortSettings" />
-        <option name="modelData" value="&lt;SortSettings&gt;&#10;  &lt;option name=&quot;baseComparator&quot; value=&quot;NATURAL&quot; /&gt;&#10;  &lt;option name=&quot;collatorLanguageTag&quot; value=&quot;en_US&quot; /&gt;&#10;  &lt;option name=&quot;groupClosingLineRegex&quot; value=&quot;^[\s]*[)\]}],?[\s]*$&quot; /&gt;&#10;  &lt;option name=&quot;groupClosingLineRegexEnabled&quot; value=&quot;true&quot; /&gt;&#10;  &lt;option name=&quot;groupSeparatorRegex&quot; value=&quot;(^[\s]*$|^---.*$)&quot; /&gt;&#10;  &lt;option name=&quot;hierarchicalSort&quot; value=&quot;false&quot; /&gt;&#10;  &lt;option name=&quot;ignoreLeadingCharacters&quot; value=&quot;//&quot; /&gt;&#10;  &lt;option name=&quot;ignoreLeadingCharactersEnabled&quot; value=&quot;false&quot; /&gt;&#10;  &lt;option name=&quot;ignoreLeadingSpaces&quot; value=&quot;true&quot; /&gt;&#10;  &lt;option name=&quot;jsonSort&quot; value=&quot;false&quot; /&gt;&#10;  &lt;option name=&quot;levelRegex&quot; value=&quot;^[\s]+&quot; /&gt;&#10;  &lt;option name=&quot;preserveLeadingSpaces&quot; value=&quot;true&quot; /&gt;&#10;  &lt;option name=&quot;preserveTrailingSpecialCharacters&quot; value=&quot;false&quot; /&gt;&#10;  &lt;option name=&quot;sortByGroups&quot; value=&quot;false&quot; /&gt;&#10;  &lt;option name=&quot;sortType&quot; value=&quot;CASE_INSENSITIVE_A_Z&quot; /&gt;&#10;  &lt;option name=&quot;trailingChars&quot; value=&quot;,;&quot; /&gt;&#10;&lt;/SortSettings&gt;" />
-        <option name="textWithMnemonic" value="Sort Lines..." />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.encoding.EncodeBase64Action" />
+        <option name="description" value="Encode to Base64" />
+        <option name="textWithMnemonic" value="Encode to Base64" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
