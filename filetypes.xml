@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping pattern="rList" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
