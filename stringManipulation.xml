@@ -16,9 +16,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToWordLowercaseOrToCamelCaseAction" />
-        <option name="description" value="Toggle: lower case words / camelCase" />
-        <option name="textWithMnemonic" value="lower case words / camelCase" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToKebabOrSnakeCaseAction" />
+        <option name="description" value="Toggle: kebab-case / snake_case" />
+        <option name="textWithMnemonic" value="kebab-case / snake_case" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
