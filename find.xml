@@ -15,11 +15,11 @@
     <mask>strings.xml*</mask>
     <mask>*.gradle</mask>
     <mask>*.pro</mask>
-    <mask>*.gradle*</mask>
     <mask>*.*Activity*</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*.gradle.kts</mask>
     <mask>*.java</mask>
+    <mask>*.gradle*</mask>
   </component>
 </application>
