@@ -16,9 +16,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToKebabOrSnakeCaseAction" />
-        <option name="description" value="Toggle: kebab-case / snake_case" />
-        <option name="textWithMnemonic" value="kebab-case / snake_case" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.encoding.URLEncodeAction" />
+        <option name="description" value="Encode URL (by java.net.URLEncoder)" />
+        <option name="textWithMnemonic" value="Encode URL" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
