@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine onCreate" />
+        <option value="package:mine ConfigMgr" />
         <option value="package:mine PIO" />
         <option value="package:mine sender" />
         <option value="PIO" />
@@ -22,7 +23,6 @@
         <option value="package:mine !!!" />
         <option value="package:mine tag:!!!" />
         <option value="package:mine creat" />
-        <option value="package:mine OnFormEvent" />
       </list>
     </option>
   </component>
