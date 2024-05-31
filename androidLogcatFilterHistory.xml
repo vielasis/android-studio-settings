@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="package:mine tag:Test" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:Test" />
         <option value="package:mine " />
+        <option value="package:mine tag:Test" />
         <option value="package:mine onCreate" />
         <option value="package:mine ConfigMgr" />
         <option value="package:mine PIO" />
