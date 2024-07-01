@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine deviceInfo" />
+    <option name="mostRecentlyUsed" value="package:mine fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fatal" />
         <option value="package:mine deviceInfo" />
         <option value="package:mine onCreateVi" />
         <option value="package:mine " />
         <option value="package:mine onCreateView()" />
-        <option value="package:mine fatal" />
         <option value="package:mine onCreateView" />
         <option value="package:mine MERCHANT_HOST_GMT_URL" />
         <option value="package:mine ?mid" />
