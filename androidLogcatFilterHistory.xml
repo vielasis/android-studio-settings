@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onC" />
+    <option name="mostRecentlyUsed" value="package:mine fatal" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine onC" />
+        <option value="package:mine fatal" />
+        <option value="package:mine validate_all_corridors" />
         <option value="package:mine " />
+        <option value="package:mine onC" />
         <option value="package:mine onCreateView" />
         <option value="package:mine MERCHANT_HOST_GMT_URL" />
-        <option value="package:mine fatal" />
         <option value="package:mine 11136198900" />
         <option value="package:mine onCreate" />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="package:mine ConfigMgr" />
         <option value="package:mine PIO" />
         <option value="package:mine sender" />
-        <option value="PIO" />
       </list>
     </option>
   </component>
