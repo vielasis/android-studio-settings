@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine gxs_sync_worker" />
+    <option name="mostRecentlyUsed" value="package:mine gxs" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine gxs" />
+        <option value="package:mine fata" />
         <option value="package:mine gxs_sync_worker" />
         <option value="package:mine " />
         <option value="package:mine onCreate" />
@@ -21,8 +23,6 @@
         <option value="package:mine" />
         <option value="package:mine idNumber" />
         <option value="package:mine deviceInfo" />
-        <option value="package:mine onCreateVi" />
-        <option value="package:mine onCreateView()" />
       </list>
     </option>
   </component>
