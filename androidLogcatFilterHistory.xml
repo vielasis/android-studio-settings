@@ -1,19 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine debit" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine debit" />
         <option value="package:mine " />
+        <option value="package:mine onCreate" />
         <option value="package:com.SingTel.mWallet.dev " />
         <option value="package:mine invalid payload" />
         <option value="package:mine onFormE" />
         <option value="package:mine debiting" />
-        <option value="package:mine debit" />
         <option value="package:mine gxs" />
         <option value="package:mine debitin" />
         <option value="package:mine found fixed" />
         <option value="package:mine fata" />
         <option value="package:mine gxs_sync_worker" />
-        <option value="package:mine onCreate" />
         <option value="package:mine fatal" />
         <option value="package:mine DashF" />
         <option value="package:mine FCM" />
