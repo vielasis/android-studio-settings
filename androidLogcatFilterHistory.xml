@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:com.SingTel.mWallet.dev " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.SingTel.mWallet.dev " />
         <option value="package:mine " />
         <option value="package:mine invalid payload" />
         <option value="package:mine onFormE" />
@@ -21,7 +23,6 @@
         <option value="package:mine DashFCM" />
         <option value="package:mine notifi" />
         <option value="package:mine validate_all_corridors" />
-        <option value="package:mine onC" />
       </list>
     </option>
   </component>
