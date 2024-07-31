@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreateView" />
+    <option name="mostRecentlyUsed" value="package:mine nofsdk" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine nofsdk" />
         <option value="package:mine onCreateView" />
         <option value="package:mine " />
         <option value="package:mine debit" />
@@ -22,7 +23,6 @@
         <option value="package:com.nets.nofsdk.test " />
         <option value="DashFCM" />
         <option value="package:mine DashFCM" />
-        <option value="package:mine notifi" />
       </list>
     </option>
   </component>
