@@ -23,5 +23,6 @@
     <mask>*.gradle*</mask>
     <mask>*.xml</mask>
     <mask>*.pro</mask>
+    <mask>*Service.*</mask>
   </component>
 </application>

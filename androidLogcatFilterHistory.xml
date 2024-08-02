@@ -3,9 +3,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine debit" />
         <option value="package:mine nofsdk" />
         <option value="package:mine onCreateView" />
-        <option value="package:mine debit" />
         <option value="package:mine fatal" />
         <option value="package:mine onCreate" />
         <option value="package:com.SingTel.mWallet.dev " />
