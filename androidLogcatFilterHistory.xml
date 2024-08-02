@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:com.SingTel.mWallet.uat pushio" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.SingTel.mWallet.uat pushio" />
+        <option value="package:mine inbox" />
         <option value="package:mine " />
         <option value="package:mine debit" />
         <option value="package:mine nofsdk" />
@@ -20,8 +23,6 @@
         <option value="package:mine DashF" />
         <option value="package:mine FCM" />
         <option value="package:com.nets.nofsdk.test " />
-        <option value="DashFCM" />
-        <option value="package:mine DashFCM" />
       </list>
     </option>
   </component>
