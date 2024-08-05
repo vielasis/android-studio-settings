@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.SingTel.mWallet.uat pushio" />
+    <option name="mostRecentlyUsed" value="package:mine V" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine V" />
+        <option value="package:mine tag:NOF_SDK " />
+        <option value="package:mine " />
+        <option value="package:mine vos" />
+        <option value="package:mine tag:NOF_SDK" />
+        <option value="package:mine tag:NOF_SDK com.nets.nofsdk.request.NofService " />
+        <option value="package:mine tag:NOFSDK" />
+        <option value="package:mine timeout" />
+        <option value="package:mine initialize" />
+        <option value="package:mine nof" />
+        <option value="package:mine onCrea" />
+        <option value="package:com.SingTel.mWallet pushio" />
+        <option value="package:com.SingTel.mWallet" />
+        <option value="package:com.SingTel.mWallet " />
         <option value="package:com.SingTel.mWallet.uat pushio" />
         <option value="package:mine inbox" />
-        <option value="package:mine " />
         <option value="package:mine debit" />
         <option value="package:mine nofsdk" />
         <option value="package:mine onCreateView" />
         <option value="package:mine fatal" />
-        <option value="package:mine onCreate" />
-        <option value="package:com.SingTel.mWallet.dev " />
-        <option value="package:mine invalid payload" />
-        <option value="package:mine onFormE" />
-        <option value="package:mine debiting" />
-        <option value="package:mine gxs" />
-        <option value="package:mine debitin" />
-        <option value="package:mine found fixed" />
-        <option value="package:mine fata" />
-        <option value="package:mine gxs_sync_worker" />
-        <option value="package:mine DashF" />
-        <option value="package:mine FCM" />
-        <option value="package:com.nets.nofsdk.test " />
       </list>
     </option>
   </component>
