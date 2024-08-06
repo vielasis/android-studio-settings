@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine V" />
+    <option name="mostRecentlyUsed" value="package:mine debit" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine debit" />
         <option value="package:mine V" />
         <option value="package:mine tag:NOF_SDK " />
         <option value="package:mine " />
@@ -19,7 +20,6 @@
         <option value="package:com.SingTel.mWallet " />
         <option value="package:com.SingTel.mWallet.uat pushio" />
         <option value="package:mine inbox" />
-        <option value="package:mine debit" />
         <option value="package:mine nofsdk" />
         <option value="package:mine onCreateView" />
         <option value="package:mine fatal" />
