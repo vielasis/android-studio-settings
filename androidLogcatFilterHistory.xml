@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine debit" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine debit" />
         <option value="package:mine V" />
         <option value="package:mine tag:NOF_SDK " />
-        <option value="package:mine " />
         <option value="package:mine vos" />
         <option value="package:mine tag:NOF_SDK" />
         <option value="package:mine tag:NOF_SDK com.nets.nofsdk.request.NofService " />
