@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.singtel.mwallet " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:com.singtel.mwallet " />
         <option value="package:mine fcm" />
-        <option value="package:mine " />
         <option value="ContextExtKt" />
         <option value="package:mine debit" />
         <option value="package:mine V" />
