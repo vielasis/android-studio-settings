@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreat" />
+    <option name="mostRecentlyUsed" value="package:mine on" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine on" />
         <option value="package:mine onCreat" />
         <option value="package:mine" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine onCrea" />
         <option value="package:com.SingTel.mWallet pushio" />
         <option value="package:com.SingTel.mWallet" />
-        <option value="package:com.SingTel.mWallet " />
       </list>
     </option>
   </component>
