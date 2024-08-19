@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine onboarding" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onboarding" />
         <option value="package:mine" />
         <option value="package:mine nof" />
         <option value="package:mine we are" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:NOF_SDK com.nets.nofsdk.request.NofService " />
         <option value="package:mine tag:NOFSDK" />
         <option value="package:mine timeout" />
-        <option value="package:mine initialize" />
       </list>
     </option>
   </component>
