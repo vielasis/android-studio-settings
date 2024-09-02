@@ -3,6 +3,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:com.singtel.mwallet.uat visa" />
+        <option value="package:com.singtel.mwallet.uat " />
         <option value="package:mine onCrea" />
         <option value="package:mine onCreate" />
         <option value="package:mine nofsdk" />
@@ -20,8 +22,6 @@
         <option value="package:mine debit" />
         <option value="package:mine V" />
         <option value="package:mine tag:NOF_SDK " />
-        <option value="package:mine vos" />
-        <option value="package:mine tag:NOF_SDK" />
       </list>
     </option>
   </component>
