@@ -13,6 +13,9 @@
         <option value="EmuHWC2" />
         <option value="FA-SVC" />
         <option value="Finsky" />
+        <option value="FirebasePerformance" />
+        <option value="fpr_disabled_android_versions" />
+        <option value="fpr_enabled" />
         <option value="gauges" />
         <option value="GnssHAL_GnssInterface" />
         <option value="GnssLocationProvider" />
@@ -32,7 +35,7 @@
         <option value="UntrustedWifiNetworkFactory" />
         <option value="ViewRootImpl" />
         <option value="W/InputReader" />
-        <option value="FirebasePerformance" />
+        <option value="fpr_vc_network_request_sampling_rate" />
       </list>
     </option>
   </component>
