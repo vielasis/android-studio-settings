@@ -4,9 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine fatal" />
+        <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="package:mine onCre" />
-        <option value="package:mine " />
         <option value="package:com.singtel.mwallet.uat visa" />
         <option value="package:com.singtel.mwallet.uat " />
         <option value="package:mine onCrea" />
