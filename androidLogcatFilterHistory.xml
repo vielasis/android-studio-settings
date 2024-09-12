@@ -1,14 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreat" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine onCreate" />
         <option value="package:mine onCreat" />
         <option value="package:mine onCrea" />
         <option value="package:mine onFormEvent" />
-        <option value="package:mine onCreate" />
         <option value="package:mine fatal" />
-        <option value="package:mine " />
         <option value="package:mine onCre" />
         <option value="package:com.singtel.mwallet.uat visa" />
         <option value="package:com.singtel.mwallet.uat " />
