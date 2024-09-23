@@ -167,7 +167,7 @@
     <jdk version="2">
       <name value="jbr-17" />
       <type value="JavaSDK" />
-      <version value="JetBrains Runtime 17.0.10" />
+      <version value="JetBrains Runtime 17.0.11" />
       <homePath value="$APPLICATION_HOME_DIR$/jbr/Contents/Home" />
       <roots>
         <annotationsPath>
