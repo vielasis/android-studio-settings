@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fatal" />
+    <option name="mostRecentlyUsed" value="package:mine tag:ktx-trans" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:ktx-trans" />
+        <option value="package:mine max" />
         <option value="package:mine fatal" />
         <option value="package:mine NONCE" />
         <option value="package:mine " />
-        <option value="package:mine max" />
         <option value="package:mine onCrea" />
         <option value="package:mine onCreate" />
         <option value="package:mine onFormE" />
@@ -22,7 +23,6 @@
         <option value="package:mine nof" />
         <option value="package:mine onboarding" />
         <option value="package:mine" />
-        <option value="package:mine we are" />
       </list>
     </option>
   </component>
