@@ -81,4 +81,11 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
+  <template name="kser" value="@kotlinx.serialization.Serializable" description="Kotlin @Serializable annotation" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
 </templateSet>
