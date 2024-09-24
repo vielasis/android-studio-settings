@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:ktx-trans" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:ktx-trans" />
         <option value="package:mine " />
+        <option value="package:mine tag:ktx-trans" />
         <option value="package:mine max" />
         <option value="package:mine fatal" />
         <option value="package:mine NONCE" />
