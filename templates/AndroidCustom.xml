@@ -95,4 +95,9 @@
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="jio" value="java.io.Serializable" description="java.io.Serializable" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
