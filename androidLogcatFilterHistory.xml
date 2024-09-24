@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:ktx-trans " />
+    <option name="mostRecentlyUsed" value="package:mine tag:ktx-trans level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:ktx-trans level:error " />
         <option value="package:mine tag:ktx-trans " />
         <option value="package:mine onCreat" />
         <option value="package:mine tag:ktx-trans" />
@@ -22,7 +23,6 @@
         <option value="package:com.singtel.mwallet.uat " />
         <option value="package:mine nofsdk" />
         <option value="package:mine nof" />
-        <option value="package:mine onboarding" />
       </list>
     </option>
   </component>
