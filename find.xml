@@ -1,12 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
+    <option name="customScope" value="Selected directories" />
+    <option name="defaultScopeName" value="Selected directories" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Selected directories" />
+    <option name="FILE_MASK" value="*Rq.kt" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -26,5 +27,6 @@
     <mask>*.xml</mask>
     <mask>*.pro</mask>
     <mask>*Service.*</mask>
+    <mask>*Rq.kt</mask>
   </component>
 </application>
