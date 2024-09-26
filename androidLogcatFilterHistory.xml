@@ -1,6 +1,6 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:ktx-trans requestBodyConverter" />
+    <option name="mostRecentlyUsed" value="package:mine tag:ktx-trans " />
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:ktx-trans " />
