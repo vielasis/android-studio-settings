@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine nonc" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine nonc" />
         <option value="package:mine " />
         <option value="glide" />
         <option value="package:mine onCreate" />
@@ -21,7 +23,6 @@
         <option value="package:mine onC" />
         <option value="package:mine onCr" />
         <option value="package:mine onFormEvent" />
-        <option value="package:mine onCre" />
       </list>
     </option>
   </component>
