@@ -19,6 +19,7 @@
         <entry key="Memory" value="true" />
         <entry key="ReadOnlyAttribute" value="false" />
         <entry key="SendFeedbackPanel" value="false" />
+        <entry key="ocResolveContextPanel" value="false" />
       </map>
     </option>
   </component>
