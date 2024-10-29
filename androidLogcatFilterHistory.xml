@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine deep" />
+    <option name="mostRecentlyUsed" value="package:mine messaging" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine messaging" />
         <option value="package:mine deep" />
         <option value="package:mine " />
         <option value="package:mine fatal" />
@@ -22,7 +23,6 @@
         <option value="package:mine max" />
         <option value="package:mine NONCE" />
         <option value="package:mine onCrea" />
-        <option value="package:mine onFormE" />
       </list>
     </option>
   </component>
