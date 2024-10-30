@@ -16,10 +16,21 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.encoding.EncodeSha1HexAction" />
-        <option name="description" value="Encode to SHA-1 Hex" />
-        <option name="textWithMnemonic" value="Encode to SHA-1 Hex" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.encoding.URLEncodeAction" />
+        <option name="description" value="Encode URL (by java.net.URLEncoder)" />
+        <option name="textWithMnemonic" value="Encode URL" />
       </UniversalActionModel>
+    </option>
+    <option name="sortSettingsMap">
+      <map>
+        <entry key="SortAction">
+          <value>
+            <SortSettings>
+              <option name="ignoreLeadingCharacters" value="//" />
+            </SortSettings>
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
 </application>

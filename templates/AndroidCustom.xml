@@ -81,4 +81,23 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
+  <template name="sk" value="@kotlinx.serialization.Serializable" description="Kotlin @Serializable annotation" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="@sn" value="@kotlinx.serialization.SerialName(&quot;$jsonFieldName$&quot;)" description="Kotlin @SerialName" toReformat="false" toShortenFQNames="true">
+    <variable name="jsonFieldName" expression="camelCase(varName)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="jio" value="java.io.Serializable" description="java.io.Serializable" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>

@@ -11,6 +11,7 @@
     <entry key="ide.experimental.ui" value="true" />
     <entry key="ide.instant.shutdown" value="false" />
     <entry key="debugger.new.tool.window.layout" value="true" />
+    <entry key="i18n.locale" value="" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
@@ -18,6 +19,7 @@
         <entry key="Memory" value="true" />
         <entry key="ReadOnlyAttribute" value="false" />
         <entry key="SendFeedbackPanel" value="false" />
+        <entry key="ocResolveContextPanel" value="false" />
       </map>
     </option>
   </component>

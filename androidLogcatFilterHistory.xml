@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine updateSte" />
+    <option name="mostRecentlyUsed" value="package:mine fatal" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine updateSte" />
-        <option value="package:mine onCre" />
-        <option value="package:mine " />
-        <option value="tag:ZZZZ" />
         <option value="package:mine fatal" />
-        <option value="package:mine onCreateView()" />
+        <option value="package:mine " />
         <option value="package:mine onCreate" />
-        <option value="package:mine SettingManagerImpl" />
-        <option value="package:mine inputType" />
-        <option value="package:mine input" />
-        <option value="package:mine !!!" />
-        <option value="package:mine tag:!!!" />
-        <option value="package:mine creat" />
-        <option value="package:mine OnFormEvent" />
-        <option value="package:mine" />
-        <option value="package:mine vkey" />
+        <option value="package:mine FIAM" />
+        <option value="package:mine messaging" />
+        <option value="package:mine installation" />
+        <option value="package:mine deep" />
+        <option value="package:mine ENCRY" />
+        <option value="package:mine provisio" />
         <option value="package:mine onCr" />
-        <option value="package:mine IntroA" />
-        <option value="package:mine double" />
-        <option value="package:mine Got updated nonce" />
+        <option value="package:mine nonc" />
+        <option value="glide" />
+        <option value="package:mine tag:ktx-trans " />
+        <option value="package:mine on" />
+        <option value="package:mine" />
+        <option value="package:mine tag:ktx-trans level:error " />
+        <option value="package:mine nof_sdk" />
+        <option value="package:mine onCreat" />
+        <option value="package:mine tag:ktx-trans" />
+        <option value="package:mine max" />
       </list>
     </option>
   </component>

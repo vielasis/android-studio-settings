@@ -2,26 +2,27 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.gradle.kts</mask>
-    <mask>*.java</mask>
+    <mask>*.kts</mask>
     <mask>strings.xml</mask>
     <mask>*.kt*</mask>
     <mask>*.gradlle*</mask>
     <mask>*.xml*</mask>
     <mask>strings.xml*</mask>
     <mask>*.gradle</mask>
-    <mask>*.pro</mask>
-    <mask>*.gradle*</mask>
     <mask>*.*Activity*</mask>
     <mask>*.kt</mask>
+    <mask>*.gradle.kts</mask>
+    <mask>*.java</mask>
+    <mask>*.gradle*</mask>
     <mask>*.xml</mask>
-    <mask>*.kts</mask>
+    <mask>*.pro</mask>
+    <mask>*Service.*</mask>
+    <mask>*Rq.kt</mask>
+    <mask>*ViewModel.kt</mask>
   </component>
 </application>
