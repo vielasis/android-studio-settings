@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fatal" />
+    <option name="mostRecentlyUsed" value="package:mine onCreateVi" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreateVi" />
         <option value="package:mine fatal" />
         <option value="package:mine " />
         <option value="package:mine onCreate" />
@@ -22,7 +23,6 @@
         <option value="package:mine nof_sdk" />
         <option value="package:mine onCreat" />
         <option value="package:mine tag:ktx-trans" />
-        <option value="package:mine max" />
       </list>
     </option>
   </component>
