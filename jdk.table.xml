@@ -169,17 +169,17 @@
     <jdk version="2">
       <name value="Android API 33, extension level 3 Platform" />
       <type value="Android SDK" />
-      <homePath value="$USER_HOME$/Android/Sdk" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
       <roots>
         <annotationsPath>
           <root type="composite">
-            <root url="jar://$USER_HOME$/Android/Sdk/platforms/android-33/data/annotations.zip!/" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-33/data/annotations.zip!/" type="simple" />
           </root>
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://$USER_HOME$/Android/Sdk/platforms/android-33/android.jar!/" type="simple" />
-            <root url="file://$USER_HOME$/Android/Sdk/platforms/android-33/data/res" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-33/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-33/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -187,7 +187,7 @@
         </javadocPath>
         <sourcePath>
           <root type="composite">
-            <root url="file://$USER_HOME$/Android/Sdk/sources/android-33" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-33" type="simple" />
           </root>
         </sourcePath>
       </roots>
