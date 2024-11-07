@@ -16,9 +16,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.encoding.URLEncodeAction" />
-        <option name="description" value="Encode URL (by java.net.URLEncoder)" />
-        <option name="textWithMnemonic" value="Encode URL" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.escaping.UnescapeJsonAction" />
+        <option name="description" value="org.apache.commons.text.StringEscapeUtils#unescapeJson" />
+        <option name="textWithMnemonic" value="Unescape JSON" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
