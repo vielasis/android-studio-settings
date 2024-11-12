@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.SingTel.mWallet.dev fatal" />
+    <option name="mostRecentlyUsed" value="package:com.SingTel.mWallet.dev " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.SingTel.mWallet.dev " />
         <option value="package:com.SingTel.mWallet.dev fatal" />
         <option value="package:com.SingTel.mWallet.dev tag:SignupFormMediator" />
         <option value="package:com.SingTel.mWallet.dev" />
@@ -22,7 +23,6 @@
         <option value="glide" />
         <option value="package:mine tag:ktx-trans " />
         <option value="package:mine on" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
