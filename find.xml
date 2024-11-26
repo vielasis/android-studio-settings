@@ -24,5 +24,6 @@
     <mask>*Rq.kt</mask>
     <mask>*ViewModel.kt</mask>
     <mask>*.xml</mask>
+    <mask>*Service.kt</mask>
   </component>
 </application>
