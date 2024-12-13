@@ -19,10 +19,11 @@
     <mask>*.gradle.kts</mask>
     <mask>*.java</mask>
     <mask>*.gradle*</mask>
-    <mask>*.xml</mask>
     <mask>*.pro</mask>
     <mask>*Service.*</mask>
     <mask>*Rq.kt</mask>
     <mask>*ViewModel.kt</mask>
+    <mask>*.xml</mask>
+    <mask>*Service.kt</mask>
   </component>
 </application>

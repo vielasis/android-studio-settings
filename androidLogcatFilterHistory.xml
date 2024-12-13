@@ -1,16 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.SingTel.mWallet notify" />
+    <option name="mostRecentlyUsed" value="package:com.singtel.mwallet.uat " />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.SingTel.mWallet notify" />
-        <option value="package:com.SingTel.mWallet fata" />
-        <option value="package:com.SingTel.mWallet " />
-        <option value="package:com.SingTel.mWallet tokenStatus" />
-        <option value="package:com.SingTel.mWallet fatal" />
-        <option value="package:com.SingTel.mWallet.dev " />
-        <option value="package:com.SingTel.mWallet.dev fatal" />
-        <option value="package:com.SingTel.mWallet.dev tag:SignupFormMediator" />
+        <option value="package:com.singtel.mwallet.uat " />
       </list>
     </option>
   </component>
