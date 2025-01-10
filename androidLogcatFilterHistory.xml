@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fatal" />
+    <option name="mostRecentlyUsed" value="package:com.SingTel.mWallet.uat ver" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.SingTel.mWallet.uat ver" />
+        <option value="package:mine derp" />
+        <option value="package:mine " />
+        <option value="package:mine" />
+        <option value="package:mine version" />
         <option value="package:mine fatal" />
         <option value="package:com.singtel.mwallet.uat " />
       </list>
