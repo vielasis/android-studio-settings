@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine fatal" />
+        <option value="package:mine " />
+        <option value="package:mine trace" />
       </list>
     </option>
   </component>
