@@ -25,5 +25,6 @@
     <mask>*ViewModel.kt</mask>
     <mask>*.xml</mask>
     <mask>*Service.kt</mask>
+    <mask>*kts</mask>
   </component>
 </application>
