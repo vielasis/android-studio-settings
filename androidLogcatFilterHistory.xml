@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine removing sel" />
+    <option name="mostRecentlyUsed" value="package:mine rmt" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine removing sel" />
+        <option value="package:mine rmt" />
         <option value="package:mine " />
+        <option value="package:mine clevertap" />
+        <option value="package:mine removing sel" />
         <option value="package:mine overriding" />
         <option value="package:mine tag:gxs" />
         <option value="package:mine gxs" />
@@ -21,8 +23,6 @@
         <option value="package:mine onCreateVi" />
         <option value="package:mine fatal" />
         <option value="package:mine FIAM" />
-        <option value="package:mine messaging" />
-        <option value="package:mine installation" />
       </list>
     </option>
   </component>
