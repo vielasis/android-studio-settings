@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine DashboardActivity" />
+    <option name="mostRecentlyUsed" value="package:mine DashboardAc" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine DashboardAc" />
         <option value="package:mine DashboardActivity" />
         <option value="package:mine " />
         <option value="package:mine fatal" />
