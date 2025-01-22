@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine geo" />
+    <option name="mostRecentlyUsed" value="package:mine DashboardActivity" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine geo" />
+        <option value="package:mine DashboardActivity" />
+        <option value="package:mine " />
         <option value="package:mine fatal" />
+        <option value="package:mine geo" />
         <option value="package:mine remot" />
         <option value="package:mine oncre" />
         <option value="package:mine onCr" />
-        <option value="package:mine " />
         <option value="package:mine FaveL" />
         <option value="package:mine trace" />
       </list>
