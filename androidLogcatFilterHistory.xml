@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.singtel.mwallet.uat" />
+    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreate" />
         <option value="package:com.singtel.mwallet.uat" />
         <option value="package:mine deep" />
         <option value="package:mine ConfigPr" />
@@ -22,7 +23,6 @@
         <option value="package:mine remot" />
         <option value="package:mine oncre" />
         <option value="package:mine onCr" />
-        <option value="package:mine FaveL" />
       </list>
     </option>
   </component>
