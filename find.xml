@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project Source Files" />
+    <option name="defaultScopeName" value="Project Source Files" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project Source Files" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,7 +19,6 @@
     <mask>*.*Activity*</mask>
     <mask>*.kt</mask>
     <mask>*.gradle.kts</mask>
-    <mask>*.java</mask>
     <mask>*.gradle*</mask>
     <mask>*.pro</mask>
     <mask>*Service.*</mask>
@@ -26,5 +27,6 @@
     <mask>*Service.kt</mask>
     <mask>*kts</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
