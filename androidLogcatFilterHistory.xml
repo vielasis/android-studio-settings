@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine SILENT" />
+    <option name="mostRecentlyUsed" value="package:mine fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fatal" />
         <option value="package:mine SILENT" />
         <option value="package:mine " />
         <option value="package:mine onSingleTapUp" />
@@ -11,7 +12,6 @@
         <option value="package:mine clevertap" />
         <option value="package:mine inbox" />
         <option value="package:mine" />
-        <option value="package:mine fatal" />
         <option value="package:mine onCReat" />
       </list>
     </option>
