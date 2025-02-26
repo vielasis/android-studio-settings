@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onSingleTapUp" />
+    <option name="mostRecentlyUsed" value="package:mine SILENT" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine SILENT" />
+        <option value="package:mine " />
         <option value="package:mine onSingleTapUp" />
         <option value="package:mine onCreateV" />
-        <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="package:mine clevertap" />
         <option value="package:mine inbox" />
