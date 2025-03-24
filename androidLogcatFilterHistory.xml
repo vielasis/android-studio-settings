@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onConversion" />
+    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreate" />
         <option value="package:mine onConversion" />
         <option value="package:mine appsflyer" />
         <option value="package:mine fatal" />
         <option value="package:mine " />
         <option value="package:mine onCreat" />
         <option value="package:mine Clevertap" />
-        <option value="package:mine onCreate" />
         <option value="package:mine GXSRepositoryImpl" />
         <option value="package:mine GXS" />
         <option value="package:mine FormHost" />
