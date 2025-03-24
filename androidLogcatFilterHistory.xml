@@ -1,10 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine asfdkajsdhfklja" />
+    <option name="mostRecentlyUsed" value="package:mine tag:Deeplink" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine asfdkajsdhfklja" />
+        <option value="package:mine tag:Deeplink" />
         <option value="package:mine " />
+        <option value="package:mine tag:AppsFlyer_6.9.4" />
+        <option value="package:mine AppsF" />
+        <option value="package:mine tag:DashAppsflyer tag:DashAFListener" />
+        <option value="package:mine tag:DashAppsflyer" />
+        <option value="package:mine asfdkajsdhfklja" />
         <option value="package:mine onCrea" />
         <option value="package:mine DashAppsFly" />
         <option value="package:mine onCreate" />
@@ -18,11 +23,6 @@
         <option value="package:mine FormHost" />
         <option value="package:mine SILENT" />
         <option value="package:mine onSingleTapUp" />
-        <option value="package:mine onCreateV" />
-        <option value="package:mine clevertap" />
-        <option value="package:mine inbox" />
-        <option value="package:mine" />
-        <option value="package:mine onCReat" />
       </list>
     </option>
   </component>
