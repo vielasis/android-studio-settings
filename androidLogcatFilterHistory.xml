@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
+    <option name="mostRecentlyUsed" value="package:mine DashAppsFly" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine DashAppsFly" />
         <option value="package:mine onCreate" />
         <option value="package:mine onConversion" />
         <option value="package:mine appsflyer" />
