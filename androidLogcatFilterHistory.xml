@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:Deeplink" />
+    <option name="mostRecentlyUsed" value="package:mine tag:Deeplink tag:DashAFListener " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:Deeplink tag:DashAFListener " />
+        <option value="package:mine tag:Deeplink tag:" />
         <option value="package:mine tag:Deeplink" />
         <option value="package:mine " />
         <option value="package:mine tag:AppsFlyer_6.9.4" />
@@ -21,8 +23,6 @@
         <option value="package:mine GXSRepositoryImpl" />
         <option value="package:mine GXS" />
         <option value="package:mine FormHost" />
-        <option value="package:mine SILENT" />
-        <option value="package:mine onSingleTapUp" />
       </list>
     </option>
   </component>
