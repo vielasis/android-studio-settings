@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:gxs" />
+    <option name="mostRecentlyUsed" value="package:mine GXS" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine GXS" />
         <option value="package:mine tag:gxs" />
         <option value="package:mine" />
         <option value="package:mine tag:Deeplink tag:DashAFListener " />
@@ -22,7 +23,6 @@
         <option value="package:mine fatal" />
         <option value="package:mine onCreat" />
         <option value="package:mine Clevertap" />
-        <option value="package:mine GXSRepositoryImpl" />
       </list>
     </option>
   </component>
