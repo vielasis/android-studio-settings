@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreate" />
         <option value="package:mine " />
         <option value="package:com.singtel.mwallet.uat " />
         <option value="package:com.singtel.mwallet.uat tag:gxs" />
@@ -21,7 +23,6 @@
         <option value="package:mine tag:Deeplink" />
         <option value="package:mine tag:AppsFlyer_6.9.4" />
         <option value="package:mine AppsF" />
-        <option value="package:mine tag:DashAppsflyer tag:DashAFListener" />
       </list>
     </option>
   </component>
