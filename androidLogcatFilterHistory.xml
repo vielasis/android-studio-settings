@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.SingTel.mWallet " />
+    <option name="mostRecentlyUsed" value="package:com.SingTel.mWallet onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.SingTel.mWallet onCreate" />
         <option value="package:com.SingTel.mWallet " />
         <option value="package:com.SingTel.mWallet onCreateView" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine" />
         <option value="package:mine tag:Deeplink tag:DashAFListener " />
         <option value="package:mine tag:Deeplink tag:" />
-        <option value="package:mine tag:Deeplink" />
       </list>
     </option>
   </component>
