@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.SingTel.mWallet " />
+        <option value="package:com.SingTel.mWallet onCreateView" />
         <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="package:com.singtel.mwallet.uat " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:Deeplink tag:DashAFListener " />
         <option value="package:mine tag:Deeplink tag:" />
         <option value="package:mine tag:Deeplink" />
-        <option value="package:mine tag:AppsFlyer_6.9.4" />
       </list>
     </option>
   </component>
