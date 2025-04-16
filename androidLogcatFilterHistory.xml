@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.SingTel.mWallet onCreate" />
+    <option name="mostRecentlyUsed" value="package:com.SingTel.mWallet " />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.SingTel.mWallet onCreate" />
         <option value="package:com.SingTel.mWallet " />
+        <option value="package:com.SingTel.mWallet onCreate" />
         <option value="package:com.SingTel.mWallet onCreateView" />
         <option value="package:mine " />
         <option value="package:mine onCreate" />
