@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine onCreateView" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreateView" />
+        <option value="package:mine addOnDestinationChangedListener" />
         <option value="package:mine " />
         <option value="package:mine UPDATED" />
         <option value="package:mine onCreateVi" />
@@ -20,8 +23,6 @@
         <option value="package:com.singtel.mwallet gxs" />
         <option value="package:com.singtel.mwallet.uat GXSConf is null" />
         <option value="package:com.singtel.mwallet.uat  tag:gxs" />
-        <option value="package:mine GXS" />
-        <option value="package:mine tag:gxs" />
       </list>
     </option>
   </component>
