@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="level:error " />
         <option value="package:mine error" />
         <option value="package:mine onCreateView" />
         <option value="package:mine addOnDestinationChangedListener" />
@@ -21,7 +22,6 @@
         <option value="package:com.singtel.mwallet.uat" />
         <option value="package:com.singtel.mwallet" />
         <option value="package:com.singtel.mwallet gxs" />
-        <option value="package:com.singtel.mwallet.uat GXSConf is null" />
       </list>
     </option>
   </component>
