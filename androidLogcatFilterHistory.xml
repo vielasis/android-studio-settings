@@ -7,6 +7,8 @@
         <option value="package:mine UPDATED" />
         <option value="package:mine tag:ChangePinFragment" />
         <option value="package:mine " />
+        <option value="level:error " />
+        <option value="package:mine error" />
         <option value="package:mine onCreateView" />
         <option value="package:mine addOnDestinationChangedListener" />
         <option value="package:mine onCreateVi" />
