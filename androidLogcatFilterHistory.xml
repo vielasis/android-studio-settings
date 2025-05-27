@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine UseOfPersonalViewModel" />
+    <option name="mostRecentlyUsed" value="package:mine fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fatal" />
         <option value="package:mine UseOfPersonalViewModel" />
         <option value="package:mine UPDATED" />
         <option value="package:mine tag:ChangePinFragment" />
@@ -24,7 +25,6 @@
         <option value="package:com.singtel.mwallet.uat GXS" />
         <option value="package:com.singtel.mwallet.uat" />
         <option value="package:com.singtel.mwallet" />
-        <option value="package:com.singtel.mwallet gxs" />
       </list>
     </option>
   </component>
