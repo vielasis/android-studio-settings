@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.SingTel.mWallet.dev fatal" />
+    <option name="mostRecentlyUsed" value="package:com.SingTel.mWallet.dev onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.SingTel.mWallet.dev onCreate" />
         <option value="package:com.SingTel.mWallet.dev fatal" />
         <option value="package:com.SingTel.mWallet.dev restartB" />
         <option value="package:com.SingTel.mWallet.dev" />
@@ -22,7 +23,6 @@
         <option value="package:com.SingTel.mWallet onCreate" />
         <option value="package:com.SingTel.mWallet onCreateView" />
         <option value="package:mine onCreate" />
-        <option value="package:com.singtel.mwallet.uat " />
       </list>
     </option>
   </component>
