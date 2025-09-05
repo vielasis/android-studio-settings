@@ -1,4 +1,5 @@
 <keymap version="1" name="macOS copy 1" parent="Mac OS X 10.5+">
+  <action id="EditorDuplicate" />
   <action id="Tool_External Tools_ktlint current file">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
