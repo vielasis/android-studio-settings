@@ -1,0 +1,55 @@
+<templateSet group="Retrofit">
+  <template name="rget" value="@retrofit2.http.GET(&quot;/$relativeUrl$&quot;)&#10;suspend fun get$func$(): $retVal$" description="Retrofit get" toReformat="true" toShortenFQNames="true">
+    <variable name="relativeUrl" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="func" expression="groovyScript(&quot;def idx =_1.lastIndexOf('/'); return (idx == -1 ? _1 : _1.substring(idx + 1)).capitalize()&quot;, relativeUrl)" defaultValue="" alwaysStopAt="true" />
+    <variable name="retVal" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+      <option name="KOTLIN_EXPRESSION" value="false" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_STATEMENT" value="false" />
+    </context>
+  </template>
+  <template name="rpost" value="@retrofit2.http.POST(&quot;/$relativeUrl$&quot;)&#10;suspend fun send$func$(@retrofit2.http.Body $argName$: $argType$): $retval$" description="Retrofit post" toReformat="true" toShortenFQNames="true">
+    <variable name="relativeUrl" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="func" expression="groovyScript(&quot;def idx =_1.lastIndexOf('/'); return (idx == -1 ? _1 : _1.substring(idx + 1)).capitalize()&quot;, relativeUrl)" defaultValue="" alwaysStopAt="true" />
+    <variable name="argType" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <variable name="argName" expression="camelCase(argType)" defaultValue="" alwaysStopAt="true" />
+    <variable name="retval" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+      <option name="KOTLIN_EXPRESSION" value="false" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_STATEMENT" value="false" />
+    </context>
+  </template>
+  <template name="rput" value="@retrofit2.http.PUT(&quot;/$relativeUrl$&quot;)&#10;suspend fun send$func$(@retrofit2.http.Body $argName$: $argType$): $retval$" description="Retrofit put" toReformat="true" toShortenFQNames="true">
+    <variable name="relativeUrl" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="func" expression="groovyScript(&quot;def idx =_1.lastIndexOf('/'); return (idx == -1 ? _1 : _1.substring(idx + 1)).capitalize()&quot;, relativeUrl)" defaultValue="" alwaysStopAt="true" />
+    <variable name="argType" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <variable name="argName" expression="camelCase(argType)" defaultValue="" alwaysStopAt="true" />
+    <variable name="retval" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+      <option name="KOTLIN_EXPRESSION" value="false" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_STATEMENT" value="false" />
+    </context>
+  </template>
+  <template name="rpmulti" value="@retrofit2.http.POST(&quot;/$relativeUrl$&quot;)&#10;@retrofit2.http.Multipart&#10;suspend fun send$func$(@retrofit2.http.Part $argName$: okhttp3.MultipartBody.Part): $retval$" description="Retrofit post multipart" toReformat="true" toShortenFQNames="true">
+    <variable name="relativeUrl" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="func" expression="groovyScript(&quot;def idx =_1.lastIndexOf('/'); return (idx == -1 ? _1 : _1.substring(idx + 1)).capitalize()&quot;, relativeUrl)" defaultValue="" alwaysStopAt="true" />
+    <variable name="argName" expression="camelCase(argType)" defaultValue="" alwaysStopAt="true" />
+    <variable name="retval" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+      <option name="KOTLIN_EXPRESSION" value="false" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_STATEMENT" value="false" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,7 @@
+<templateSet group="AndroidLogKotlin">
+  <template name="logt" value="$access$ const val TAG = &quot;$fileName$&quot;" description="A static logtag with your current filename" toReformat="true" toShortenFQNames="true">
+    <variable name="fileName" expression="groovyScript(&quot;_1.take(Math.min(23, _1.length()));&quot;, fileNameWithoutExtension())" defaultValue="" alwaysStopAt="true" />
+    <variable name="access" expression="" defaultValue="&quot;private&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>

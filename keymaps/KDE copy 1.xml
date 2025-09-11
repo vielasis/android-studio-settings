@@ -1,0 +1,23 @@
+<keymap version="1" name="KDE copy 1" parent="Default for KDE">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <mouse-shortcut keystroke="control button3" />
+  </action>
+  <action id="Tool_External Tools_ktlint current file">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+</keymap>

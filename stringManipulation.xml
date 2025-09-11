@@ -1,0 +1,36 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="grepHistory">
+      <list>
+        <GrepSettings>
+          <option name="caseSensitive" value="true" />
+          <option name="groupMatching" value="true" />
+          <option name="pattern" value="ABCDEFGHIZJ" />
+        </GrepSettings>
+        <GrepSettings>
+          <option name="caseSensitive" value="true" />
+          <option name="groupMatching" value="true" />
+          <option name="pattern" value="&quot;ABCDEFGHIZJ&quot;" />
+        </GrepSettings>
+      </list>
+    </option>
+    <option name="lastActionModel">
+      <UniversalActionModel>
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.escaping.UnescapeJsonAction" />
+        <option name="description" value="org.apache.commons.text.StringEscapeUtils#unescapeJson" />
+        <option name="textWithMnemonic" value="Unescape JSON" />
+      </UniversalActionModel>
+    </option>
+    <option name="sortSettingsMap">
+      <map>
+        <entry key="SortAction">
+          <value>
+            <SortSettings>
+              <option name="ignoreLeadingCharacters" value="//" />
+            </SortSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

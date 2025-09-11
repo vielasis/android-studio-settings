@@ -1,0 +1,13 @@
+<application>
+  <component name="RainbowSettings">
+    <option name="cycleCountOnAllBrackets" value="true" />
+    <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
+    <option name="doNOTRainbowifyTemplateString" value="true" />
+    <option name="doNOTRainbowifyTheFirstLevel" value="true" />
+    <option name="indentGuidesOptions" value="Only selected indent guide" />
+    <option name="rainbowifyTagNameInXML" value="true" />
+    <option name="suppressBigFileCheck" value="true" />
+    <option name="useColorGenerator" value="true" />
+    <option name="version" value="2023.3.7" />
+  </component>
+</application>

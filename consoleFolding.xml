@@ -1,0 +1,42 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="835" />
+        <option value="AssistStructure" />
+        <option value="BackgroundDexOptService" />
+        <option value="CCJob" />
+        <option value="E/chromium" />
+        <option value="E/wifi_forwarder" />
+        <option value="EGL_emulation" />
+        <option value="eglCodecCommon" />
+        <option value="EmuHWC2" />
+        <option value="FA-SVC" />
+        <option value="Finsky" />
+        <option value="FirebasePerformance" />
+        <option value="fpr_disabled_android_versions" />
+        <option value="fpr_enabled" />
+        <option value="gauges" />
+        <option value="GnssHAL_GnssInterface" />
+        <option value="GnssLocationProvider" />
+        <option value="goldfish-address-space" />
+        <option value="HostConnection" />
+        <option value="I/InputDispatcher" />
+        <option value="I/X509Uti" />
+        <option value="IInputConnectionWrapper" />
+        <option value="InputMethodManager" />
+        <option value="java.lang.NoSuchMethodException: androidx.viewpager2.widget.ViewPager2$LinearLayoutManagerImpl.calculateExtraLayoutSpace" />
+        <option value="libEGL" />
+        <option value="ModelDownloadController" />
+        <option value="netmgr" />
+        <option value="SurfaceControl" />
+        <option value="system_server" />
+        <option value="TelephonyPermissions" />
+        <option value="UntrustedWifiNetworkFactory" />
+        <option value="ViewRootImpl" />
+        <option value="W/InputReader" />
+        <option value="fpr_vc_network_request_sampling_rate" />
+      </list>
+    </option>
+  </component>
+</application>

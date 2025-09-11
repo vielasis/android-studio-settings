@@ -1,0 +1,7 @@
+<templateSet group="surround">
+  <template name="GBN" value="getByName(&quot;$SELECTION$&quot;)" description="gradle kts getByName()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

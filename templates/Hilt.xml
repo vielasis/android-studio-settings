@@ -1,0 +1,21 @@
+<templateSet group="Hilt">
+  <template name="hvm" value="@dagger.hilt.android.lifecycle.HiltViewModel&#10;class $filename$ @javax.inject.Inject constructor() : $super_cls$() {&#10;    $END$&#10;}" description="Hilt View Model" toReformat="true" toShortenFQNames="true">
+    <variable name="filename" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <variable name="super_cls" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="aep" value="@dagger.hilt.android.AndroidEntryPoint" description="@AndroidEntryPoint" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="inj" value="@javax.inject.Inject&#10;lateinit var $var_name$: $type$" description="@Inject lateinit field" toReformat="true" toShortenFQNames="true">
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var_name" expression="camelCase(type)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+</templateSet>

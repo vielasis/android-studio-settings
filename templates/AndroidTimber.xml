@@ -1,0 +1,54 @@
+<templateSet group="AndroidTimber">
+  <template name="timd" value="timber.log.Timber.d(&quot;$msg$&quot;)" description="Timber.d" toReformat="true" toShortenFQNames="true">
+    <variable name="msg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="time" value="timber.log.Timber.e(&quot;$msg$&quot;)" description="Timber.e" toReformat="true" toShortenFQNames="true">
+    <variable name="msg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="timi" value="timber.log.Timber.i(&quot;$msg$&quot;)" description="Timber.i" toReformat="true" toShortenFQNames="true">
+    <variable name="msg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="timw" value="timber.log.Timber.w(&quot;$msg$&quot;)" description="Timber.w" toReformat="true" toShortenFQNames="true">
+    <variable name="msg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="ttw" value="timber.log.Timber.tag($tag$).w(&quot;$msg$&quot;)" description="Timber.tag.w" toReformat="true" toShortenFQNames="true">
+    <variable name="msg" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="tag" expression="variableOfType(&quot;String&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="ttd" value="timber.log.Timber.tag($tag$).d(&quot;$msg$&quot;)" description="Timber.tag.d" toReformat="true" toShortenFQNames="true">
+    <variable name="msg" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="tag" expression="variableOfType(&quot;String&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="tte" value="timber.log.Timber.tag($tag$).e(&quot;$msg$&quot;)" description="Timber.tag.e" toReformat="true" toShortenFQNames="true">
+    <variable name="msg" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="tag" expression="variableOfType(&quot;String&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="tti" value="timber.log.Timber.tag($tag$).i(&quot;$msg$&quot;)" description="Timber.tag.i" toReformat="true" toShortenFQNames="true">
+    <variable name="msg" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="tag" expression="variableOfType(&quot;String&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

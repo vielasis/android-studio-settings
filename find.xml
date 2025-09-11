@@ -1,0 +1,31 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.kts</mask>
+    <mask>strings.xml</mask>
+    <mask>*.kt*</mask>
+    <mask>*.gradlle*</mask>
+    <mask>*.xml*</mask>
+    <mask>strings.xml*</mask>
+    <mask>*.*Activity*</mask>
+    <mask>*.kt</mask>
+    <mask>*.gradle.kts</mask>
+    <mask>*.gradle*</mask>
+    <mask>*.pro</mask>
+    <mask>*Service.*</mask>
+    <mask>*Rq.kt</mask>
+    <mask>*ViewModel.kt</mask>
+    <mask>*kts</mask>
+    <mask>*.java</mask>
+    <mask>*.gradle</mask>
+    <mask>*Service.kt</mask>
+    <mask>*.xml</mask>
+    <mask>*.gradle.**</mask>
+  </component>
+</application>
