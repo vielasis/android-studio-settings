@@ -1,28 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:SecurityProvider" />
+    <option name="mostRecentlyUsed" value="package:mine onCre" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:SecurityProvider" />
-        <option value="package:com.SingTel.mWallet.dev onCreat" />
-        <option value="package:com.SingTel.mWallet.dev fatal" />
-        <option value="package:com.SingTel.mWallet.dev inboxMessagesDidUpdate" />
-        <option value="package:com.SingTel.mWallet.dev inbox" />
-        <option value="package:mine inbox" />
-        <option value="package:mine fatal" />
-        <option value="package:mine glide" />
+        <option value="package:mine onCre" />
         <option value="package:mine " />
-        <option value="package:mine clever" />
-        <option value="package:mine DashCT" />
-        <option value="package:mine onCrea" />
-        <option value="package:mine deep" />
-        <option value="package:mine onCreate" />
-        <option value="package:mine DEEP" />
-        <option value="package:mine onCreat" />
-        <option value="package:mine deeplink" />
-        <option value="package:mine DefaultDLNavigator" />
-        <option value="package:mine restart" />
-        <option value="package:mine intercepte" />
+        <option value="package:mine DefaultP" />
+        <option value="package:mine onCleared" />
+        <option value="package:mine fata" />
+        <option value="package:mine oncrea" />
+        <option value="level:error " />
       </list>
     </option>
   </component>
