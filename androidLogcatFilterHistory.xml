@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine formS" />
+    <option name="mostRecentlyUsed" value="gxs" />
     <option name="nonFavorites">
       <list>
+        <option value="gxs" />
         <option value="package:mine formS" />
         <option value="package:mine cache miss" />
         <option value="package:mine cache" />
@@ -22,7 +23,6 @@
         <option value="package:com.SingTel.mWallet.dev failed attempts" />
         <option value="package:com.SingTel.mWallet.dev onCrea" />
         <option value="package:com.SingTel.mWallet.dev " />
-        <option value="package:com.SingTel.mWallet.dev navi" />
       </list>
     </option>
   </component>
