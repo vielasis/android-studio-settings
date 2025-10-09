@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
+    <option name="mostRecentlyUsed" value="package:mine fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fatal" />
         <option value="package:mine onCreate" />
         <option value="package:mine deeplink" />
         <option value="package:mine" />
@@ -17,7 +18,6 @@
         <option value="package:mine onCrea" />
         <option value="package:mine onEach" />
         <option value="package:mine onCreat" />
-        <option value="package:mine fatal" />
         <option value="package:mine onCreateView" />
         <option value="package:mine fata" />
         <option value="package:com.SingTel.mWallet.dev fatal" />
