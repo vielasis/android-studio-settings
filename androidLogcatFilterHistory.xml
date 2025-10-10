@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine shortcutmgr" />
+    <option name="mostRecentlyUsed" value="package:mine onCre" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCre" />
         <option value="package:mine shortcutmgr" />
         <option value="package:mine onCreat" />
         <option value="package:mine " />
