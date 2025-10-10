@@ -1,15 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCre" />
+    <option name="mostRecentlyUsed" value="package:mine onFormEven" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine onCre" />
-        <option value="package:mine " />
-        <option value="package:mine DefaultP" />
-        <option value="package:mine onCleared" />
-        <option value="package:mine fata" />
-        <option value="package:mine oncrea" />
-        <option value="level:error " />
+        <option value="package:mine onFormEven" />
       </list>
     </option>
   </component>
