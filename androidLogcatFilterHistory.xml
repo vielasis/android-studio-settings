@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine backpress" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine backpress" />
         <option value="package:mine " />
         <option value="package:mine KYC F" />
         <option value="package:mine onCreate " />
@@ -21,7 +23,6 @@
         <option value="package:mine onCreat" />
         <option value="package:mine onCreateView" />
         <option value="package:mine fata" />
-        <option value="package:com.SingTel.mWallet.dev fatal" />
       </list>
     </option>
   </component>
