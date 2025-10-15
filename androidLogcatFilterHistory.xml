@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreate" />
         <option value="package:mine " />
         <option value="package:mine backpress" />
         <option value="package:mine KYC F" />
         <option value="package:mine onCreate " />
         <option value="package:mine" />
-        <option value="package:mine onCreate" />
         <option value="package:mine fatal" />
         <option value="package:mine deeplink" />
         <option value="package:mine tag:shortcutmgr " />
