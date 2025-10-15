@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine backpress" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine backpress" />
         <option value="package:mine " />
+        <option value="package:mine backpress" />
         <option value="package:mine KYC F" />
         <option value="package:mine onCreate " />
         <option value="package:mine" />
