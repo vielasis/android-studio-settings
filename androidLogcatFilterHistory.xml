@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:OBPSelect" />
+    <option name="mostRecentlyUsed" value="package:mine deepli" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine deepli" />
         <option value="package:mine tag:OBPSelect" />
         <option value="package:mine bvm" />
         <option value="package:mine onClea" />
@@ -22,7 +23,6 @@
         <option value="package:mine initial fe" />
         <option value="package:mine PrepaidCon" />
         <option value="package:mine onCrea" />
-        <option value="package:mine onEach" />
       </list>
     </option>
   </component>
