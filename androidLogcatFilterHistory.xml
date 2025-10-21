@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:AppsFlyer_6.16.2 tag:DashboardFragment tag:DashAFListener" />
+    <option name="mostRecentlyUsed" value="package:mine tag:AppsFlyer_6.16.2" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:AppsFlyer_6.16.2" />
         <option value="package:mine tag:AppsFlyer_6.16.2 tag:DashboardFragment tag:DashAFListener" />
         <option value="package:mine tag:AppsFlyer_6.16.2 tag:DashboardFragment " />
         <option value="package:mine tag:AppsFlyer_6.16.2 " />
@@ -12,7 +13,6 @@
         <option value="package:mine deeplin" />
         <option value="package:mine DashboardFra" />
         <option value="package:mine LINK!" />
-        <option value="package:mine tag:AppsFlyer_6.16.2" />
         <option value="package:mine Apps" />
         <option value="package:mine OBPSele" />
         <option value="package:mine deepli" />
