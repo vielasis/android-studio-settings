@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine DashboardFra" />
+    <option name="mostRecentlyUsed" value="package:mine tag:AppsFlyer_6.16.2 " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:AppsFlyer_6.16.2 " />
         <option value="package:mine DashboardFra" />
         <option value="package:mine LINK!" />
         <option value="package:mine tag:AppsFlyer_6.16.2" />
@@ -22,7 +23,6 @@
         <option value="package:mine deeplink" />
         <option value="package:mine tag:shortcutmgr " />
         <option value="gxs" />
-        <option value="package:mine formS" />
       </list>
     </option>
   </component>
