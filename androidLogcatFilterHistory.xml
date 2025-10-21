@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:AppsFlyer_6.16.2 tag:DashboardFragment " />
+    <option name="mostRecentlyUsed" value="package:mine tag:AppsFlyer_6.16.2 tag:DashboardFragment tag:DashAFListener" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:AppsFlyer_6.16.2 tag:DashboardFragment tag:DashAFListener" />
         <option value="package:mine tag:AppsFlyer_6.16.2 tag:DashboardFragment " />
         <option value="package:mine tag:AppsFlyer_6.16.2 " />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine backpress" />
         <option value="package:mine KYC F" />
         <option value="package:mine onCreate " />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
