@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:AppsFlyer_6.16.2 tag:DashAppsflyer " />
+    <option name="mostRecentlyUsed" value="package:mine Deeplink" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Deeplink" />
         <option value="package:mine tag:AppsFlyer_6.16.2 tag:DashAppsflyer " />
         <option value="package:mine tag:AppsFlyer_6.16.2 " />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine deepli" />
         <option value="package:mine tag:OBPSelect" />
         <option value="package:mine bvm" />
-        <option value="package:mine onClea" />
       </list>
     </option>
   </component>
