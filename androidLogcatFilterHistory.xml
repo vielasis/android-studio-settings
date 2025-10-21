@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine OBPSele" />
+    <option name="mostRecentlyUsed" value="package:mine tag:AppsFlyer_6.16.2" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:AppsFlyer_6.16.2" />
+        <option value="package:mine Apps" />
         <option value="package:mine OBPSele" />
         <option value="package:mine " />
         <option value="package:mine deepli" />
@@ -21,8 +23,6 @@
         <option value="package:mine formS" />
         <option value="package:mine cache miss" />
         <option value="package:mine cache" />
-        <option value="package:mine initial fe" />
-        <option value="package:mine PrepaidCon" />
       </list>
     </option>
   </component>
