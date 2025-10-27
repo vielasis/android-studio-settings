@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:IntroFragment tag:APPSFLYER_6.17.3 " />
+    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreate" />
+        <option value="package:mine" />
         <option value="package:mine tag:IntroFragment tag:APPSFLYER_6.17.3 " />
         <option value="package:mine tag:IntroFragment" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:mine tag:AppsFlyer_6.16.2 tag:DashAppsflyer " />
         <option value="package:mine tag:AppsFlyer_6.16.2 " />
         <option value="package:mine onCr" />
-        <option value="package:mine onC" />
-        <option value="package:mine tag:AppsFlyer_6.16.2 tag:DashboardFragment tag:DashAFListener" />
       </list>
     </option>
   </component>
