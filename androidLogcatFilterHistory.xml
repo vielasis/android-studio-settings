@@ -4,10 +4,10 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine onCreate" />
+        <option value="package:mine " />
         <option value="package:mine deeeplink" />
         <option value="package:mine tag:DashboardFragment " />
         <option value="package:mine deeplink" />
-        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine tag:IntroFragment tag:APPSFLYER_6.17.3 " />
         <option value="package:mine tag:IntroFragment" />
