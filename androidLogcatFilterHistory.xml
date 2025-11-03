@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onDeeplink" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine onDeeplink" />
         <option value="package:mine clevertap" />
         <option value="package:mine fatal" />
         <option value="package:mine onCreate" />
-        <option value="package:mine " />
         <option value="package:mine deeeplink" />
         <option value="package:mine tag:DashboardFragment " />
         <option value="package:mine deeplink" />
