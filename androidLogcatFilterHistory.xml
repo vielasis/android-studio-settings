@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine svcConfig" />
+    <option name="mostRecentlyUsed" value="package:mine onCreat" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreat" />
         <option value="package:mine svcConfig" />
         <option value="package:mine mapping" />
         <option value="package:mine onFormEvent" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:FormHostMediator " />
         <option value="package:mine tag:AppsFlyer_6.17.3 " />
         <option value="package:mine tag:AppsFlyer_6.16.2" />
-        <option value="package:mine DEEP" />
       </list>
     </option>
   </component>
