@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine TestWorker tag:WM-WorkerWrapper" />
+    <option name="mostRecentlyUsed" value="package:mine testwor" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine testwor" />
+        <option value="package:mine tag:TestWorker " />
         <option value="package:mine TestWorker tag:WM-WorkerWrapper" />
         <option value="package:mine TestWorker" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:mine tag:DashboardFragment " />
         <option value="package:mine deeplink" />
         <option value="package:mine" />
-        <option value="package:mine tag:IntroFragment tag:APPSFLYER_6.17.3 " />
-        <option value="package:mine tag:IntroFragment" />
       </list>
     </option>
   </component>
