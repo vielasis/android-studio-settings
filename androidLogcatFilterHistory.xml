@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine testwor" />
+    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreate" />
         <option value="package:mine testwor" />
         <option value="package:mine tag:TestWorker " />
         <option value="package:mine TestWorker tag:WM-WorkerWrapper" />
@@ -18,7 +19,6 @@
         <option value="package:mine onDeeplink" />
         <option value="package:mine clevertap" />
         <option value="package:mine fatal" />
-        <option value="package:mine onCreate" />
         <option value="package:mine deeeplink" />
         <option value="package:mine tag:DashboardFragment " />
         <option value="package:mine deeplink" />
