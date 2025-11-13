@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fatal" />
         <option value="package:mine " />
         <option value="package:mine tag:ReceiptWebView" />
         <option value="package:mine tag:FaveConnectWebviewFragment " />
         <option value="package:mine onCre" />
         <option value="package:mine tag:IATSELECTIONFRAGMENT " />
-        <option value="package:mine fatal" />
         <option value="package:mine tag:IatSelectionF" />
         <option value="package:mine tag:BioM" />
         <option value="package:mine" />
