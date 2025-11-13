@@ -25,8 +25,8 @@
     <mask>*.java</mask>
     <mask>*.gradle</mask>
     <mask>*Service.kt</mask>
-    <mask>*.xml</mask>
     <mask>*.gradle.**</mask>
     <mask>*Ext.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
