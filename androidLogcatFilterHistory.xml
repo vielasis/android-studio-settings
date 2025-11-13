@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:FaveConnectWebviewFragment " />
+    <option name="mostRecentlyUsed" value="package:mine tag:ReceiptWebView" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:ReceiptWebView" />
         <option value="package:mine tag:FaveConnectWebviewFragment " />
         <option value="package:mine onCre" />
         <option value="package:mine tag:IATSELECTIONFRAGMENT " />
