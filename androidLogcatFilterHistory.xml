@@ -1,22 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fatal" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine fatal" />
         <option value="package:mine " />
-        <option value="package:mine tag:ReceiptWebView" />
-        <option value="package:mine tag:FaveConnectWebviewFragment " />
-        <option value="package:mine onCre" />
-        <option value="package:mine tag:IATSELECTIONFRAGMENT " />
-        <option value="package:mine tag:IatSelectionF" />
-        <option value="package:mine tag:BioM" />
-        <option value="package:mine" />
-        <option value="package:mine tag:DashAppsFlyer tag:AppsFlyer_6.17.3 tag:IntroFragment tag:DashAFListener" />
-        <option value="package:mine tag:DashAppsFlyer tag:AppsFlyer_6.17.3 tag:IntroFragment tag:DASHAF" />
-        <option value="package:mine tag:DashAppsFlyer tag:AppsFlyer_6.17.3 tag:IntroFragment" />
-        <option value="package:mine tag:DashAppsFlyer tag:AppsFlyer_6.17.3 tag:IntroActivci" />
-        <option value="package:mine tag:DashAppsFlyer" />
       </list>
     </option>
   </component>
