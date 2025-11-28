@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine onCreate" />
+        <option value="package:mine tag:DashboardFragment" />
         <option value="package:mine " />
       </list>
     </option>
