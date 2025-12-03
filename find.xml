@@ -7,7 +7,6 @@
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.kts</mask>
     <mask>strings.xml</mask>
     <mask>*.kt*</mask>
     <mask>*.gradlle*</mask>
@@ -28,5 +27,6 @@
     <mask>*.gradle.**</mask>
     <mask>*Ext.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.kts</mask>
   </component>
 </application>
