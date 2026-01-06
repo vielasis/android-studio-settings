@@ -28,5 +28,6 @@
     <mask>*Ext.kt</mask>
     <mask>*.xml</mask>
     <mask>*.kts</mask>
+    <mask>*Service*.kt</mask>
   </component>
 </application>

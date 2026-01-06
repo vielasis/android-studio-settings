@@ -1,15 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine MYINFO" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine MYINFO" />
         <option value="package:mine tag:asdf" />
         <option value="package:mine tag:DashAFListener " />
         <option value="package:mine appsflyer" />
         <option value="package:mine appsf" />
         <option value="package:mine fatal" />
-        <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="package:mine tag:MYINFO " />
         <option value="package:mine tag:MYINFO" />
