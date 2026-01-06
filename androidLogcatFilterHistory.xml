@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine Collect" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Collect" />
         <option value="package:mine " />
         <option value="package:mine MYINFO" />
         <option value="package:mine tag:asdf" />
@@ -21,7 +23,6 @@
         <option value="package:mine PlainStorage" />
         <option value="package:mine tag:DashboardFragment " />
         <option value="package:mine deeplink" />
-        <option value="package:mine tag:DashboardFragment" />
       </list>
     </option>
   </component>
