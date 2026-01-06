@@ -7,4 +7,11 @@
     <entry key="ide.experimental.ui" value="true" source="SYSTEM" />
     <entry key="ide.instant.shutdown" value="false" source="SYSTEM" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
