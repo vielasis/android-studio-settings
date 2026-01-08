@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fatal" />
+    <option name="mostRecentlyUsed" value="package:mine tag:KEK" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:KEK" />
+        <option value="package:mine " />
         <option value="package:mine fatal" />
         <option value="package:mine onCr" />
         <option value="package:mine create" />
         <option value="package:mine Collect" />
-        <option value="package:mine " />
         <option value="package:mine MYINFO" />
         <option value="package:mine tag:asdf" />
         <option value="package:mine tag:DashAFListener " />
@@ -22,7 +23,6 @@
         <option value="package:mine onCrea" />
         <option value="package:mine onCreateVi" />
         <option value="package:mine PlainStor" />
-        <option value="package:mine PlainStorage" />
       </list>
     </option>
   </component>
