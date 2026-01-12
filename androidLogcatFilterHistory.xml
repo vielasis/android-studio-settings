@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:AppsFlyer_6.17.3 " />
+    <option name="mostRecentlyUsed" value="package:mine tag:DashCT " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:DashCT " />
+        <option value="package:mine tag:DashAppsflyer " />
+        <option value="package:mine tag" />
         <option value="package:mine tag:AppsFlyer_6.17.3 " />
         <option value="package:mine cel" />
         <option value="package:mine tag:DashCT" />
@@ -20,9 +23,6 @@
         <option value="package:mine onCreate" />
         <option value="package:mine tag:MYINFO " />
         <option value="package:mine tag:MYINFO" />
-        <option value="package:mine TAG: MYINFO" />
-        <option value="package:mine encr" />
-        <option value="package:mine running" />
       </list>
     </option>
   </component>
