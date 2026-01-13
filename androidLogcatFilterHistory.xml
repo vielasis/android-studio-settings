@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:SignupVM" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:SignupVM" />
         <option value="package:mine " />
+        <option value="package:mine tag:SignupVM" />
         <option value="package:mine onCreateView" />
         <option value="package:mine tag:DashCT " />
         <option value="package:mine tag:DashAppsflyer " />
