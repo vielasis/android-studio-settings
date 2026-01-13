@@ -2,7 +2,6 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
-        <option value="835" />
         <option value="AssistStructure" />
         <option value="BackgroundDexOptService" />
         <option value="CCJob" />
@@ -16,6 +15,7 @@
         <option value="FirebasePerformance" />
         <option value="fpr_disabled_android_versions" />
         <option value="fpr_enabled" />
+        <option value="fpr_vc_network_request_sampling_rate" />
         <option value="gauges" />
         <option value="GnssHAL_GnssInterface" />
         <option value="GnssLocationProvider" />
@@ -35,7 +35,6 @@
         <option value="UntrustedWifiNetworkFactory" />
         <option value="ViewRootImpl" />
         <option value="W/InputReader" />
-        <option value="fpr_vc_network_request_sampling_rate" />
       </list>
     </option>
   </component>
