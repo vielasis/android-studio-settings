@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreateView" />
+    <option name="mostRecentlyUsed" value="package:mine tag:cameraxbasic " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:cameraxbasic " />
+        <option value="package:mine tag:200" />
+        <option value="package:mine tag:CameraXBasic " />
         <option value="package:mine onCreateView" />
         <option value="package:mine tag:PictureSelect" />
         <option value="package:mine tag:" />
