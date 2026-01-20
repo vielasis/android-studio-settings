@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fatal" />
         <option value="package:mine " />
         <option value="package:mine tag:SignupVM" />
         <option value="package:mine onCreateView" />
@@ -12,7 +14,6 @@
         <option value="package:mine cel" />
         <option value="package:mine tag:DashCT" />
         <option value="package:mine tag:KEK" />
-        <option value="package:mine fatal" />
         <option value="package:mine onCr" />
         <option value="package:mine create" />
         <option value="package:mine Collect" />
