@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:GrowMoneyViewModel " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:GrowMoneyViewModel " />
         <option value="package:mine fatal" />
         <option value="package:mine tag:" />
         <option value="package:mine tag:BaseVM" />
-        <option value="package:mine " />
         <option value="package:mine tag:SessionData" />
         <option value="package:mine migration" />
         <option value="package:mine tag:SignupVM" />
