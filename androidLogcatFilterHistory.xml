@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
+    <option name="mostRecentlyUsed" value="package:mine tag:RemitLan" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:RemitLan" />
         <option value="package:mine onCreate" />
         <option value="package:mine " />
         <option value="package:mine tag:GrowMoneyViewModel " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:KEK" />
         <option value="package:mine onCr" />
         <option value="package:mine create" />
-        <option value="package:mine Collect" />
       </list>
     </option>
   </component>
