@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
+    <option name="mostRecentlyUsed" value="package:mine fata" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fata" />
         <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="package:mine tag:RemitLan" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:DashCT" />
         <option value="package:mine tag:KEK" />
         <option value="package:mine onCr" />
-        <option value="package:mine create" />
       </list>
     </option>
   </component>
