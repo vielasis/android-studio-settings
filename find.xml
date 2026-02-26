@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.kts" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -26,9 +27,9 @@
     <mask>*Service.kt</mask>
     <mask>*.gradle.**</mask>
     <mask>*Ext.kt</mask>
-    <mask>*.kts</mask>
     <mask>*Service*.kt</mask>
     <mask>*.xml</mask>
     <mask>AndroidManifest.xml</mask>
+    <mask>*.kts</mask>
   </component>
 </application>
