@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fatal" />
+    <option name="mostRecentlyUsed" value="package:mine onCrea" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCrea" />
         <option value="package:mine fatal" />
         <option value="package:mine create" />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:DashCT " />
         <option value="package:mine tag:DashAppsflyer " />
         <option value="package:mine tag" />
-        <option value="package:mine tag:AppsFlyer_6.17.3 " />
       </list>
     </option>
   </component>
