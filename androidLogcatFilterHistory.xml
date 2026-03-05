@@ -1,13 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine onFormEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onFormEvent" />
+        <option value="package:mine onCreate" />
         <option value="package:mine " />
         <option value="package:mine fatal" />
         <option value="package:mine onCrea" />
         <option value="package:mine create" />
         <option value="package:mine" />
-        <option value="package:mine onCreate" />
         <option value="package:mine UPDATED" />
         <option value="package:mine tag:WKWK" />
         <option value="package:mine fata" />
@@ -21,7 +23,6 @@
         <option value="package:mine onCreateView" />
         <option value="package:mine tag:DashCT " />
         <option value="package:mine tag:DashAppsflyer " />
-        <option value="package:mine tag" />
       </list>
     </option>
   </component>
