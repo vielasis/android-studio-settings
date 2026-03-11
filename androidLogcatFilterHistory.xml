@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine OnServiceSelected" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine OnServiceSelected" />
         <option value="package:mine " />
         <option value="package:mine fat" />
         <option value="package:mine onFormEvent" />
@@ -21,7 +23,6 @@
         <option value="package:mine migration" />
         <option value="package:mine tag:SignupVM" />
         <option value="package:mine onCreateView" />
-        <option value="package:mine tag:DashCT " />
       </list>
     </option>
   </component>
