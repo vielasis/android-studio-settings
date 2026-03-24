@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="pa" />
         <option value="package:com.singtel.mwallet " />
@@ -11,7 +12,6 @@
         <option value="package:com.singtel.mwallet tag:DashAF" />
         <option value="package:mine tag:Appsflyer" />
         <option value="package:mine tag:DashAppsflyer" />
-        <option value="package:mine " />
         <option value="package:mine fatal" />
         <option value="package:mine OnServiceSelected" />
         <option value="package:mine fat" />
