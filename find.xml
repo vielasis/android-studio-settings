@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="gradle" />
+    <option name="FILE_MASK" value="*.kts" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -30,7 +30,7 @@
     <mask>*Service*.kt</mask>
     <mask>*.xml</mask>
     <mask>AndroidManifest.xml</mask>
-    <mask>*.kts</mask>
     <mask>gradle</mask>
+    <mask>*.kts</mask>
   </component>
 </application>
