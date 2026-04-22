@@ -16,7 +16,6 @@
     <mask>*.kt</mask>
     <mask>*.gradle.kts</mask>
     <mask>*.gradle*</mask>
-    <mask>*.pro</mask>
     <mask>*Service.*</mask>
     <mask>*Rq.kt</mask>
     <mask>*ViewModel.kt</mask>
@@ -31,5 +30,6 @@
     <mask>gradle</mask>
     <mask>*.kts</mask>
     <mask>*.xml</mask>
+    <mask>*.pro</mask>
   </component>
 </application>
