@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:RemitLandingFragment " />
+    <option name="mostRecentlyUsed" value="package:mine tag:SendMoneyRepo" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:SendMoneyRepo" />
         <option value="package:mine tag:RemitLandingFragment " />
         <option value="package:mine Config" />
         <option value="package:mine AppUpdateHook" />
@@ -22,7 +23,6 @@
         <option value="package:com.singtel.mwallet tag:DashAF" />
         <option value="package:mine tag:Appsflyer" />
         <option value="package:mine tag:DashAppsflyer" />
-        <option value="package:mine OnServiceSelected" />
       </list>
     </option>
   </component>
