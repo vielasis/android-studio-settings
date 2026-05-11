@@ -32,7 +32,7 @@
     <mask>gradle</mask>
     <mask>*.kts</mask>
     <mask>*.pro</mask>
-    <mask>*.xml</mask>
     <mask>*.gradle.*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
