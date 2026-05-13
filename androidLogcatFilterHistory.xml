@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fatal" />
         <option value="package:mine " />
         <option value="package:mine tag:SendMoneyRepo" />
         <option value="package:mine HelperList" />
@@ -12,7 +14,6 @@
         <option value="package:mine tag:RemitLandingFragment " />
         <option value="package:mine Config" />
         <option value="package:mine AppUpdateHook" />
-        <option value="package:mine fatal" />
         <option value="package:mine tag:FormHostMediator" />
         <option value="package:mine onIss" />
         <option value="package:mine onFormEvent" />
