@@ -4,12 +4,12 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine onCreate" />
+        <option value="package:mine " />
         <option value="package:mine fata" />
         <option value="package:mine onCreat" />
         <option value="package:mine onCrea" />
         <option value="package:mine deepli" />
         <option value="package:mine tag:DashAppsflyer" />
-        <option value="package:mine " />
         <option value="package:mine tag:AppsFlyer" />
         <option value="package:mine onCreateView" />
         <option value="package:mine fatal" />
