@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine isEdg" />
+    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine isEdg" />
         <option value="package:mine onCreate" />
+        <option value="package:mine isEdg" />
         <option value="package:mine " />
         <option value="package:mine fata" />
         <option value="package:mine onCreat" />
