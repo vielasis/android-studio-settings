@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
+    <option name="mostRecentlyUsed" value="package:mine isEdg" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine isEdg" />
         <option value="package:mine onCreate" />
         <option value="package:mine " />
         <option value="package:mine fata" />
@@ -22,7 +23,6 @@
         <option value="package:mine Config" />
         <option value="package:mine AppUpdateHook" />
         <option value="package:mine tag:FormHostMediator" />
-        <option value="package:mine onIss" />
       </list>
     </option>
   </component>
