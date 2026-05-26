@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine AppsFlyer" />
+    <option name="mostRecentlyUsed" value="package:mine onConversionDataSuccess" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onConversionDataSuccess" />
         <option value="package:mine AppsFlyer" />
         <option value="package:mine " />
         <option value="package:mine tag:DashAFListener" />
@@ -22,7 +23,6 @@
         <option value="package:mine fatal" />
         <option value="package:mine tag:SendMoneyRepo" />
         <option value="package:mine HelperList" />
-        <option value="package:mine tag:FormHostMediator " />
       </list>
     </option>
   </component>
