@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -31,7 +32,7 @@
     <mask>*.kts</mask>
     <mask>*.pro</mask>
     <mask>*.gradle.*</mask>
-    <mask>*.xml</mask>
     <mask>colors.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
