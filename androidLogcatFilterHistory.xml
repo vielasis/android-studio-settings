@@ -1,14 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.SingTel.mWallet.dev onCreate" />
+    <option name="mostRecentlyUsed" value="package:mine tag:DashApps" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:DashApps" />
+        <option value="package:mine tag:DashAF" />
+        <option value="package:mine tag:AppsFlyer" />
+        <option value="package:mine " />
+        <option value="package:mine onCreate" />
+        <option value="package:mine deeplink" />
         <option value="package:com.SingTel.mWallet.dev onCreate" />
         <option value="package:com.SingTel.mWallet.dev onCreat" />
         <option value="package:com.SingTel.mWallet.dev " />
         <option value="package:com.SingTel.mWallet.dev VPB" />
-        <option value="package:mine " />
-        <option value="package:mine onCreate" />
         <option value="package:mine onConversionDataSuccess" />
         <option value="package:mine AppsFlyer" />
         <option value="package:mine tag:DashAFListener" />
@@ -19,10 +23,6 @@
         <option value="package:mine appsFlter" />
         <option value="package:mine isEdg" />
         <option value="package:mine fata" />
-        <option value="package:mine onCreat" />
-        <option value="package:mine onCrea" />
-        <option value="package:mine deepli" />
-        <option value="package:mine tag:AppsFlyer" />
       </list>
     </option>
   </component>
