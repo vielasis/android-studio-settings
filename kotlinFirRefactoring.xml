@@ -1,5 +1,6 @@
 <application>
   <component name="KotlinFirRefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="true" />
   </component>
 </application>
