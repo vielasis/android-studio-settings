@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine inboxDidIni" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine inboxDidIni" />
-        <option value="package:mine fatal" />
         <option value="package:mine " />
+        <option value="package:mine fatal" />
+        <option value="package:mine inboxDidIni" />
         <option value="package:mine tag:DashCT" />
         <option value="package:mine tag:Clevertap" />
         <option value="package:mine tag:DashAppsflyer" />
