@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:DashCT" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:DashCT" />
         <option value="package:mine tag:Clevertap" />
         <option value="package:mine tag:DashAppsflyer" />
@@ -10,7 +10,6 @@
         <option value="package:mine tag:DashApps" />
         <option value="package:mine tag:DashAF" />
         <option value="package:mine tag:AppsFlyer" />
-        <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="package:mine deeplink" />
         <option value="package:com.SingTel.mWallet.dev onCreate" />
