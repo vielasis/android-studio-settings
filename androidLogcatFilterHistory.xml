@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:DashCT" />
+    <option name="mostRecentlyUsed" value="package:mine ZALO::im" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ZALO::im" />
         <option value="package:mine tag:DashCT" />
         <option value="package:mine " />
         <option value="package:mine fatal" />
@@ -22,7 +23,6 @@
         <option value="package:mine onConversionDataSuccess" />
         <option value="package:mine AppsFlyer" />
         <option value="package:mine tag:DashAFListener" />
-        <option value="package:mine tag:DashAp" />
       </list>
     </option>
   </component>
