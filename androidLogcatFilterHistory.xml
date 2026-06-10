@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onFormEvent" />
+    <option name="mostRecentlyUsed" value="package:mine GA" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine GA" />
         <option value="package:mine onFormEvent" />
         <option value="package:mine helper" />
         <option value="package:mine i" />
@@ -22,7 +23,6 @@
         <option value="package:mine deeplink" />
         <option value="package:com.SingTel.mWallet.dev onCreate" />
         <option value="package:com.SingTel.mWallet.dev onCreat" />
-        <option value="package:com.SingTel.mWallet.dev " />
       </list>
     </option>
   </component>
