@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
         <option value="package:mine onCreate" />
+        <option value="package:mine " />
+        <option value="package:mine fata" />
         <option value="package:mine firebase" />
         <option value="package:mine Google" />
         <option value="package:mine AppsF" />
@@ -21,7 +23,6 @@
         <option value="package:mine tag:DashAppsflyer" />
         <option value="package:mine onCreat" />
         <option value="package:mine tag:DashApps" />
-        <option value="package:mine tag:AppsFlyer" />
       </list>
     </option>
   </component>
