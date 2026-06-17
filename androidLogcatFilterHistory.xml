@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:DASHAF tag:DASHGA" />
+    <option name="mostRecentlyUsed" value="package:mine tag:DashAF" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:DashAF" />
+        <option value="package:mine tag:AppsFlyer_6.17.3 " />
+        <option value="package:mine remit_home" />
+        <option value="package:mine INAPP-19" />
+        <option value="package:mine appsflyer" />
+        <option value="package:mine tag:DASHGA" />
         <option value="package:mine tag:DASHAF tag:DASHGA" />
         <option value="package:mine onCreate" />
         <option value="package:mine " />
@@ -10,7 +16,6 @@
         <option value="package:mine firebase" />
         <option value="package:mine Google" />
         <option value="package:mine AppsF" />
-        <option value="package:mine tag:DashAF" />
         <option value="package:mine GA" />
         <option value="package:mine onFormEvent" />
         <option value="package:mine helper" />
@@ -18,11 +23,6 @@
         <option value="package:mine onIssu" />
         <option value="package:mine fatal" />
         <option value="package:mine ZALO::im" />
-        <option value="package:mine tag:DashCT" />
-        <option value="package:mine inboxDidIni" />
-        <option value="package:mine tag:Clevertap" />
-        <option value="package:mine tag:DashAppsflyer" />
-        <option value="package:mine onCreat" />
       </list>
     </option>
   </component>
