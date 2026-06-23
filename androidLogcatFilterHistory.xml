@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fatal" />
+    <option name="mostRecentlyUsed" value="package:mine ben" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ben" />
+        <option value="package:mine onFormE" />
         <option value="package:mine fatal" />
         <option value="package:mine " />
         <option value="package:mine onCreate" />
@@ -21,8 +23,6 @@
         <option value="package:mine onFormEvent" />
         <option value="package:mine helper" />
         <option value="package:mine i" />
-        <option value="package:mine onIssu" />
-        <option value="package:mine ZALO::im" />
       </list>
     </option>
   </component>
