@@ -1,14 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine onCreate" />
         <option value="package:mine RemitVM" />
         <option value="package:mine ben" />
         <option value="package:mine onFormE" />
         <option value="package:mine fatal" />
-        <option value="package:mine " />
         <option value="package:mine tag:DashAF" />
         <option value="package:mine tag:AppsFlyer_6.17.3 " />
         <option value="package:mine remit_home" />
