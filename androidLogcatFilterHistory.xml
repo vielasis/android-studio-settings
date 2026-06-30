@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fatal" />
+    <option name="mostRecentlyUsed" value="package:mine onCreateV" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreateV" />
         <option value="package:mine fatal" />
         <option value="package:mine tag:AppUpda" />
         <option value="package:mine tag:HomeViewModel " />
@@ -22,7 +23,6 @@
         <option value="package:mine firebase" />
         <option value="package:mine Google" />
         <option value="package:mine AppsF" />
-        <option value="package:mine GA" />
       </list>
     </option>
   </component>
