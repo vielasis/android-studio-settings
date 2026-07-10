@@ -7,7 +7,6 @@
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.kts</mask>
     <mask>strings.xml</mask>
     <mask>*.kt*</mask>
     <mask>*.gradlle*</mask>
@@ -17,7 +16,6 @@
     <mask>*.kt</mask>
     <mask>*.gradle.kts</mask>
     <mask>*.gradle*</mask>
-    <mask>*.pro</mask>
     <mask>*Service.*</mask>
     <mask>*Rq.kt</mask>
     <mask>*ViewModel.kt</mask>
@@ -27,6 +25,12 @@
     <mask>*Service.kt</mask>
     <mask>*.gradle.**</mask>
     <mask>*Ext.kt</mask>
+    <mask>*.kts</mask>
+    <mask>*Service*.kt</mask>
+    <mask>AndroidManifest.xml</mask>
+    <mask>*.gradle.*</mask>
+    <mask>*.pro</mask>
+    <mask>strings*.xml</mask>
     <mask>*.xml</mask>
   </component>
 </application>

@@ -12,6 +12,7 @@
       <mapping pattern="queue-file" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="flat" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />

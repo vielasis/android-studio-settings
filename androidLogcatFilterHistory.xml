@@ -1,22 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:cameraxbasic " />
+    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:cameraxbasic " />
-        <option value="package:mine tag:200" />
-        <option value="package:mine tag:CameraXBasic " />
-        <option value="package:mine onCreateView" />
-        <option value="package:mine tag:PictureSelect" />
-        <option value="package:mine tag:" />
-        <option value="package:mine onCre" />
-        <option value="package:mine fatal" />
-        <option value="package:mine onCreat" />
-        <option value="package:mine " />
         <option value="package:mine onCreate" />
-        <option value="package:mine PayloadFactory" />
-        <option value="package:mine onMessageReceived" />
-        <option value="package:mine Push" />
+        <option value="package:mine " />
+        <option value="package:mine tag:FormHostMediator OnServiceSelected" />
+        <option value="package:mine tag:FormHostMediator " />
+        <option value="package:mine fata" />
+        <option value="package:mine running" />
+        <option value="package:mine tag:FormHostMediator" />
+        <option value="package:mine referr" />
+        <option value="package:mine introvm" />
+        <option value="package:mine onCre" />
+        <option value="package:mine refer" />
+        <option value="package:mine referral" />
+        <option value="package:mine CleverTap" />
+        <option value="package:mine update token" />
+        <option value="package:mine tag:SLE" />
+        <option value="package:mine tag:TOUCH" />
+        <option value="package:mine" />
+        <option value="package:mine onCrea" />
+        <option value="package:mine AppsFlyer" />
+        <option value="package:mine dash" />
       </list>
     </option>
   </component>
