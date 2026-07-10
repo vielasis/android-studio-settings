@@ -16,9 +16,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.escaping.UnescapeJsonAction" />
-        <option name="description" value="org.apache.commons.text.StringEscapeUtils#unescapeJson" />
-        <option name="textWithMnemonic" value="Unescape JSON" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToLowerCaseAction" />
+        <option name="description" value="To lower case" />
+        <option name="textWithMnemonic" value="To lower case" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
