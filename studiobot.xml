@@ -1,0 +1,9 @@
+<application>
+  <component name="StudioBotSettings">
+    <option name="notificationAlreadyShown">
+      <map>
+        <entry key="create_with_ai_promotion_notification_DAC" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
