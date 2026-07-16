@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
+    <option name="mostRecentlyUsed" value="package:mine tag:aasdf" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:aasdf" />
         <option value="package:mine onCreate" />
         <option value="package:mine " />
         <option value="package:mine tag:FormHostMediator OnServiceSelected" />
@@ -22,7 +23,6 @@
         <option value="package:mine" />
         <option value="package:mine onCrea" />
         <option value="package:mine AppsFlyer" />
-        <option value="package:mine dash" />
       </list>
     </option>
   </component>
