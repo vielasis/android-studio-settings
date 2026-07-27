@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine SELECTION" />
+    <option name="mostRecentlyUsed" value="package:mine tag:ConfigMgr " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:ConfigMgr " />
         <option value="package:mine onCreate" />
         <option value="package:mine SELECTION" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine onCre" />
         <option value="package:mine refer" />
         <option value="package:mine referral" />
-        <option value="package:mine CleverTap" />
       </list>
     </option>
   </component>
