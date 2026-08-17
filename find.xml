@@ -32,5 +32,6 @@
     <mask>*.pro</mask>
     <mask>strings*.xml</mask>
     <mask>*.xml</mask>
+    <mask>*VM.kt</mask>
   </component>
 </application>
