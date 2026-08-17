@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCrea" />
+    <option name="mostRecentlyUsed" value="package:mine onCreateView" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreateView" />
+        <option value="package:mine tag:onC" />
         <option value="package:mine onCrea" />
         <option value="package:mine tag:SELECTION" />
         <option value="package:mine tag:ConfigMgr " />
@@ -21,8 +23,6 @@
         <option value="package:mine running" />
         <option value="package:mine tag:FormHostMediator" />
         <option value="package:mine referr" />
-        <option value="package:mine introvm" />
-        <option value="package:mine onCre" />
       </list>
     </option>
   </component>
