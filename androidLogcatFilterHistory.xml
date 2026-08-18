@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fata" />
+    <option name="mostRecentlyUsed" value="package:com.zing.zalo " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.zing.zalo " />
         <option value="package:mine fata" />
         <option value="package:mine " />
         <option value="package:mine onCreateView" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:FormHostMediator " />
         <option value="package:mine running" />
         <option value="package:mine tag:FormHostMediator" />
-        <option value="package:mine referr" />
       </list>
     </option>
   </component>
