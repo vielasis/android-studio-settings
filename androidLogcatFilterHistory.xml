@@ -1,14 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.zing.zalo " />
+    <option name="mostRecentlyUsed" value="package:mine tag:DefaultDLNavigator" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:DefaultDLNavigator" />
+        <option value="package:mine TAG:De" />
+        <option value="package:mine onCrea" />
         <option value="package:com.zing.zalo " />
         <option value="package:mine fata" />
         <option value="package:mine " />
         <option value="package:mine onCreateView" />
         <option value="package:mine tag:onC" />
-        <option value="package:mine onCrea" />
         <option value="package:mine tag:SELECTION" />
         <option value="package:mine tag:ConfigMgr " />
         <option value="package:mine onCreate" />
@@ -21,8 +23,6 @@
         <option value="package:mine tag:aasdf" />
         <option value="package:mine tag:FormHostMediator OnServiceSelected" />
         <option value="package:mine tag:FormHostMediator " />
-        <option value="package:mine running" />
-        <option value="package:mine tag:FormHostMediator" />
       </list>
     </option>
   </component>

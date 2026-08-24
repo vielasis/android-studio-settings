@@ -129,10 +129,10 @@
       <additional sdk="android-36" />
     </jdk>
     <jdk version="2">
-      <name value="17" />
+      <name value="temurin-17" />
       <type value="JavaSDK" />
-      <version value="Eclipse Temurin 17.0.19" />
-      <homePath value="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home" />
+      <version value="Eclipse Temurin 17.0.20 - aarch64" />
+      <homePath value="$USER_HOME$/.local/share/mise/installs/java/temurin-17" />
       <roots>
         <annotationsPath>
           <root type="composite">
@@ -141,76 +141,76 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.base" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.compiler" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.datatransfer" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.desktop" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.instrument" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.logging" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.management" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.management.rmi" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.naming" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.net.http" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.prefs" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.rmi" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.scripting" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.se" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.security.jgss" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.security.sasl" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.smartcardio" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.sql" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.sql.rowset" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.transaction.xa" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.xml" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.xml.crypto" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.accessibility" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.attach" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.charsets" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.compiler" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.crypto.ec" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.dynalink" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.editpad" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.hotspot.agent" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.httpserver" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.incubator.foreign" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.incubator.vector" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.internal.ed" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.internal.jvmstat" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.internal.le" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.internal.opt" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.internal.vm.ci" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.internal.vm.compiler" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.internal.vm.compiler.management" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jartool" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.javadoc" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jcmd" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jconsole" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jdeps" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jdi" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jdwp.agent" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jfr" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jlink" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jpackage" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jshell" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jsobject" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jstatd" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.localedata" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.management" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.management.agent" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.management.jfr" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.naming.dns" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.naming.rmi" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.net" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.nio.mapmode" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.random" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.sctp" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.security.auth" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.security.jgss" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.unsupported" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.unsupported.desktop" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.xml.dom" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.zipfs" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.base" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.datatransfer" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.desktop" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.instrument" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.logging" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.management" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.management.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.naming" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.net.http" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.prefs" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.scripting" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.se" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.security.jgss" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.security.sasl" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.smartcardio" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.sql" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.sql.rowset" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.transaction.xa" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.xml" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/java.xml.crypto" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.accessibility" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.attach" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.charsets" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.dynalink" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.editpad" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.httpserver" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.incubator.foreign" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.incubator.vector" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.internal.ed" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.internal.le" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.internal.opt" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.jartool" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.javadoc" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.jcmd" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.jconsole" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.jdeps" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.jdi" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.jfr" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.jlink" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.jpackage" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.jshell" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.jsobject" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.jstatd" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.localedata" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.management" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.management.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.management.jfr" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.naming.dns" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.net" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.nio.mapmode" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.random" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.sctp" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.security.auth" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.security.jgss" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.unsupported" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.xml.dom" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-17!/jdk.zipfs" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -218,76 +218,76 @@
         </javadocPath>
         <sourcePath>
           <root type="composite">
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.se" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.jdi" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.jfr" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.net" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.rmi" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.sql" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.xml" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.jcmd" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.sctp" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.base" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.jdeps" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.jlink" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.zipfs" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.prefs" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.attach" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.jshell" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.jstatd" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.random" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.naming" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.editpad" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.jartool" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.javadoc" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.xml.dom" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.desktop" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.logging" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.charsets" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.compiler" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.dynalink" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.jconsole" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.jpackage" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.jsobject" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.compiler" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.net.http" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.crypto.ec" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.scripting" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.httpserver" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.jdwp.agent" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.localedata" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.management" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.naming.dns" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.naming.rmi" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.instrument" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.management" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.sql.rowset" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.xml.crypto" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.internal.ed" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.internal.le" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.nio.mapmode" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.unsupported" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.smartcardio" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.internal.opt" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.datatransfer" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.accessibility" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.hotspot.agent" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.security.auth" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.security.jgss" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.security.jgss" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.security.sasl" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.management.jfr" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.management.rmi" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.transaction.xa" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.incubator.vector" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.management.agent" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.incubator.foreign" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
-            <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.se" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.jdi" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.net" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.sql" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.xml" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.jcmd" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.sctp" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.base" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.jdeps" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.jlink" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.zipfs" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.prefs" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.attach" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.jshell" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.jstatd" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.random" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.naming" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.editpad" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.jartool" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.javadoc" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.xml.dom" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.logging" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.charsets" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.dynalink" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.jconsole" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.jpackage" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.jsobject" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.net.http" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.crypto.ec" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.scripting" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.httpserver" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.jdwp.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.localedata" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.management" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.naming.dns" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.naming.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.instrument" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.management" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.sql.rowset" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.xml.crypto" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.internal.ed" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.internal.le" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.nio.mapmode" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.unsupported" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.smartcardio" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.internal.opt" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.datatransfer" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.accessibility" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.hotspot.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.security.auth" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.security.sasl" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.management.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.management.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/java.transaction.xa" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.incubator.vector" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.management.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.incubator.foreign" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-17/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
           </root>
         </sourcePath>
       </roots>
@@ -509,6 +509,195 @@
         </javadocPath>
         <sourcePath>
           <root type="composite" />
+        </sourcePath>
+      </roots>
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 35, extension level 13 Platform" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-35/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-35/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-35/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-35" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional sdk="android-35" />
+    </jdk>
+    <jdk version="2">
+      <name value="temurin-21" />
+      <type value="JavaSDK" />
+      <version value="Eclipse Temurin 21.0.11 - aarch64" />
+      <homePath value="$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.base" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.datatransfer" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.desktop" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.instrument" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.logging" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.management" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.management.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.naming" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.net.http" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.prefs" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.scripting" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.se" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.security.jgss" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.security.sasl" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.smartcardio" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.sql" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.sql.rowset" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.transaction.xa" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.xml" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/java.xml.crypto" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.accessibility" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.attach" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.charsets" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.dynalink" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.editpad" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.httpserver" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.incubator.vector" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.internal.ed" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.internal.le" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.internal.opt" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.jartool" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.javadoc" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.jcmd" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.jconsole" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.jdeps" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.jdi" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.jfr" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.jlink" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.jpackage" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.jshell" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.jsobject" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.jstatd" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.localedata" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.management" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.management.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.management.jfr" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.naming.dns" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.net" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.nio.mapmode" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.random" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.sctp" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.security.auth" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.security.jgss" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.unsupported" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.xml.dom" type="simple" />
+            <root url="jrt://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.se" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.jdi" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.net" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.sql" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.xml" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.jcmd" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.sctp" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.base" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.jdeps" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.jlink" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.zipfs" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.prefs" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.attach" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.jshell" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.jstatd" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.random" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.naming" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.editpad" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.jartool" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.javadoc" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.xml.dom" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.logging" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.charsets" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.dynalink" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.jconsole" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.jpackage" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.jsobject" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.net.http" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.crypto.ec" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.scripting" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.httpserver" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.jdwp.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.localedata" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.management" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.naming.dns" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.naming.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.instrument" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.management" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.sql.rowset" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.xml.crypto" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.internal.ed" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.internal.le" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.nio.mapmode" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.unsupported" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.smartcardio" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.internal.opt" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.datatransfer" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.accessibility" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.hotspot.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.security.auth" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.security.sasl" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.management.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.management.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/java.transaction.xa" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.incubator.vector" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.management.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/mise/installs/java/temurin-21.0.11+10.0.LTS/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
+          </root>
         </sourcePath>
       </roots>
     </jdk>
