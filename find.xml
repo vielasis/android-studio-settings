@@ -25,7 +25,6 @@
     <mask>*Service.kt</mask>
     <mask>*.gradle.**</mask>
     <mask>*Ext.kt</mask>
-    <mask>*.kts</mask>
     <mask>*Service*.kt</mask>
     <mask>AndroidManifest.xml</mask>
     <mask>*.gradle.*</mask>
@@ -33,6 +32,7 @@
     <mask>strings*.xml</mask>
     <mask>*.xml</mask>
     <mask>*VM.kt</mask>
+    <mask>*.kts</mask>
     <mask>*.kt</mask>
   </component>
 </application>
