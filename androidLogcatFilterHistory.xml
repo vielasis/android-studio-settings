@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:TransactionsFragment" />
+    <option name="mostRecentlyUsed" value="package:mine tag:TransactionsFragment " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:TransactionsFragment " />
+        <option value="package:mine onCreate" />
         <option value="package:mine tag:TransactionsFragment" />
         <option value="package:mine tag:" />
         <option value="package:mine " />
@@ -16,13 +18,11 @@
         <option value="package:mine tag:onC" />
         <option value="package:mine tag:SELECTION" />
         <option value="package:mine tag:ConfigMgr " />
-        <option value="package:mine onCreate" />
         <option value="package:mine SELECTION" />
         <option value="package:mine log" />
         <option value="package:mine tag:ConfigMgr" />
         <option value="package:mine tag:DashAF " />
         <option value="package:mine AppsFlyer_6.17.3" />
-        <option value="package:mine tag:AppsFlyer_6.17.3" />
       </list>
     </option>
   </component>
