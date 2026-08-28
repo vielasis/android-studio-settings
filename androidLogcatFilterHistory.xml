@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:TopupScanQR" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:TopupScanQR" />
         <option value="package:mine " />
         <option value="package:mine fatal" />
         <option value="package:mine tag:TransactionsFragment " />
@@ -21,7 +23,6 @@
         <option value="package:mine log" />
         <option value="package:mine tag:ConfigMgr" />
         <option value="package:mine tag:DashAF " />
-        <option value="package:mine AppsFlyer_6.17.3" />
       </list>
     </option>
   </component>
