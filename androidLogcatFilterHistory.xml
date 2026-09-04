@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreate" />
         <option value="package:mine " />
         <option value="package:mine fatal" />
-        <option value="package:mine onCreate" />
         <option value="package:mine tag:TopupScanQR" />
         <option value="package:mine tag:TransactionsFragment " />
         <option value="package:mine tag:TransactionsFragment" />
