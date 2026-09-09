@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine LOADSTA" />
+    <option name="mostRecentlyUsed" value="package:mine Data stale" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Data stale" />
         <option value="package:mine LOADSTA" />
         <option value="package:mine error" />
         <option value="package:mine onCreat" />
@@ -22,7 +23,6 @@
         <option value="package:mine onCreateView" />
         <option value="package:mine tag:onC" />
         <option value="package:mine tag:SELECTION" />
-        <option value="package:mine tag:ConfigMgr " />
       </list>
     </option>
   </component>
