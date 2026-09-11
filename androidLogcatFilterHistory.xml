@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine TopupExport" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine TopupExport" />
         <option value="package:mine " />
         <option value="package:mine lastRemitDtim" />
         <option value="package:mine getFocusedRect" />
@@ -21,7 +23,6 @@
         <option value="package:mine TAG:De" />
         <option value="package:mine onCrea" />
         <option value="package:com.zing.zalo " />
-        <option value="package:mine onCreateView" />
       </list>
     </option>
   </component>
