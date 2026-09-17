@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine remote" />
+    <option name="mostRecentlyUsed" value="package:com.SingTel.mWallet.dev deepli" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.SingTel.mWallet.dev deepli" />
+        <option value="package:com.SingTel.mWallet.dev " />
         <option value="package:mine remote" />
         <option value="package:mine onCr" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:mine fata" />
         <option value="package:mine tag:TopupScanQR" />
         <option value="package:mine tag:TransactionsFragment " />
-        <option value="package:mine tag:TransactionsFragment" />
-        <option value="package:mine tag:" />
       </list>
     </option>
   </component>
