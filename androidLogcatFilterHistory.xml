@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine act" />
+    <option name="mostRecentlyUsed" value="package:mine fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fatal" />
         <option value="package:mine act" />
         <option value="package:mine fetch" />
         <option value="package:mine ConfigMgr" />
@@ -21,7 +22,6 @@
         <option value="package:mine LOADSTA" />
         <option value="package:mine error" />
         <option value="package:mine onCreat" />
-        <option value="package:mine fatal" />
         <option value="package:mine tag:MYINFO " />
       </list>
     </option>
