@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -29,9 +30,9 @@
     <mask>*.gradle.*</mask>
     <mask>*.pro</mask>
     <mask>strings*.xml</mask>
-    <mask>*.xml</mask>
     <mask>*VM.kt</mask>
     <mask>*.kts</mask>
     <mask>*.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
