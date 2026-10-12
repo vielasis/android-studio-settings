@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine onCreat" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreat" />
+        <option value="package:mine fata" />
         <option value="package:mine " />
         <option value="package:mine fat" />
         <option value="package:mine onCre" />
@@ -20,8 +23,6 @@
         <option value="package:mine lastRemitDtim" />
         <option value="package:mine getFocusedRect" />
         <option value="package:mine Data stale" />
-        <option value="package:mine LOADSTA" />
-        <option value="package:mine error" />
       </list>
     </option>
   </component>
