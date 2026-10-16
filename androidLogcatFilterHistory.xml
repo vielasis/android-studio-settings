@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fatal" />
+    <option name="mostRecentlyUsed" value="package:mine tag:NAV" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:NAV" />
         <option value="package:mine fatal" />
         <option value="package:mine onCreate" />
         <option value="package:mine tag:SimpleAccordion" />
@@ -22,7 +23,6 @@
         <option value="package:mine remote" />
         <option value="package:mine onCr" />
         <option value="package:mine onCrea" />
-        <option value="package:mine DocsIntent" />
       </list>
     </option>
   </component>
