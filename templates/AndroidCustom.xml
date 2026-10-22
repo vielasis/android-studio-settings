@@ -100,4 +100,10 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="lsl" value="lifecycleScope.launch {&#10;    repeatOnLifecycle(androidx.lifecycle.Lifecycle.State.STARTED) {&#10;        &#10;    }&#10;}" description="LifecycleScope.Launch" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ANDROID_KOTLIN_EXPRESSION" value="true" />
+      <option name="ANDROID_KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
