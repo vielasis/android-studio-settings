@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine getAdBa" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine getAdBa" />
         <option value="package:mine " />
         <option value="package:mine fata" />
         <option value="package:mine fatal" />
@@ -21,7 +23,6 @@
         <option value="package:com.SingTel.mWallet.dev " />
         <option value="package:mine remote" />
         <option value="package:mine onCr" />
-        <option value="package:mine onCrea" />
       </list>
     </option>
   </component>
