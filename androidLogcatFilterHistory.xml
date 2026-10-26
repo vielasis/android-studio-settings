@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:NavABHelper " />
+    <option name="mostRecentlyUsed" value="package:mine onCreat" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreat" />
+        <option value="package:mine Deeplink" />
         <option value="package:mine tag:NavABHelper " />
         <option value="package:mine fata" />
         <option value="package:mine getAdBa" />
@@ -13,7 +15,6 @@
         <option value="package:mine tag:SimpleAccordion" />
         <option value="package:mine tag:SimpleAcc" />
         <option value="package:mine tag:SimpleA" />
-        <option value="package:mine onCreat" />
         <option value="package:mine fat" />
         <option value="package:mine onCre" />
         <option value="package:mine act" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:TopupExportWorker " />
         <option value="package:com.SingTel.mWallet.dev deepli" />
         <option value="package:com.SingTel.mWallet.dev " />
-        <option value="package:mine remote" />
       </list>
     </option>
   </component>
