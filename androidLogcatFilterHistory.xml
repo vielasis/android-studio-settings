@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine NAVNAV" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine NAVNAV" />
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine fata" />
         <option value="package:mine onCreat" />
@@ -20,8 +23,6 @@
         <option value="package:mine fetch" />
         <option value="package:mine ConfigMgr" />
         <option value="package:mine tag:TopupExportWorker " />
-        <option value="package:com.SingTel.mWallet.dev deepli" />
-        <option value="package:com.SingTel.mWallet.dev " />
       </list>
     </option>
   </component>
