@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:TANGKA " />
+    <option name="mostRecentlyUsed" value="package:mine tag:KAKANA" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:KAKANA" />
+        <option value="package:mine onCreate" />
         <option value="package:mine tag:TANGKA " />
         <option value="package:mine e" />
         <option value="package:mine tag:TANGKA" />
@@ -17,12 +19,10 @@
         <option value="package:mine tag:NavABHelper " />
         <option value="package:mine getAdBa" />
         <option value="package:mine tag:NAV" />
-        <option value="package:mine onCreate" />
         <option value="package:mine tag:SimpleAccordion" />
         <option value="package:mine tag:SimpleAcc" />
         <option value="package:mine tag:SimpleA" />
         <option value="package:mine fat" />
-        <option value="package:mine onCre" />
       </list>
     </option>
   </component>
