@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine fata" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fata" />
         <option value="package:mine " />
         <option value="package:mine fatal" />
         <option value="package:mine tag:Scroll" />
@@ -13,7 +15,6 @@
         <option value="package:mine tag:" />
         <option value="package:mine NAVNAV" />
         <option value="package:mine" />
-        <option value="package:mine fata" />
         <option value="package:mine onCreat" />
         <option value="package:mine Deeplink" />
         <option value="package:mine tag:NavABHelper " />
