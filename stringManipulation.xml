@@ -16,9 +16,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToUpperCaseAction" />
-        <option name="description" value="To Upper Case" />
-        <option name="textWithMnemonic" value="To UPPER CASE" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToCamelCaseAction" />
+        <option name="description" value="To camelCase" />
+        <option name="textWithMnemonic" value="To camelCase" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
