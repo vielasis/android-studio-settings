@@ -33,5 +33,7 @@
     <mask>*.kts</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>bene_*.xml</mask>
+    <mask>bank_*.xml</mask>
   </component>
 </application>
