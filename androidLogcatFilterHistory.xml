@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine WAPR" />
+    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreate" />
         <option value="package:mine WAPR" />
         <option value="package:mine tag:EsimLandingFragment" />
         <option value="package:mine " />
         <option value="package:mine fatal" />
         <option value="package:mine recy" />
-        <option value="package:mine onCreate" />
         <option value="package:mine onCrea" />
         <option value="package:mine tag: AASD" />
         <option value="package:mine fata" />
