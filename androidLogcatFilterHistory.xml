@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:NOF_SDK " />
+    <option name="mostRecentlyUsed" value="package:mine onCreat" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreat" />
         <option value="package:mine tag:NOF_SDK " />
         <option value="package:mine debit" />
         <option value="package:mine RemitVM" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:KAKANA" />
         <option value="package:mine tag:TANGKA " />
         <option value="package:mine e" />
-        <option value="package:mine tag:TANGKA" />
       </list>
     </option>
   </component>
