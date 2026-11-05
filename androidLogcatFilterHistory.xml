@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
+    <option name="mostRecentlyUsed" value="package:com.SingTel.mWallet.dev tag:TILE" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.SingTel.mWallet.dev tag:TILE" />
         <option value="package:mine onCreate" />
         <option value="package:mine WAPR" />
         <option value="package:mine tag:EsimLandingFragment" />
@@ -22,7 +23,6 @@
         <option value="package:mine" />
         <option value="package:mine onCreat" />
         <option value="package:mine Deeplink" />
-        <option value="package:mine tag:NavABHelper " />
       </list>
     </option>
   </component>
