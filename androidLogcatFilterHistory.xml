@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fatal" />
         <option value="package:mine " />
         <option value="package:mine onCreat" />
         <option value="package:mine tag:NOF_SDK " />
@@ -13,7 +15,6 @@
         <option value="package:com.SingTel.mWallet.dev tag:TILE" />
         <option value="package:mine WAPR" />
         <option value="package:mine tag:EsimLandingFragment" />
-        <option value="package:mine fatal" />
         <option value="package:mine recy" />
         <option value="package:mine onCrea" />
         <option value="package:mine tag: AASD" />
